@@ -1,3 +1,8 @@
+[comment]: # (Compile this presentation with the command below)
+[comment]: # (mdslides presentation.md --include media)
+
+
+
 # How to explore ideas & beliefs
 
 1. Check your intentions
@@ -9,6 +14,7 @@
 7. Summarize & pause to think
 
 
+[comment]: # (!!!)
 
 # 1. Check your intentions
 
@@ -18,6 +24,8 @@
 * Be honest upfront!
 * Share the process & this page!
 
+
+[comment]: # (!!!)
 
 # 2. Build rapport
 
@@ -29,6 +37,7 @@
 * Show curiosity!
 
 
+[comment]: # (!!!)
 
 # 3. Find & confirm their claim
 
@@ -39,6 +48,8 @@
 * Skip if the claim is a “safety net”!
 
 
+[comment]: # (!!!)
+
 # 4. Clarify terms
 
 * “What do you mean when you say X?”
@@ -46,6 +57,7 @@
 * Identify & clarify words that are used in multiple ways
 
 
+[comment]: # (!!!)
 
 # 5. ID confidence
 
@@ -55,11 +67,15 @@
 * What could change their mind?
 
 
+[comment]: # (!!!)
+
 # 6. Explore reasons & reliability
 
 * If they learn their source is unreliable – would it change anything?
 * What else is propping up their belief?
 
+
+[comment]: # (!!!)
 
 # 7. Summarize & pause to think
 
