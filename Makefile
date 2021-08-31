@@ -7,7 +7,7 @@ slideshow: docs/index.html
 docs/index.html: docs.md
 
 docs/index.html:
-	mdslides docs.md --include media
+	mdslides docs.md --include dist
 	git checkout docs/CNAME
 
 install:

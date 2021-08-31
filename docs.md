@@ -1,10 +1,9 @@
 [comment]: # (Compile this presentation with the command below)
-[comment]: # (mdslides docs.md --include media)
+[comment]: # (mdslides docs.md --include dist)
 
 [comment]: # (THEME = white)
 
-
-[comment]: # (font-name: false)
+[comment]: # #(font-name: false)
 [comment]: # (controls: false)
 
 
