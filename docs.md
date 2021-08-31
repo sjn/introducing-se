@@ -3,12 +3,12 @@
 
 [comment]: # (THEME = white)
 
-[comment]: # #(font-name: false)
+[comment]: # (style: { font-family: "Montserrat"; } )
 [comment]: # (controls: false)
 
 
 
-## How to explore ideas & beliefs
+### How to explore ideas & beliefs
 
 1. Check your intentions
 2. Build rapport
@@ -21,7 +21,7 @@
 
 [comment]: # (!!!)
 
-## 1. Check your intentions
+### 1. Check your intentions
 
 * Do you want to learn or to teach?
 * Are you open to change your own mind?
@@ -32,7 +32,7 @@
 
 [comment]: # (!!!)
 
-## 2. Build rapport
+### 2. Build rapport
 
 * Find a good tone, and tend it!
 * Show that you are listening.
@@ -44,7 +44,7 @@
 
 [comment]: # (!!!)
 
-## 3. Find & confirm their claim
+### 3. Find & confirm their claim
 
 * Good: Claims that are specific & clear
 * Good: Claims that are foundational
@@ -55,7 +55,7 @@
 
 [comment]: # (!!!)
 
-## 4. Clarify terms
+### 4. Clarify terms
 
 * “What do you mean when you say X?”
 * Repeat in your own words what you heard & ask if you understood it
@@ -64,7 +64,7 @@
 
 [comment]: # (!!!)
 
-## 5. ID confidence
+### 5. ID confidence
 
 * “How confident are you that your claim is true?” 0% – 100%
 * “What would move you up 1%?”
@@ -74,7 +74,7 @@
 
 [comment]: # (!!!)
 
-## 6. Explore reasons & reliability
+### 6. Explore reasons & reliability
 
 * If they learn their source is unreliable – would it change anything?
 * What else is propping up their belief?
@@ -82,7 +82,7 @@
 
 [comment]: # (!!!)
 
-## 7. Summarize & pause to think
+### 7. Summarize & pause to think
 
 * Try to end with aporia – wonder
 * Success is when everyone is happy to have had the conversation
