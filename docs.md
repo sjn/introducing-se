@@ -14,7 +14,7 @@
 
 1. [Check your intentions](#/1)
 2. [Build rapport](#/2)
-3. [Find & confirm their claim](#/3)
+3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
 5. [ID Confidence](#/5)
 6. [Explore reasons & reliability](#/6)
@@ -46,7 +46,7 @@
 
 [comment]: # (!!!)
 
-### 3. Find & confirm their claim
+### 3. Find & confirm a claim
 
 * Good: Claims that are specific & clear
 * Good: Claims that are foundational
