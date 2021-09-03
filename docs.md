@@ -3,10 +3,9 @@
 
 [comment]: # (THEME = streetepi)
 
-[comment]: # (width: "90%")
-[comment]: # (height: "90%")
+[comment]: # (width: "80%")
+[comment]: # (height: "80%")
 [comment]: # (help: true)
-[comment]: # (style: { font-family: "Montserrat"; } )
 [comment]: # (controls: true)
 
 

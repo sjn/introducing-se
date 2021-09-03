@@ -1,13 +1,15 @@
 
+TARGETS=docs/index.html dist/theme/streetepi.css
 MDSLIDES=${HOME}/.local/bin/mdslides
 
 all: slideshow
 
-slideshow: docs/index.html
+slideshow: docs/index.html docs/dist/theme/streetepi.css
 
 docs/index.html: docs.md
+docs/dist/theme/streetepi.css: dist/theme/streetepi.css
 
-docs/index.html:
+$(TARGETS):
 	${MDSLIDES} docs.md --include dist
 	git checkout docs/CNAME
 
