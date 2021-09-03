@@ -3,20 +3,21 @@
 
 [comment]: # (THEME = white)
 
+[comment]: # (hash: true)
 [comment]: # (style: { font-family: "Montserrat"; } )
-[comment]: # (controls: false)
+[comment]: # (controls: true)
 
 
 
 ### How to explore ideas & beliefs
 
-1. Check your intentions
-2. Build rapport
-3. Find & confirm their claim
-4. Clarify terms
-5. ID Confidence
-6. Explore reasons & reliability
-7. Summarize & pause to think
+1. [Check your intentions](#/1)
+2. [Build rapport](#/2)
+3. [Find & confirm their claim](#/3)
+4. [Clarify terms](#/4)
+5. [ID Confidence](#/5)
+6. [Explore reasons & reliability](#/6)
+7. [Summarize & pause to think](#/7)
 
 
 [comment]: # (!!!)
