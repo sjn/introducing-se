@@ -1,9 +1,11 @@
 [comment]: # (Compile this presentation with the command below)
 [comment]: # (mdslides docs.md --include dist)
 
-[comment]: # (THEME = white)
+[comment]: # (THEME = streetepi)
 
-[comment]: # (hash: true)
+[comment]: # (width: "90%")
+[comment]: # (height: "90%")
+[comment]: # (help: true)
 [comment]: # (style: { font-family: "Montserrat"; } )
 [comment]: # (controls: true)
 
