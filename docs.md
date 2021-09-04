@@ -4,9 +4,12 @@
 [comment]: # (THEME = streetepistemology)
 
 [comment]: # (minScale: 0.2)
-[comment]: # (maxScale: 6.0)
+[comment]: # (maxScale: 4.0)
 [comment]: # (controls: true)
-[comment]: # (progress: false)
+[comment]: # (width: "80%")
+[comment]: # (height: "80%")
+[comment]: # (help: true)
+
 
 
 ### How to explore ideas & beliefs
