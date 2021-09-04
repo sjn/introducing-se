@@ -1,10 +1,10 @@
 
-TARGETS=docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/introducing-se-qr.png docs/dist/media/share-this.png
+TARGETS=docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/share-this.png
 MDSLIDES=${HOME}/.local/bin/mdslides
 
 all: slideshow
 
-slideshow: docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/introducing-se-qr.png docs/dist/media/street-epistemology-logo.png dist/media/introducing-se-qr-clean.png
+slideshow: docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/street-epistemology-logo.png
 
 docs/index.html: docs.md
 docs/dist/theme/streetepistemology.css: dist/theme/streetepistemology.css
