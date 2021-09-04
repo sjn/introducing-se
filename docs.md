@@ -11,7 +11,6 @@
 [comment]: # (help: true)
 
 
-
 ### How to explore ideas & beliefs
 
 1. [Check your intentions](#/1)
@@ -21,29 +20,6 @@
 5. [ID Confidence](#/5)
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
-
-
-[comment]: # (|||)
-
-### Introducing.SE
-
-[![QR Code image to introducing.se](dist/media/introducing-se-qr.png)](https://introducing.se)
-
-
-#### Street Epistemology
-
-[![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-
-
-[comment]: # (|||)
-
-### About
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> and content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve J. Nilsen</a> is licensed under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
-
-#### Contribute
-
-This site is on [Github](https://github.com/sjn/introducing-se/)!
 
 
 [comment]: # (!!!)
@@ -115,4 +91,30 @@ This site is on [Github](https://github.com/sjn/introducing-se/)!
 * If you can, offer to continue the chat later
 
 
+[comment]: # (!!!)
 
+[![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
+#### Introducing.SE
+
+[![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
+#### Street Epistemology
+
+
+---
+### About
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> and content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve J. Nilsen</a> is licensed under
+Creative Commons <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+### Contribute
+
+This site is on [Github](https://github.com/sjn/introducing-se/)!
+
+
+### Discuss
+
+Street Epistemology on [Discord](https://discord.gg/sKap3zM)
+
+
+[comment]: # (|||)
