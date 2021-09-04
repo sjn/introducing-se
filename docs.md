@@ -1,13 +1,12 @@
 [comment]: # (Compile this presentation with the command below)
 [comment]: # (mdslides docs.md --include dist)
 
-[comment]: # (THEME = streetepi)
+[comment]: # (THEME = streetepistemology)
 
-[comment]: # (width: "80%")
-[comment]: # (height: "80%")
-[comment]: # (help: true)
+[comment]: # (minScale: 0.2)
+[comment]: # (maxScale: 6.0)
 [comment]: # (controls: true)
-
+[comment]: # (progress: false)
 
 
 ### How to explore ideas & beliefs
@@ -19,6 +18,26 @@
 5. [ID Confidence](#/5)
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
+
+
+[comment]: # (|||)
+
+### Street Epistemology
+
+![Street Epistemology Logo](media/streetepistemology.png)
+
+### introducing.se
+
+![QR Code to introducing.se](media/introducing-se-qr-code.png)
+
+
+[comment]: # (|||)
+
+### About
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">This <a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing SE</a> site and content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve J. Nilsen</a> is licensed under Creative Commons <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+Fork it on [github](https://github.com/sjn/introducing-se/)!
 
 
 [comment]: # (!!!)
@@ -36,11 +55,9 @@
 
 ### 2. Build rapport
 
-* Find a good tone, and tend it!
-* Show that you are listening.
-* Ask for clarification
-* Repeat what you hear
-* Share what you have in common.
+* Find a good tone, and tend to it!
+* Show that you are interested & listening
+* Share what you have in common
 * Show curiosity!
 
 
@@ -52,7 +69,7 @@
 * Good: Claims that are foundational
 * Bad: Does “everyone” agree?
 * Ask if they want to explore with you!
-* Skip if the claim is a “safety net”!
+* Stop if the claim is a “safety net”!
 
 
 [comment]: # (!!!)
@@ -60,15 +77,16 @@
 ### 4. Clarify terms
 
 * “What do you mean when you say X?”
-* Repeat in your own words what you heard & ask if you understood it
-* Identify & clarify words that are used in multiple ways
+* Repeat what you hear
+* Ask if you understand correctly
+* Identify & clarify words that may confuse
 
 
 [comment]: # (!!!)
 
 ### 5. ID confidence
 
-* “How confident are you that your claim is true?” 0% – 100%
+* “How confident are you that your claim is true?” 0–100%
 * “What would move you up 1%?”
 * “What would move you down?”
 * What could change their mind?
@@ -87,6 +105,8 @@
 ### 7. Summarize & pause to think
 
 * Try to end with aporia – wonder
-* Success is when everyone is happy to have had the conversation
+* Success: When all are happy to have had the conversation
 * If you can, offer to continue the chat later
+
+
 
