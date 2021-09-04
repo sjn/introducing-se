@@ -1,13 +1,13 @@
 
-TARGETS=docs/index.html dist/theme/streetepi.css
+TARGETS=docs/index.html docs/dist/theme/streetepistemology.css
 MDSLIDES=${HOME}/.local/bin/mdslides
 
 all: slideshow
 
-slideshow: docs/index.html docs/dist/theme/streetepi.css
+slideshow: docs/index.html docs/dist/theme/streetepistemology.css
 
 docs/index.html: docs.md
-docs/dist/theme/streetepi.css: dist/theme/streetepi.css
+docs/dist/theme/streetepistemology.css: dist/theme/streetepistemology.css
 
 $(TARGETS):
 	${MDSLIDES} docs.md --include dist

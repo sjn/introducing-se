@@ -22,13 +22,13 @@
 
 [comment]: # (|||)
 
-### Street Epistemology
+#### Street Epistemology
 
-![Street Epistemology Logo](media/streetepistemology.png)
+![Street Epistemology Logo](dist/media/street-epistemology-logo.png)
 
-### introducing.se
+#### Introducing.SE
 
-![QR Code to introducing.se](media/introducing-se-qr-code.png)
+![QR Code image to introducing.se](dist/media/introducing-se-qr.png)
 
 
 [comment]: # (|||)
