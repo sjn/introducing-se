@@ -1,7 +1,10 @@
 # Introducing Street Epistemology
 
 This site gives a very short introduction to Street Epistemology, in the
-form of a slideshow and accompanying business cards.
+form of a slideshow and accompanying business cards to give away.
+
+Please check out [introducing.se](https://introucing.se) to see the site
+in full. Best viewed on a mobile phone!
 
 
 # Dependencies and acknowledgments
@@ -28,6 +31,7 @@ https://pages.github.com
 
 # Contributors
 
-* Jared Elgvin
-* Erlend Hove
-* Salve J. Nilsen
+* Elgvin, Jared
+* Hove, Erlend
+* Magnabosco, Anthony
+* Nilsen, Salve J.

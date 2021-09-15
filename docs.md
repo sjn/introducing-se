@@ -21,10 +21,21 @@
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
 
+(Swipe right or down)
+
+
+[comment]: # (|||)
+
+### What is Street Epistemology?
+
+* A way to help you have better conversations about difficult topics
+* A set of conversational tools to help you explore ideas and beliefs
+* A community of people who practice this to have better conversations
+
 
 [comment]: # (!!!)
 
-### 1. Check your intentions
+### 1. Set your goals
 
 * Do you want to learn or to teach?
 * Are you open to change your own mind?
@@ -68,8 +79,8 @@
 
 ### 5. ID confidence
 
-* “How confident are you that your claim is true?” 0–100%
-* “What would move you up 1%?”
+* “How confident are you your claim is true?” 0–100%
+* “What would move you up just a few %?”
 * “What would move you down?”
 * What could change their mind?
 
@@ -78,7 +89,10 @@
 
 ### 6. Explore reasons & reliability
 
-* If they learn their source is unreliable – would it change anything?
+* What reasons did they use to arrive at their belief?
+* Assess the quality of these reasons
+* What tests can we use to determine good reasons?
+* If a reason is unreliable – would it change anything?
 * What else is propping up their belief?
 
 
@@ -86,9 +100,10 @@
 
 ### 7. Summarize & pause to think
 
-* Try to end with aporia – wonder
-* Success: When all are happy to have had the conversation
+* Try to end with aporia –wonder
+* Success: When everyone is happy to have had the conversation
 * If you can, offer to continue the chat later
+* Give them the [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
 
 
 [comment]: # (!!!)
@@ -110,9 +125,9 @@
 This site is on [Github](https://github.com/sjn/introducing-se/)!
 
 
-### Discuss
+### Join us
 
-Street Epistemology on [Discord](https://discord.gg/sKap3zM)
+Street Epistemology community on [Discord](https://discord.gg/sKap3zM)
 
 
 [comment]: # (|||)

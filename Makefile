@@ -18,7 +18,10 @@ $(TARGETS):
 	${MDSLIDES} docs.md --include dist
 	git checkout docs/CNAME
 
-install: install-apt install-qrencode
+install: install-apt install-qrencode install-mdslides
+
+
+install-mdslides:
 	pip3 install git+https://gitlab.com/da_doomer/markdown-slides.git
 
 install-apt:
