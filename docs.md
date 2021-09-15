@@ -13,7 +13,7 @@
 
 ### How to explore ideas & beliefs
 
-1. [Check your intentions](#/1)
+1. [Set your goals](#/1)
 2. [Build rapport](#/2)
 3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
@@ -91,8 +91,8 @@
 * What reasons did they use to arrive at their belief?
 * Assess their quality
 * What methods can we use to determine a reason is sound?
-* If this method is unreliable – would it change anything?
-* What else is propping up their belief?
+* If this method is unreliable – what would change?
+* What else props up their belief?
 
 
 [comment]: # (!!!)
