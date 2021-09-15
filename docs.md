@@ -35,8 +35,8 @@
 
 ### 1. Set your goals
 
-* Do you want to learn or to teach?
-* Are you open to change your own mind?
+* Do you want to learn, teach or empathize?
+* Are you open to changing your own mind?
 * Don’t use clever questions to “trap”
 * Be honest upfront
 * [Share](#/8) the process & this page
@@ -46,11 +46,11 @@
 
 ### 2. Build rapport
 
-* Find a good tone & maintain it
+* Find a positive tone & maintain it
 * Show that you are interested & listening
 * Share what you have in common
 * Show curiosity
-* Don't offer facts unless they ask
+* Don't offer facts unless asked
 
 
 [comment]: # (!!!)
@@ -107,12 +107,10 @@
 
 [comment]: # (!!!)
 
-[![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
 #### Introducing.SE
-
+[![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-#### Street Epistemology
-
+##### Street Epistemology
 
 ---
 ### About
@@ -126,7 +124,7 @@ Site source code is on [Github](https://github.com/sjn/introducing-se/)
 
 ### Join us
 
-The SE community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
+The Street Epistemology community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
 
 
 [comment]: # (|||)
