@@ -21,10 +21,7 @@
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
 
-(Swipe right or down)
-
-
-[comment]: # (|||)
+[comment]: # (||| data-background-size="60%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="0% 100%" data-background-opacity="0.2")
 
 ### What is Street Epistemology?
 
@@ -103,7 +100,7 @@
 * Try to end with aporia –wonder
 * Success: When everyone is happy to have had the conversation
 * If you can, offer to continue the chat later
-* Give them the [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
+* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
 
 
 [comment]: # (!!!)
@@ -122,12 +119,12 @@
 
 ### Contribute
 
-This site is on [Github](https://github.com/sjn/introducing-se/)!
+Site source code is on [Github](https://github.com/sjn/introducing-se/)
 
 
 ### Join us
 
-Street Epistemology community on [Discord](https://discord.gg/sKap3zM)
+The SE community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
 
 
 [comment]: # (|||)
