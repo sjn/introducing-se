@@ -25,9 +25,10 @@
 
 ### What is Street Epistemology?
 
-* A way to help you have better conversations about difficult topics
-* A set of conversational tools to help you explore ideas and beliefs
-* A community of people who practice this to have better conversations
+* Among friends, «SE» is...
+* A way to help us have better conversations about difficult topics
+* A set of conversational tools to help explore ideas and beliefs
+* A community of people who practice SE in a friendly setting
 
 
 [comment]: # (!!!)
@@ -36,19 +37,20 @@
 
 * Do you want to learn or to teach?
 * Are you open to change your own mind?
-* Don’t make clever question “traps”
-* Be honest upfront!
-* Share the process & this page!
+* Don’t use clever questions to “trap”
+* Be honest upfront
+* [Share](#/8) the process & this page
 
 
 [comment]: # (!!!)
 
 ### 2. Build rapport
 
-* Find a good tone, and tend to it!
+* Find a good tone & maintain it
 * Show that you are interested & listening
 * Share what you have in common
-* Show curiosity!
+* Show curiosity
+* Don't offer facts unless they ask
 
 
 [comment]: # (!!!)
@@ -58,8 +60,8 @@
 * Good: Claims that are specific & clear
 * Good: Claims that are foundational
 * Bad: Does “everyone” agree?
-* Ask if they want to explore with you!
-* Stop if the claim is a “safety net”!
+* Ask if they want to explore with you
+* ⚠️ Stop if the claim is a “safety net”!
 
 
 [comment]: # (!!!)
@@ -100,7 +102,7 @@
 * Try to end with aporia –wonder
 * Success: When everyone is happy to have had the conversation
 * If you can, offer to continue the chat later
-* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
+* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
 
 
 [comment]: # (!!!)
