@@ -21,11 +21,14 @@
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
 
-[comment]: # (||| data-background-size="60%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="0% 100%" data-background-opacity="0.2")
+\
+*Swipe to learn more*
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 ### What is Street Epistemology?
 
-* Among friends, «SE» is...
+* «SE» among friends, is...
 * A way to help us have better conversations about difficult topics
 * A set of conversational tools to help explore ideas and beliefs
 * A community of people who practice SE in a friendly setting
@@ -81,7 +84,7 @@
 * «How confident are you your claim is true?» 0–100%
 * «What would move you up just a few %?»
 * «What would move you down?»
-* What could change their mind?
+* «What could change your mind?»
 
 
 [comment]: # (!!!)
@@ -89,18 +92,17 @@
 ### 6. Explore reasons & reliability
 
 * What reasons did they use to arrive at their belief?
-* Assess their quality
+* Assess the quality of their reasons
 * What methods can we use to determine a reason is sound?
-* If this method is unreliable – what would change?
-* What else props up their belief?
+* If our methods are unreliable, would the assessment change?
 
 
 [comment]: # (!!!)
 
 ### 7. Summarize & pause to think
 
-* Try to end with aporia —wonder
-* Success: When everyone is happy to have had the conversation
+* Try to end with aporia — wonder
+* Success: When all are happy to have had the conversation
 * If you can, offer to continue the chat later
 * Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
 
