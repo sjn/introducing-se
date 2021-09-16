@@ -93,7 +93,7 @@
 
 * What reasons did they use to arrive at their belief?
 * Assess the quality of these reasons
-* What methods can we use to determine a reason is reliable & sound?
+* What methods can we use to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
 
@@ -109,11 +109,10 @@
 
 [comment]: # (!!!)
 
-##### Introducing.SE
+###### Introducing.SE
 [![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
-
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-##### Street Epistemology
+###### Street Epistemology
 
 
 [comment]: # (|||)
