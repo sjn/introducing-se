@@ -29,7 +29,7 @@
 ### What is Street Epistemology?
 
 * «SE» among friends, is...
-* A way to help us have better talks about difficult topics
+* A way to help us have better talks about hard topics
 * A conversational toolbox to help explore ideas and beliefs
 * A community of people who practice SE in a friendly setting
 
