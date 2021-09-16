@@ -29,8 +29,8 @@
 ### What is Street Epistemology?
 
 * «SE» among friends, is...
-* A way to help us have better conversations about difficult topics
-* A set of conversational tools to help explore ideas and beliefs
+* A way to help us have better talks about difficult topics
+* A conversational toolbox to help explore ideas and beliefs
 * A community of people who practice SE in a friendly setting
 
 
@@ -82,7 +82,7 @@
 ### 5. ID confidence
 
 * «How confident are you your claim is true?» 0–100%
-* «What would move you up just a few %?»
+* «What would move you up just a %?»
 * «What would move you down?»
 * «What could change your mind?»
 
@@ -93,7 +93,7 @@
 
 * What reasons did they use to arrive at their belief?
 * Assess the quality of these reasons
-* What methods can we use to determine a reason is sound?
+* What ways can we use to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
 
