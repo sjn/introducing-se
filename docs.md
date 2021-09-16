@@ -49,7 +49,7 @@
 
 ### 2. Build rapport
 
-* Find a positive tone & maintain it
+* Find a friendly tone & maintain it
 * Show that you are interested & listening
 * Share what you have in common
 * Show curiosity
