@@ -67,6 +67,14 @@
 * ⚠️  Stop if the claim is a «safety net»!
 
 
+[comment]: # (|||)
+
+A «safty net» is something that prevents
+an individual from doing harm to themselves
+or others – e.g. *«Jesus helped me become
+sober, and without him I'd proably die»*
+
+
 [comment]: # (!!!)
 
 ### 4. Clarify terms
