@@ -22,7 +22,7 @@
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe to learn more*
+*Swipe for more*
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -80,7 +80,7 @@ sober, and without him I'd proably die»*
 ### 4. Clarify terms
 
 * «What do you mean when you say X?»
-* Repeat what you hear
+* In your own words, repeat what you hear
 * Ask if you understand correctly
 * Identify & clarify words that may confuse
 
@@ -107,7 +107,7 @@ sober, and without him I'd proably die»*
 
 [comment]: # (!!!)
 
-### 7. Summarize & pause to think
+### 7. [Summarize & pause to think](#)
 
 * Try to end with aporia — wonder
 * Success: When all are happy to have had the conversation
@@ -117,10 +117,11 @@ sober, and without him I'd proably die»*
 
 [comment]: # (!!!)
 
-###### Introducing.SE
-[![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
 ###### Street Epistemology
+
+[![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
+###### Introducing.SE
 
 
 [comment]: # (|||)
