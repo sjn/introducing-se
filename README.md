@@ -32,6 +32,7 @@ https://pages.github.com
 # Contributors
 
 * Elgvin, Jared
+* Helgadottir, Anna
 * Hove, Erlend
 * Magnabosco, Anthony
 * Nilsen, Salve J.
