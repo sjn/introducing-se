@@ -104,6 +104,16 @@ sober, and without him I'd proably die»*
 * What ways can we use to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
+[comment]: # (|||)
+
+* The key goal is to explore the reliability of the methods we use when forming a belief.
+* «I learned this on a website I like»
+* «I like this website because they write things I agree with»
+
+\
+– *If a website only writes things you agree with, how do you know
+it always is truthful?*
+
 
 [comment]: # (!!!)
 
