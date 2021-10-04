@@ -44,6 +44,16 @@
 * Be honest upfront
 * [Share](#/8) the process & this page
 
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+Many people are uncomfortable with conversations
+that seem *scripted*.
+
+\
+A good way to avoid this is this is to focus on
+*technique rebuttal* instead of *topic rebuttal*
+— unless you are an expert in the topic at hand!
+
 
 [comment]: # (!!!)
 
@@ -54,6 +64,15 @@
 * Share what you have in common
 * Show curiosity
 * Don't offer facts unless asked
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+Working towards a friendly conversation is
+critical for success. This may require patience
+and several attempts before succeeding.
+
+\
+*Don't give up*!
 
 
 [comment]: # (!!!)
@@ -67,12 +86,14 @@
 * ⚠️  Stop if the claim is a «safety net»!
 
 
-[comment]: # (|||)
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-A «safty net» is something that prevents
-an individual from doing harm to themselves
-or others – e.g. *«Jesus helped me become
-sober, and without him I'd proably die»*
+In this context, a «safty net» is something
+that prevents an individual from doing harm
+to themselves or others
+
+\
+– *«Jesus helped me become sober, and without Him I will proably die»*
 
 
 [comment]: # (!!!)
@@ -84,6 +105,9 @@ sober, and without him I'd proably die»*
 * Ask if you understand correctly
 * Identify & clarify words that may confuse
 
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+
 
 [comment]: # (!!!)
 
@@ -93,6 +117,14 @@ sober, and without him I'd proably die»*
 * «What would move you up just a %?»
 * «What would move you down?»
 * «What could change your mind?»
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+Using confidence as a topic is a great way to
+explore the epistemology of their claim.
+
+\
+Think of some more questions that can help you with this!
 
 
 [comment]: # (!!!)
@@ -104,25 +136,40 @@ sober, and without him I'd proably die»*
 * What ways can we use to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
-[comment]: # (|||)
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-* The key goal is to explore the reliability of the methods we use when forming a belief.
-* «I learned this on a website I like»
-* «I like this website because they write things I agree with»
+*This is the key goal of Street Epistemology*.
+
+<br>
+
+* Explore the reliability of any methods used when forming a belief.
+* How > Why > What
+* How did we become so confident?
+* *«Let's go through the steps together»*
 
 \
-– *If a website only writes things you agree with, how do you know
-it always is truthful?*
+*«If a website only writes things I agree with, how can I know it always is truthful?»*
 
 
 [comment]: # (!!!)
 
-### 7. [Summarize & pause to think](#)
+### 7. Summarize & pause to think
 
 * Try to end with aporia — wonder
 * Success: When all are happy to have had the conversation
 * If you can, offer to continue the chat later
 * Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
+
+\
+*[🔙 to start](#)*
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+Some conversations require several sessions.
+
+\
+If you can leave one session on a good tone, then the
+next one may become easier!
 
 
 [comment]: # (!!!)
