@@ -144,8 +144,8 @@ Think of some more questions that can help you with this!
 
 * Explore the reliability of any methods used when forming a belief.
 * How > Why > What
-* How did we become so confident?
 * *«Let's go through the steps together»*
+* *«How did we be so confident if our methods are unreliable?»*
 
 \
 *«If a website only writes things I agree with, how can I know it always is truthful?»*
