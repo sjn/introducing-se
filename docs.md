@@ -30,8 +30,8 @@
 
 * «SE» among friends, is...
 * A way to help us have better talks about hard topics
-* A conversational toolbox to help explore ideas and beliefs
-* A community of people who practice SE in a friendly setting
+* A conversational toolbox for exploring ideas and beliefs
+* A community that practices SE in a friendly environment
 
 
 [comment]: # (!!!)
@@ -39,7 +39,7 @@
 ### 1. Set your goals
 
 * Do you want to learn, teach or empathize?
-* Are you open to changing your own mind?
+* Are you also open to changing your own mind?
 * Don’t use clever questions to “trap”
 * Be honest upfront
 * [Share](#/8) the process & this page
@@ -93,7 +93,7 @@ that prevents an individual from doing harm
 to themselves or others
 
 \
-– *«Jesus helped me become sober, and without Him I will proably die»*
+– *«Jesus helped me become sober, and without Him I would probably drink myself to death»*
 
 
 [comment]: # (!!!)
@@ -114,19 +114,17 @@ to themselves or others
 ### 5. ID confidence
 
 * «How confident are you your claim is true?» 0–100%
-* «What would move you up just a %?»
+* «What would move you up just a bit?»
 * «What would move you down?»
 * «What could change your mind?»
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Confidence is useful to explore the epistemology of their claim.
-
-\
-* At 100%, «What would increase your confidence even higher?»
-* At 0%, «What reasons do you think others have for being higher?»
-* Above 1%, «Why not lower?»
-* Below 100%, «Why not higher?»
+* At 100%, *«Would anything increase your confidence even higher?»*
+* *«How would physical evidence change your confidence?»*
+* At 0%, *«What reasons do you think others have for being higher?»*
+* Above 0%, *«Why not lower?»*
+* Below 100%, *«Why not higher?»*
 
 [comment]: # (!!!)
 
