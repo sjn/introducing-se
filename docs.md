@@ -40,8 +40,7 @@
 
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
-* Don’t use clever questions to “trap”
-* Be honest upfront
+* Be honest about your intentions upfront
 * [Share](#/8) the process & this page
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -67,12 +66,11 @@ A good way to avoid this is this is to focus on
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Working towards a friendly conversation is
-critical for success. This may require patience
-and several attempts before succeeding.
+Keeping a conversation friendly is critical for success.
+Be patient – and if needed, allow several chats before proceeding.
 
 \
-*Don't give up*!
+Practicing SE with strangers helps a lot!
 
 
 [comment]: # (!!!)
