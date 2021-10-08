@@ -120,12 +120,13 @@ to themselves or others
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Using confidence as a topic is a great way to
-explore the epistemology of their claim.
+Confidence is useful to explore the epistemology of their claim.
 
 \
-Think of some more questions that can help you with this!
-
+* At 100%, «What would increase your confidence even higher?»
+* At 0%, «What reasons do you think others have for being higher?»
+* Above 1%, «Why not lower?»
+* Below 100%, «Why not higher?»
 
 [comment]: # (!!!)
 
