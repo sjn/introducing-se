@@ -17,7 +17,7 @@
 2. [Build rapport](#/2)
 3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
-5. [ID Confidence](#/5)
+5. [Calibrate confidence](#/5)
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
 
@@ -108,9 +108,9 @@ to themselves or others
 
 [comment]: # (!!!)
 
-### 5. ID confidence
+### 5. Calibrate confidence
 
-* «How confident are you your claim is true?» 0–100%
+* «How confident are you this claim is true?» 0–100%
 * «What would move you up just a bit?»
 * «What would move you down?»
 * «What could change your mind?»
