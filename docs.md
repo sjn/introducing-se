@@ -17,12 +17,13 @@
 2. [Build rapport](#/2)
 3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
-5. [Calibrate confidence](#/5)
+5. [Assess & calibrate confidence](#/5)
 6. [Explore reasons & reliability](#/6)
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe down/right for more*
+*Swipe D/R for more*
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -35,6 +36,21 @@
 * A community that practices SE in a friendly environment
 
 
+[comment]: # (|||)
+
+### What is Epistemology?
+
+The field of Philosophy focusing on *how* we know what we know
+
+<br>
+
+* *«How do we know if something is true?»*
+* *«Which methods and tools can we employ to determine this?»*
+
+\
+With SE we try to bring this out of academia and onto "the streets"
+
+
 [comment]: # (!!!)
 
 ### 1. Set your goals
@@ -42,20 +58,21 @@
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
 * Be honest about your intentions upfront
-* And [share](#/8) this method too!
+* Maybe [share](#/8) this method too!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Many are uncomfortable with conversations that seem *scripted*. Don't stick
-just to the examples here – there's more to learn!
+Many are wary of "scripted" conversations. Don't use
+just these pages – there's more to learn
 
 \
-When unsure, try to focus on *technique rebuttal* instead of *topic rebuttal*,
-unless you are an expert on the topic.
+Unsure? Aim for *technique rebuttal* instead of *topic rebuttal*,
+unless you're an actual expert
 
 \
-SE is NOT about creating *gotcha moments* like the original Socratic Method.
-Instead, aim for trust, learning and exploration.
+Unlike the Socratic Method, SE avoids *gotcha* moments.
+Instead, aim for epistemological exploration
+
 
 [comment]: # (!!!)
 
@@ -69,11 +86,16 @@ Instead, aim for trust, learning and exploration.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Keeping a conversation friendly is critical for success.
-Be patient – and if needed, allow several chats before proceeding.
+Keeping a conversation friendly is *critical* for it's success
 
 \
-Need help? [Practice SE with strangers](#/8/1)!
+*Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics
+
+\
+*Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice
+
+\
+*Unsure of something?* – [Practice SE with strangers](#/8/1)
 
 
 [comment]: # (!!!)
@@ -94,30 +116,36 @@ that prevents an individual from doing harm
 to themselves or others
 
 \
-– *«My God helped me become sober, and without Him I would probably drink myself to death»*
+*«My God helped me become sober, and without Him I would probably drink myself to death»*
+
+\
+Sometimes SE isn't the right tool. Beware!
 
 
 [comment]: # (!!!)
 
 ### 4. Clarify terms
 
-* «What do you mean when you say X?»
+* *«What do you mean when you say X?»*
 * In your own words, repeat what you hear
 * Ask if you understand correctly
 * Identify & clarify words that may confuse
 
+
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+If it's difficult to *pin down* a term, then agree to use qualified terms instead
 
 
 [comment]: # (!!!)
 
-### 5. Calibrate confidence
+### 5. Assess & calibrate confidence
 
-* «How confident are you this claim is true?» 0–100%
-* «What would move you up just a bit?»
-* «What would move you down?»
-* «What could change your mind?»
+* *«How confident are you this claim is true?»* 0–100%
+* *«What would move you up just a bit?»*
+* *«What would move you down?»*
+* *«What could change your mind?»*
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -126,6 +154,7 @@ to themselves or others
 * At 0%, *«What reasons do you think others have for being higher?»*
 * Above 0%, *«Why not lower?»*
 * Below 100%, *«Why not higher?»*
+
 
 [comment]: # (!!!)
 
@@ -145,7 +174,7 @@ to themselves or others
 * Explore the reliability of any methods used when forming a belief.
 * How > Why > What
 * *«Let's go through the steps together»*
-* *«How can we be so confident if our methods are unreliable?»*
+* *«How can we be confident if our methods aren't reliable?»*
 
 [comment]: # (|||)
 
@@ -162,11 +191,12 @@ to themselves or others
 * Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
 
 \
-*[🔙 to start](#)*
+[🔙 *to start*](#)
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Some conversations require several sessions.
+Some conversations require several sessions
 
 \
 If you can leave one session on a good tone, then the
