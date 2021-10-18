@@ -31,6 +31,7 @@
 * «SE» among friends, is...
 * A way to help us have better talks about hard topics
 * A conversational toolbox for exploring ideas and beliefs
+* A step towards mastering collaborative thinking
 * A community that practices SE in a friendly environment
 
 
@@ -41,7 +42,7 @@
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
 * Be honest about your intentions upfront
-* [Share](#/8) the process & this page
+* And [share](#/8) this method too!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -49,9 +50,12 @@ Many are uncomfortable with conversations that seem *scripted*. Don't stick
 just to the examples here – there's more to learn!
 
 \
-Try to focus on *technique rebuttal* instead of *topic rebuttal*
-unless you are an expert on the topic!
+When unsure, try to focus on *technique rebuttal* instead of *topic rebuttal*,
+unless you are an expert on the topic.
 
+\
+SE is NOT about creating *gotcha moments* like the original Socratic Method.
+Instead, aim for trust, learning and exploration.
 
 [comment]: # (!!!)
 
