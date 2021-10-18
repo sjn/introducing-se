@@ -27,7 +27,7 @@
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### What is Street Epistemology?
+### What is Street&nbsp;Epistemology?
 
 * «SE» among friends, is...
 * A way to help us have better talks about hard topics
@@ -105,9 +105,10 @@ Keeping a conversation frien&shy;dly is *critical* for it's success
 
 ### 3. Find & confirm a claim
 
-* ✅ Claims that are specific & clear
-* ✅ Claims that are foundational
-* ❌ Is the claim «obvious»?
+* ✅ Claim is positive, e.g. *«this exists / is true»*
+* ✅ … Specific & clear
+* ✅ … Foundational or im&shy;portant to the topic
+* ❌ … Trivial or obvious
 * Ask if they want to explore it with you
 * ⚠️  Stop if the claim is a «safety net»!
 
@@ -122,14 +123,14 @@ to them&shy;selves or others
 *«My God helped me be&shy;come sober, and without Him I would probably drink myself to death»*
 
 \
-Sometimes SE just isn't the right tool
+Sometimes SE just isn't the right tool for the situation
 
 
 [comment]: # (!!!)
 
 ### 4. Clarify terms
 
-* *«What do you mean when you say X?»*
+* *«What do you mean when you say this?»*
 * In your own words, repeat what you hear
 * Ask if you understand correctly
 * Identify & clarify words that may confuse
@@ -137,7 +138,10 @@ Sometimes SE just isn't the right tool
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-If it's difficult to *pin down* a term, then agree to use qualified terms instead
+Us their de&shy;fini&shy;tions when pos&shy;sible, and it's not confusing
+
+\
+If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms
 
 
 [comment]: # (!!!)
@@ -170,10 +174,11 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-*This is the key goal of Street Epistemology*.
+*This is the key goal of Street&nbsp;Epistemology*.
 
 <br>
 
+* Embrace their pauses
 * Explore the reliability of any methods used when forming a belief.
 * How > Why > What
 * *«Let's go through the steps together»*
@@ -183,8 +188,8 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 #### What are bad reasons?
 
-* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to authority* and *Appeal to ig&shy;norance*
-* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Confirmation bias* and *Availability heu&shy;ristic*
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to authority*, *Appeal to ignorance* or *Appeal to tradition*
+* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;firmation bias* and *Availability heuristic*
 
 \
 *«If a website only writes things I agree with, how can I know if it's truthful?»*
@@ -205,17 +210,18 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Some conversations require several sessions
+Some conversations require several sessions. Give them an
+opportunity to think
 
 \
-If you can leave your session on a good tone, then the
-next one may become easier!
+If you can leave your con&shy;versation on a good tone,
+the next one may be easier
 
 
 [comment]: # (!!!)
 
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-###### Street Epistemology
+###### Street&nbsp;Epistemology
 
 [![QR Code image to introducing.se](dist/media/share-this.png)](https://introducing.se)
 ###### Introducing.SE
@@ -234,7 +240,7 @@ Site source code is on [Github](https://github.com/sjn/introducing-se/)
 
 #### Join us
 
-The Street Epistemology community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
+The Street&nbsp;Epistemology community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
 
 
 [comment]: # (|||)
