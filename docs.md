@@ -31,9 +31,9 @@
 
 * «SE» among friends, is...
 * A way to help us have better talks about hard topics
-* A conversational toolbox for exploring ideas and beliefs
-* A step towards mastering collaborative thinking
-* A community that practices SE in a friendly environment
+* A conversational tool&shy;box for exploring ideas and beliefs
+* A step towards mas&shy;tering col&shy;laborative thinking
+* A community that prac&shy;tices SE in a frien&shy;dly environment
 
 
 [comment]: # (|||)
@@ -62,16 +62,18 @@ With SE we try to bring this out of academia and onto "the streets"
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Many are wary of "scripted" conversations. Don't use
-just these pages – there's more to learn
+#### Come prepared
+
+Many are wary of "scripted" con&shy;versations. Don not *only*
+use these pages. There's more to learn!
 
 \
-Unsure? Aim for *technique rebuttal* instead of *topic rebuttal*,
+Unsure? Aim for *tech&shy;nique rebuttal* instead of *topic rebuttal*,
 unless you're an actual expert
 
 \
 Unlike the Socratic Method, SE avoids *gotcha* moments.
-Instead, aim for epistemological exploration
+Instead, aim for *epi&shy;stem&shy;ological explor&shy;ation*
 
 
 [comment]: # (!!!)
@@ -79,14 +81,15 @@ Instead, aim for epistemological exploration
 ### 2. Build rapport
 
 * Find a friendly tone & maintain it
-* Show that you are interested & listening
+* Show that you are inter&shy;ested & listening
 * Share what You have in common
 * Show curiosity
 * Don't offer facts unless asked
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Keeping a conversation friendly is *critical* for it's success
+#### Patience & practice
+Keeping a conversation frien&shy;dly is *critical* for it's success
 
 \
 *Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics
@@ -112,14 +115,14 @@ Keeping a conversation friendly is *critical* for it's success
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 In this context, a «safety net» is something
-that prevents an individual from doing harm
-to themselves or others
+that pre&shy;vents an individual from doing harm
+to them&shy;selves or others
 
 \
-*«My God helped me become sober, and without Him I would probably drink myself to death»*
+*«My God helped me be&shy;come sober, and without Him I would probably drink myself to death»*
 
 \
-Sometimes SE isn't the right tool. Beware!
+Sometimes SE just isn't the right tool
 
 
 [comment]: # (!!!)
@@ -139,7 +142,7 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 [comment]: # (!!!)
 
-### 5. Assess & calibrate confidence
+### 5. Assess & cali&shy;brate confidence
 
 * *«How confident are you this claim is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -149,8 +152,8 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-* At 100%, *«Would anything increase your confidence even higher?»*
-* *«How would physical evidence change your confidence?»*
+* At 100%, *«Would any&shy;thing increase your con&shy;fidence even higher?»*
+* *«How would physical evidence change your con&shy;fidence?»*
 * At 0%, *«What reasons do you think others have for being higher?»*
 * Above 0%, *«Why not lower?»*
 * Below 100%, *«Why not higher?»*
@@ -174,11 +177,17 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 * Explore the reliability of any methods used when forming a belief.
 * How > Why > What
 * *«Let's go through the steps together»*
-* *«How can we be confident if our methods aren't reliable?»*
+* *«How can we be con&shy;fident if our methods aren't reliable?»*
 
 [comment]: # (|||)
 
-*«If a website only writes things I agree with, how can I know it always is truthful?»*
+#### What are bad reasons?
+
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to authority* and *Appeal to ig&shy;norance*
+* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Confirmation bias* and *Availability heu&shy;ristic*
+
+\
+*«If a website only writes things I agree with, how can I know if it's truthful?»*
 
 
 [comment]: # (!!!)
@@ -187,7 +196,7 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 
 * Try to end with aporia — wonder
 * Success: When all are happy to have had the conversation
-* If you can, offer to continue the chat later
+* If you can, offer to con&shy;tinue the chat later
 * Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
 
 \
@@ -199,7 +208,7 @@ If it's difficult to *pin down* a term, then agree to use qualified terms instea
 Some conversations require several sessions
 
 \
-If you can leave one session on a good tone, then the
+If you can leave your session on a good tone, then the
 next one may become easier!
 
 
@@ -216,7 +225,7 @@ next one may become easier!
 
 ### About
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> and content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve J. Nilsen</a> is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> and con&shy;tent, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve J. Nilsen</a> is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
 #### Contribute
 
