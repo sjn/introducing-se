@@ -27,7 +27,7 @@
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### What is Street&nbsp;Epistemology?
+### What is Street Epistemology?
 
 * «SE» among friends, is...
 * A way to help us have better talks about hard topics
@@ -62,18 +62,18 @@ With SE we try to bring this out of academia and onto "the streets"
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Come prepared
+#### Manage expectations
 
-Many are wary of "scripted" con&shy;versations. Don not *only*
-use these pages. There's more to learn!
+Many are wary of "scripted" con&shy;versations. Avoid *only*
+using these pages. There's more to learn!
 
 \
-Unsure? Aim for *tech&shy;nique rebuttal* instead of *topic rebuttal*,
+Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal*,
 unless you're an actual expert
 
 \
-Unlike the Socratic Method, SE avoids *gotcha* moments.
-Instead, aim for *epi&shy;stem&shy;ological explor&shy;ation*
+Unlike the Socratic Method, with SE we avoid *gotcha* moments.
+Instead, *ex&shy;plore epi&shy;stem&shy;ology*
 
 
 [comment]: # (!!!)
@@ -89,7 +89,8 @@ Instead, aim for *epi&shy;stem&shy;ological explor&shy;ation*
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Patience & practice
-Keeping a conversation frien&shy;dly is *critical* for it's success
+
+Keeping a conversation frien&shy;dly is *critical* for success
 
 \
 *Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics
@@ -98,7 +99,7 @@ Keeping a conversation frien&shy;dly is *critical* for it's success
 *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice
 
 \
-*Unsure of something?* – [Practice SE with strangers](#/8/1)
+*Need help?* – [Practice SE with strangers](#/8/1)
 
 
 [comment]: # (!!!)
@@ -114,6 +115,8 @@ Keeping a conversation frien&shy;dly is *critical* for it's success
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+#### Not all claims
 
 In this context, a «safety net» is something
 that pre&shy;vents an individual from doing harm
@@ -138,10 +141,16 @@ Sometimes SE just isn't the right tool for the situation
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
+#### Politeness & clarity
+
 Us their de&shy;fini&shy;tions when pos&shy;sible, and it's not confusing
 
 \
 If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms
+
+\
+A *learning mindset* can help here.
 
 
 [comment]: # (!!!)
@@ -161,6 +170,12 @@ If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms
 * At 0%, *«What reasons do you think others have for being higher?»*
 * Above 0%, *«Why not lower?»*
 * Below 100%, *«Why not higher?»*
+
+
+[comment]: # (|||)
+
+* *«If this reason was un&shy;avail&shy;able to you, would it change your confidence?»*
+* *«... and if not, what other rea&shy;sons keep you at your level of confidence?»*
 
 
 [comment]: # (!!!)
