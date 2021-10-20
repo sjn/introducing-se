@@ -30,17 +30,17 @@
 ### What is Street Epistemology?
 
 * «SE» among friends, is...
-* A way to help us have better talks about hard topics
-* A conversational tool&shy;box for exploring ideas and beliefs
-* A step towards mas&shy;tering col&shy;laborative thinking
-* A community that prac&shy;tices SE in a frien&shy;dly environment
+* A way to help us have better talks about hard topics.
+* A conversational tool&shy;box for exploring ideas and beliefs.
+* A step towards mas&shy;tering col&shy;laborative thinking.
+* A community that prac&shy;tices SE in a frien&shy;dly environment.
 
 
 [comment]: # (|||)
 
 ### What is Epistemology?
 
-The field of Philosophy focusing on *how* we know what we know
+The field of Philosophy focusing on *how* we know what we know.
 
 <br>
 
@@ -48,7 +48,7 @@ The field of Philosophy focusing on *how* we know what we know
 * *«Which methods and tools can we employ to determine this?»*
 
 \
-With SE we try to bring this out of academia and onto "the streets"
+With SE we try to bring this out of academia and into everyday life.
 
 
 [comment]: # (!!!)
@@ -57,7 +57,7 @@ With SE we try to bring this out of academia and onto "the streets"
 
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
-* Be honest about your intentions upfront
+* Be honest about your intentions upfront.
 * Maybe [share](#/8) this method too!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -69,37 +69,37 @@ using these pages. There's more to learn!
 
 \
 Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal*,
-unless you're an actual expert
+unless you're an actual expert.
 
 \
 Unlike the Socratic Method, with SE we avoid *gotcha* moments.
-Instead, *ex&shy;plore epi&shy;stem&shy;ology*
+Instead, *ex&shy;plore epi&shy;stem&shy;ology*.
 
 
 [comment]: # (!!!)
 
 ### 2. Build rapport
 
-* Find a friendly tone & maintain it
-* Show that you are inter&shy;ested & listening
-* Share what You have in common
-* Show curiosity
-* Don't offer facts unless asked
+* Find a friendly tone & maintain it.
+* Show that you are inter&shy;ested & listening.
+* Share what You have in common.
+* Show curiosity.
+* Don't offer facts unless asked.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Patience & practice
 
-Keeping a conversation frien&shy;dly is *critical* for success
+Keeping a conversation frien&shy;dly is *critical* for success.
 
 \
-*Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics
+*Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics.
 
 \
-*Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice
+*Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
 
 \
-*Need help?* – [Practice SE with strangers](#/8/1)
+*Need help?* – [Practice SE with strangers](#/8/1).
 
 
 [comment]: # (!!!)
@@ -107,26 +107,26 @@ Keeping a conversation frien&shy;dly is *critical* for success
 ### 3. Find & confirm a claim
 
 * ✅ Claim is positive, e.g. *«this exists / is true»*
-* ✅ … Specific & clear
+* ✅ … Specific & clear.
 * ✅ … Foundational or im&shy;portant to the topic
 * ❌ … Trivial or obvious
 * Ask if they want to explore it with you
-* ⚠️  Stop if the claim is a «safety net»!
+* ⚠️  Stop if the claim is a *safety net*!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Not all claims
 
-In this context, a «safety net» is something
+In this context, a *safety net* is something
 that pre&shy;vents an individual from doing harm
-to them&shy;selves or others
+to them&shy;selves or others.
 
 \
-*«My God helped me be&shy;come sober, and without Him I would probably drink myself to death»*
+*«My God helped me be&shy;come sober, and without Him I would probably drink myself to death.»*
 
 \
-Sometimes SE just isn't the right tool for the situation
+Sometimes SE just isn't the right tool for the situation.
 
 
 [comment]: # (!!!)
@@ -134,9 +134,9 @@ Sometimes SE just isn't the right tool for the situation
 ### 4. Clarify terms
 
 * *«What do you mean when you say this?»*
-* In your own words, repeat what you hear
-* Ask if you understand correctly
-* Identify & clarify words that may confuse
+* In your own words, repeat what you hear.
+* Ask if you understand correctly.
+* Identify & clarify words that may confuse.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -144,13 +144,13 @@ Sometimes SE just isn't the right tool for the situation
 
 #### Politeness & clarity
 
-Use *their* de&shy;fini&shy;tions when pos&shy;sible, and if it's not confusing
+Use *their* de&shy;fini&shy;tions when pos&shy;sible, and if it's not confusing.
 
 \
-If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms
+If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms.
 
 \
-Adopting a *learner's per&shy;spec&shy;tive* may help
+Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 
 [comment]: # (!!!)
@@ -183,7 +183,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help
 ### 6. Explore reasons & reliability
 
 * What reasons did they use to arrive at their belief?
-* Assess the quality of these reasons
+* Assess the quality of these reasons.
 * What ways can we use to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
@@ -194,18 +194,18 @@ Adopting a *learner's per&shy;spec&shy;tive* may help
 <br>
 
 * Explore the reliability of any methods used when forming a belief.
-* How > Why > What
-* Embrace their pauses
-* *«Let's go through the steps together»*
+* *How* questions are the goal, after *Why* and *What*.
+* Embrace their pauses.
+* *«Let's go through the steps together.»*
 * *«How can we be con&shy;fident if our methods aren't reliable?»*
 
 [comment]: # (|||)
 
 #### Recognizing bad reasons
 
-* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to authority*, *Appeal to ignorance* or *Appeal to tradition*
-* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;firmation bias* and *Availability heuristic*
-* ❌ Uses sources that don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test)
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to authority*, *Appeal to ignorance* or *Appeal to tradition*.
+* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;firmation bias* and *Availability heuristic*.
+* ❌ Uses sources that don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
 *«If a website only writes things I agree with, how can I know if it's truthful?»*
@@ -215,10 +215,10 @@ Adopting a *learner's per&shy;spec&shy;tive* may help
 
 ### 7. Summarize & pause to think
 
-* Try to end with aporia — wonder
-* Success: When all are happy to have had the conversation
-* If you can, offer to con&shy;tinue the chat later
-* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)
+* Try to end with *aporia* and wonder.
+* Success is when all are happy to have had the conversation.
+* If you can, offer to con&shy;tinue the chat later.
+* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf).
 
 \
 [🔙 *to start*](#)
@@ -226,7 +226,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-Some conversations may re&shy;quire several sessions
+Some conversations may re&shy;quire several sessions.
 
 \
 End your sessions with some&shy;thing they can wonder about!
@@ -251,11 +251,11 @@ End your sessions with some&shy;thing they can wonder about!
 
 #### Join the community
 
-The Street&nbsp;Epistemology community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community)
+The Street&nbsp;Epistemology community is on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 
 #### Contribute
 
-Source code and content is on [Github](https://github.com/sjn/introducing-se/)
+Source code and content is on [Github](https://github.com/sjn/introducing-se/).
 
 
 [comment]: # (|||)
