@@ -73,7 +73,7 @@ unless you're an actual expert.
 
 \
 Unlike the Socratic Method, with SE we avoid *gotcha* moments.
-Instead, *ex&shy;plore epi&shy;stem&shy;ology*.
+Instead, *ex&shy;plore epi&shy;stem&shy;ology.*
 
 
 [comment]: # (!!!)
@@ -155,7 +155,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 [comment]: # (!!!)
 
-### 5. Assess & cali&shy;brate confidence
+### 5. Assess & calibrate confidence
 
 * *«How confident are you this claim is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -189,12 +189,12 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-*This is the key goal of Street&nbsp;Epistemology*.
+*This is the key goal of Street&nbsp;Epistemology.*
 
 <br>
 
 * Explore the reliability of methods used when forming a belief.
-* *How* questions are bet&shy;ter then *Why* and *What*.
+* *How* questions are bet&shy;ter then *Why* and *What.*
 * Embrace the pauses.
 * *«Let's go through the steps together.»*
 * *«How can we be con&shy;fident if our methods aren't reliable?»*
@@ -203,8 +203,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 #### Recognizing bad reasons
 
-* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to au&shy;th&shy;ority*, *ig&shy;no&shy;rance* or *tradition*.
-* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias*, *Avail&shy;abi&shy;lity heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning*.
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to au&shy;th&shy;ority*, *ig&shy;no&shy;rance* or *tradition.*
+* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias*, *Avail&shy;abi&shy;lity heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning.*
 * ❌ Sources don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
