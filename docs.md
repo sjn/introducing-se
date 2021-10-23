@@ -22,7 +22,7 @@
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe D/R for more*
+*Swipe* ↓ → *for more*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -99,7 +99,7 @@ Keeping a conversation frien&shy;dly is *critical* for success.
 *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
 
 \
-*Need help?* – [Practice SE with strangers](#/8/1).
+*Learn more* – [Practice SE with strangers](#/8/1).
 
 
 [comment]: # (!!!)
@@ -203,8 +203,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 #### Recognizing bad reasons
 
-* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeal to au&shy;th&shy;ority*, *Ap&shy;peal to ig&shy;no&shy;rance* or *Ap&shy;peal to tradition*.
-* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias* and *Avail&shy;ability heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning*.
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to au&shy;th&shy;ority*, *ig&shy;no&shy;rance* or *tradition*.
+* ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias*, *Avail&shy;abi&shy;lity heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning*.
 * ❌ Uses sources that don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
