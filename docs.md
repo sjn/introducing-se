@@ -59,13 +59,13 @@ With SE we try to bring this out of academia and into everyday life.
 * Be honest about your intentions upfront.
 * Maybe [share](#/8) this method too!
 
+
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Your expectations
 
 * Avoid *only* using these pages. There's more to learn!
 * Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal.*
-* With SE we avoid *gotcha* moments.
 * Instead, *ex&shy;plore how they know what they know.*
 
 
@@ -94,14 +94,9 @@ With SE we try to bring this out of academia and into everyday life.
 
 Keeping a conversation frien&shy;dly is *critical* for success.
 
-\
-*Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics.
-
-\
-*Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
-
-\
-*Learn more* – [Practice SE with strangers](#/8/1).
+* *Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics.
+* *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
+* *Learn more* – [Practice SE with strangers](#/8/1).
 
 
 [comment]: # (!!!)
@@ -113,7 +108,7 @@ Keeping a conversation frien&shy;dly is *critical* for success.
 * Phrase the topic in the form of a claim
 
 \
-*Take some time to consider a good claim!*
+*It's OK to take time to consider claims!*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -131,9 +126,7 @@ Keeping a conversation frien&shy;dly is *critical* for success.
 
 #### Not all claims
 
-*Safety net* in this context, is something
-that pre&shy;vents an individual from doing harm
-to them&shy;selves or others.
+*Safety net*, in this context, is something that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
 \
 *«My God helped me be&shy;come sober, and without Him I would probably drink myself to death.»*
@@ -146,12 +139,12 @@ Sometimes SE just isn't the right tool for the situation.
 
 ### 4. Clarify terms
 
-**Repeat – Ask – Clarify**
+**Repeat – Confirm – Qualify**
 
 * *«What do you mean when you say this?»*
 * In your own words, repeat what you hear.
 * Ask if you understand correctly.
-* Identify & clarify words that may confuse.
+* Identify, clarify & qualify words that may confuse.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -197,6 +190,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 ### 6. Explore reasons & reliability
 
+**What → Why → How**
+
 * What reasons did they use to arrive at their belief?
 * Assess the quality of these reasons.
 * What ways can we use to determine a reason is sound?
@@ -233,7 +228,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 * Try to end with *aporia* and wonder.
 * Success is when all are happy to have had the conversation.
 * If you can, offer to con&shy;tinue the chat later.
-* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf).
+* Offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
 
 \
 [🔙 *to start*](#)
