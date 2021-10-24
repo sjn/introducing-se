@@ -92,9 +92,11 @@ With SE we try to bring this out of academia and into everyday life.
 
 #### Patience & practice
 
-Keeping a conversation frien&shy;dly is *critical* for success.
+*Keeping a frien&shy;dly tone is critical for success.*
 
-* *Be patient* – It's fine to build rapport over several chats before proceeding with the hardest topics.
+<br>
+
+* *Be patient* – It's fine to have seve&shy;ral chats before pro&shy;ce&shy;eding with the har&shy;dest topics.
 * *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
 * *Learn more* – [Practice SE with strangers](#/8/1).
 
@@ -190,11 +192,11 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 ### 6. Explore reasons & reliability
 
-**What → Why → How**
+**How – Reliability – Reconsider**
 
 * What reasons did they use to arrive at their belief?
-* Assess the quality of these reasons.
-* What ways can we use to determine a reason is sound?
+* Assess the quality of these reasons: *Outsider test*.
+* What can we do to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
