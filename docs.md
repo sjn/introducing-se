@@ -22,7 +22,7 @@
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe ↓ for more; *→ for next*
+*Swipe ↓ more / → next*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
