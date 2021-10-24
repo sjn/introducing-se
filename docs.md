@@ -22,14 +22,13 @@
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe* ↓ → *for more*
+*Swipe ↓ for more; *→ for next*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### What is Street Epistemology?
+### What is Street Epistemology (SE)?
 
-* «SE» among friends, is...
 * A way to help us have better talks about hard topics.
 * A conversational tool&shy;box for exploring ideas and beliefs.
 * A step towards mas&shy;tering col&shy;laborative thinking.
@@ -62,18 +61,21 @@ With SE we try to bring this out of academia and into everyday life.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Manage expectations
+#### Your expectations
 
-Many are wary of "scripted" con&shy;versations. Avoid *only*
-using these pages. There's more to learn!
+* Avoid *only* using these pages. There's more to learn!
+* Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal.*
+* With SE we avoid *gotcha* moments.
+* Instead, *ex&shy;plore how they know what they know.*
 
-\
-Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal*,
-unless you're an actual expert.
 
-\
-Unlike the Socratic Method, with SE we avoid *gotcha* moments.
-Instead, *ex&shy;plore epi&shy;stem&shy;ology.*
+[comment]: # (|||)
+
+#### Their expectations
+
+* Avoid «scripted» conversations.
+* Don't embarrass or make them feel cornered.
+* Triumphing and «gotcha» moments are counter-productive.
 
 
 [comment]: # (!!!)
@@ -106,19 +108,30 @@ Keeping a conversation frien&shy;dly is *critical* for success.
 
 ### 3. Find & confirm a claim
 
-* ✅ Claim is positive, e.g. *«this exists / is true»*
-* ✅ … Specific & clear.
-* ✅ … Foundational or im&shy;portant to the topic
-* ❌ … Trivial or obvious
-* Ask if they want to explore it with you
-* ⚠️  Stop if the claim is a *safety net*!
+* Try to find or pick a single topic
+* Ask if it's a good claim to explore
+* Phrase the topic in the form of a claim
+
+\
+*Take some time to consider a good claim!*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+### Good & bad claims
+
+* ✅ Claim is positive, e.g. *«this exists / is true»*
+* ✅ … Specific & clear.
+* ✅ … Foundational or im&shy;portant
+* ❌ … Trivial or obvious
+* ⚠️  Stop if the claim is a *safety net*!
+
+
+[comment]: # (|||)
+
 #### Not all claims
 
-In this context, a *safety net* is something
+*Safety net* in this context, is something
 that pre&shy;vents an individual from doing harm
 to them&shy;selves or others.
 
@@ -133,6 +146,8 @@ Sometimes SE just isn't the right tool for the situation.
 
 ### 4. Clarify terms
 
+**Repeat – Ask – Clarify**
+
 * *«What do you mean when you say this?»*
 * In your own words, repeat what you hear.
 * Ask if you understand correctly.
@@ -144,7 +159,7 @@ Sometimes SE just isn't the right tool for the situation.
 
 #### Politeness & clarity
 
-Use *their* de&shy;fini&shy;tions when pos&shy;sible, and if it's not confusing.
+Use *their* de&shy;fini&shy;tions when pos&shy;sible.
 
 \
 If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms.

@@ -36,3 +36,4 @@ https://pages.github.com
 * Hove, Erlend
 * Magnabosco, Anthony
 * Nilsen, Salve J.
+* CanIBeBlue (SE Discord)
