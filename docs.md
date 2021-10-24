@@ -115,7 +115,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### Good & bad claims
+#### Good & bad claims
 
 * ✅ Claim is positive, e.g. *«this exists / is true»*
 * ✅ … Specific & clear.
