@@ -1,5 +1,6 @@
 [comment]: # (Compile this presentation with the command below)
 [comment]: # (mdslides docs.md --include dist)
+[comment]: # (...or by running the Makefile with "make")
 
 [comment]: # (THEME = streetepistemology)
 
@@ -66,7 +67,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 * Avoid *only* using these pages. There's more to learn!
 * Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal.*
-* Instead, *ex&shy;plore how they know what they know.*
+* *Explore how they know what they know.*
 
 
 [comment]: # (|||)
@@ -75,7 +76,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 * Avoid «scripted» conversations.
 * Don't embarrass or make them feel cornered.
-* Triumphing and «gotcha» moments are counter-productive.
+* Triumphing and «gotcha» moments are counter-<wbr>productive.
 
 
 [comment]: # (!!!)
