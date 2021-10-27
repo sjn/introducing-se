@@ -193,10 +193,10 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 ### 6. Explore reasons & reliability
 
-**How – Reliability – Reconsider**
+**How – Reliable – Reconsider**
 
 * What reasons did they use to arrive at their belief?
-* Assess the quality of these reasons: *Outsider test*.
+* Assess the quality of these reasons.
 * What can we do to determine a reason is sound?
 * If our methods are unreliable, would the assessment change?
 
@@ -208,7 +208,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 * Explore the reliability of methods used when forming a belief.
 * *How* questions are bet&shy;ter then *Why* and *What.*
-* Embrace the pauses.
+* Embrace thinking pauses.
 * *«Let's go through the steps together.»*
 * *«How can we be con&shy;fident if our methods aren't reliable?»*
 
@@ -222,6 +222,12 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 \
 *«If a website only has thoughts I agree with, how can I know if it's truthful?»*
+
+[comment]: # (|||)
+
+#### Explore reasoning
+
+* The Outsider Test: *«Would someone else with your reasons, but one core difference, reach the same conclusion?»*
 
 
 [comment]: # (!!!)
