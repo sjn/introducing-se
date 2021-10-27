@@ -221,7 +221,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 * ❌ Sources don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
-*«If a website only has thoughts I agree with, how can I know if it's truthful?»*
+*«If a text only has thoughts I agree with, how can I know it is truthful?»*
+
 
 [comment]: # (|||)
 
