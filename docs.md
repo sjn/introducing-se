@@ -28,7 +28,7 @@
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### What is Street Epistemology (SE)?
+#### What is Street Epistemology (SE)?
 
 * A way to help us have bet&shy;ter talks about hard topics.
 * A conversatio&shy;nal tool&shy;box for explo&shy;ring ideas and beliefs.
@@ -38,7 +38,7 @@
 
 [comment]: # (|||)
 
-### What is Epistemology?
+#### What is Epistemology?
 
 The field of Philosophy focusing on *how* we know what we know.
 
@@ -184,6 +184,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 
 [comment]: # (|||)
+
+#### Finding underlying claims
 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your confidence?»*
 * *«... and if not, what else is keeping you at your level of confidence?»*
