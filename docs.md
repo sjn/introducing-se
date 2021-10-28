@@ -74,9 +74,9 @@ With SE we try to bring this out of academia and into everyday life.
 
 #### Their expectations
 
-* Avoid «scripted» conversations.
+* Avoid *scripted* conversations.
 * Don't embarrass or make them feel cornered.
-* Triumphing and «gotcha» moments are counter-<wbr>productive.
+* Triumphing and *gotcha* moments are counter-<wbr>productive.
 
 
 [comment]: # (!!!)
@@ -99,7 +99,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 * *Be patient* – It's fine to have seve&shy;ral chats before pro&shy;ce&shy;eding with the har&shy;dest topics.
 * *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
-* *Learn more* – [Practice SE with strangers](#/8/1).
+* *Improve* – [Practice SE with strangers](#/8/1).
 
 
 [comment]: # (!!!)
@@ -193,12 +193,11 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 
 ### 6. Explore reasons & reliability
 
-**How – Reliable – Reconsider**
-
 * What reasons did they use to arrive at their belief?
 * Assess the quality of these reasons.
-* What can we do to determine a reason is sound?
-* If our methods are unreliable, would the assessment change?
+* What can we do to de&shy;termine a reason is sound?
+* If our methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -207,8 +206,8 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 <br>
 
 * Explore the reliability of methods used when forming a belief.
-* *How* questions are bet&shy;ter then *Why* and *What.*
-* Embrace thinking pauses.
+* *How* questions are bet&shy;ter than *Why* & *What.*
+* Embrace their pauses.
 * *«Let's go through the steps together.»*
 * *«How can we be con&shy;fident if our methods aren't reliable?»*
 
@@ -221,14 +220,14 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 * ❌ Sources don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
-*«If a text only has thoughts I agree with, how can I know it is truthful?»*
+*«If a text only offers thoughts I agree with, how can I know it is truthful?»*
 
 
 [comment]: # (|||)
 
 #### Explore reasoning
 
-* The Outsider Test: *«Would someone else with your reasons, but one core difference, reach the same conclusion?»*
+**The Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
 
 
 [comment]: # (!!!)
@@ -252,7 +251,7 @@ Some conversations may re&shy;quire several sessions.
 End your sessions with some&shy;thing they can wonder about!
 
 \
-*«That was a good question. You're making me think!»*
+*«That was a good que&shy;stion. You're making me think!»*
 
 [comment]: # (!!!)
 
