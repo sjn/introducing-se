@@ -186,7 +186,7 @@ Adopting a *learner's per&shy;spec&shy;tive* may help.
 [comment]: # (|||)
 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your confidence?»*
-* *«... and if not, what other rea&shy;son is keeping you at your level of confidence?»*
+* *«... and if not, what else is keeping you at your level of confidence?»*
 
 
 [comment]: # (!!!)
