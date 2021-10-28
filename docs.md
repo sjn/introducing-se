@@ -108,7 +108,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 * Try to find or pick a **single topic**.
 * Phrase the topic in the form of a claim.
-* Ask if it's a good claim to explore.
+* Ask if it's a good claim to explore together.
 
 \
 *It's OK to take time to consider claims!*
