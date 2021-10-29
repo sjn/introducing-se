@@ -153,13 +153,13 @@ Sometimes SE just isn't the right tool for the situation.
 
 #### Politeness & clarity
 
-Use *their* de&shy;fini&shy;tions when pos&shy;sible.
+Adopt a learner's per&shy;spec&shy;tive – *«I want to learn.»*
 
 \
-Adopt a *learner's per&shy;spec&shy;tive.*
+Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
 
 \
-If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms.
+Qualify terms – *«True»* vs. *«True for me»* vs. *«True for everyone.»*
 
 
 [comment]: # (!!!)
@@ -228,7 +228,7 @@ If it's dif&shy;ficult to *pin down* a term, use quali&shy;fied terms.
 
 #### Explore reasoning
 
-**The Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
+The **Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
 
 
 [comment]: # (!!!)
