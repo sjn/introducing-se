@@ -89,7 +89,7 @@ With SE we try to bring this out of academia and into everyday life.
 * Show you're inter&shy;ested & listening.
 * Share what You have in common.
 * Show curiosity.
-* **Do not offer facts** unless asked.
+* **Never offer facts**, unless asked.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -99,8 +99,8 @@ With SE we try to bring this out of academia and into everyday life.
 
 <br>
 
-* *Be patient* – It's fine to have seve&shy;ral chats before pro&shy;ce&shy;eding with the har&shy;dest topics.
-* *Stay cool* – Avoiding *topic rebuttal* is hard, and often requires practice.
+* *Be patient* – It's fine to have seve&shy;ral chats before pro&shy;ce&shy;eding with hard topics.
+* *Stay cool* – Avoiding *topic rebuttal* often requires practice.
 * *Improve* – [Practice SE with strangers](#/8/1).
 
 
@@ -111,10 +111,10 @@ With SE we try to bring this out of academia and into everyday life.
 * Find or pick a **single topic**.
 * Phrase the topic in the form of a claim.
 * Ask if it's a good claim to explore together.
-* Recordin? **Ask for consent**.
+* Recording? **Ask for consent**.
 
 \
-*There's no rush when considering claims!*
+*Don't rush when considering claims.*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -156,13 +156,13 @@ SE is **not always the right tool**.
 
 #### Politeness & clarity
 
-Adopt a learner's per&shy;spec&shy;tive – *«I want to learn.»*
+Adopt a learner's per&shy;spec&shy;tive – *«I want to understand.»*
 
 \
 Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
 
 \
-Qualify terms – *«True»* vs. *«True for me»* vs. *«True for everyone.»*
+Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 
 [comment]: # (!!!)
@@ -238,8 +238,8 @@ The **Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but
 
 ### 7. Summarize & pause to think
 
-* Try to end with **wonder** or **aporia**.
-* Success is when **both are happy** to have had the conversation.
+* Try to end with *wonder* or *aporia*.
+* Success is when **all are happy** to have had the conversation.
 * If you can, offer to con&shy;tinue the chat later.
 * Offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
 
