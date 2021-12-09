@@ -57,33 +57,35 @@ With SE we try to bring this out of academia and into everyday life.
 
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
-* **Be honest** about your intentions upfront.
+* Be **honest** about your intentions upfront.
 * Explain and [share](#/8) this method too!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Your expectations
+#### Expectations from you
 
-* Avoid *only* using these pages. There's more to learn!
-* Unsure? Do *tech&shy;nique rebuttal* instead of *topic rebuttal.*
-* *Explore how they know what they know.*
+* Avoid *only* using this guide. There's more to learn!
+* When in doubt, focus on *tech&shy;nique* instead of *topic.*
+* Explore *how* they know what they know.
+* Don't listen presumptively.
 
 
 [comment]: # (|||)
 
-#### Their expectations
+#### Expectations from them
 
-* Avoid *scripted* conversations.
+* No *scripted* conversations.
+* No interviewing.
 * Don't embarrass or make them feel cornered.
-* Triumphing and *gotcha* moments are counter-<wbr>productive.
+* Triumphing & *gotcha* moments are counter-<wbr>productive.
 
 
 [comment]: # (!!!)
 
 ### 2. Build rapport
 
-* Find a **friendly tone** & maintain it.
+* Establish a **friendly tone** & maintain it.
 * Show you're inter&shy;ested & listening.
 * Share what You have in common.
 * Show curiosity.
@@ -106,12 +108,13 @@ With SE we try to bring this out of academia and into everyday life.
 
 ### 3. Find & confirm a claim
 
-* Try to find or pick a **single topic**.
+* Find or pick a **single topic**.
 * Phrase the topic in the form of a claim.
 * Ask if it's a good claim to explore together.
+* Recordin? **Ask for consent**.
 
 \
-*It's OK to take time to consider claims!*
+*There's no rush when considering claims!*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -127,7 +130,7 @@ With SE we try to bring this out of academia and into everyday life.
 
 [comment]: # (|||)
 
-#### Not all claims
+#### When to abort early
 
 *Safety net*, in this context, is something that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
@@ -135,7 +138,7 @@ With SE we try to bring this out of academia and into everyday life.
 *«My God helped me be&shy;come sober, and without Him I would probably drink myself to death.»*
 
 \
-Sometimes SE just isn't the right tool for the situation.
+SE is **not always the right tool**.
 
 
 [comment]: # (!!!)
@@ -145,7 +148,7 @@ Sometimes SE just isn't the right tool for the situation.
 * *«What do you mean when you say this?»*
 * In your own words, **repeat** what you hear.
 * **Confirm** if you understand correctly.
-* Identify, clarify & **qualify** words that may confuse.
+* Identify, clarify & qualify words that may confuse.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
