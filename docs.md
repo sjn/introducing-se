@@ -95,6 +95,7 @@ Bring something to take notes with!
 * Share what You have in common.
 * Show curiosity.
 
+
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Patience & practice
@@ -152,7 +153,7 @@ SE is **not always** the right tool to use!
 
 * *«What do you mean when you say …?»*
 * In your own words, **repeat** what you hear.
-* **Confirm** if you understand correctly.
+* **Confirm** if you under&shy;stand correctly.
 * Identify, clarify & qualify words that may confuse.
 
 \
@@ -161,10 +162,9 @@ Take notes!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-
 #### Politeness & clarity
 
-Adopt a learner's per&shy;spec&shy;tive – *«I want to understand.»*
+Adopt a learner's per&shy;spective – *«I want to understand.»*
 
 \
 Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
@@ -183,7 +183,7 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 * ❌ *«Are you saying that …»*
 
 \
-Demonstrate that *you want to learn*.
+Show that *you* want to learn!
 
 
 [comment]: # (!!!)
@@ -209,12 +209,13 @@ Demonstrate that *you want to learn*.
 
 #### Finding underlying claims
 
-* *«If this reason was un&shy;avail&shy;able to you, would it change your confidence?»*
-* *«… and **if not, what else** is keeping you at your level of confidence?»*
+* *«If this reason was un&shy;avail&shy;able to you, would it change your con&shy;fi&shy;dence level?»*
+* *«… and **if not, what else** is keeping you at your level?»*
 * [Switching topic](#/3) is fine!
 
 \
-*«Claim 2 seems to be an important reason why you believe claim 1. Would you mind if we explore it instead?»*
+*«Claim 2 seems to be important for your belief in claim 1. Would you mind if we explore it instead?»*
+
 
 [comment]: # (!!!)
 
@@ -238,6 +239,7 @@ Demonstrate that *you want to learn*.
 * *«Let's go through the steps together.»*
 * *«How can we be con&shy;fident if our methods aren't reliable?»*
 
+
 [comment]: # (|||)
 
 #### Recognizing bad reasons
@@ -254,7 +256,7 @@ Demonstrate that *you want to learn*.
 
 #### Explore reasoning
 
-The **Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
+**The outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
 
 
 [comment]: # (!!!)
@@ -272,6 +274,8 @@ The **Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+#### Reason to return
+
 Some conversations may re&shy;quire several sessions.
 
 \
@@ -279,6 +283,7 @@ End your sessions with some&shy;thing they can wonder about!
 
 \
 *«That was a good que&shy;stion. You're making me think!»*
+
 
 [comment]: # (!!!)
 
