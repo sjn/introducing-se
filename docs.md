@@ -14,7 +14,7 @@
 
 ### How to explore ideas & beliefs
 
-1. [Set your goals](#/1)
+1. [Come prepared](#/1)
 2. [Build rapport](#/2)
 3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
@@ -53,32 +53,37 @@ With SE we try to bring this out of academia and into everyday life.
 
 [comment]: # (!!!)
 
-### 1. Set your goals
+### 1. Come prepared
 
+* Be honest about your intentions upfront.
 * Do you want to learn, teach or empathize?
 * Are you also open to changing your own mind?
-* Be **honest** about your intentions upfront.
-* Explain and [share](#/8) this method too!
+* Explain and [share](#/8) this method!
+* Recording? **Ask for consent**.
+
+\
+Bring something to take notes with!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Expectations from you
+#### Expect from yourself
 
-* Avoid *only* using this guide. There's more to learn!
-* When in doubt, focus on *tech&shy;nique* instead of *topic.*
 * Explore *how* they know what they know.
+* When in doubt, focus on *tech&shy;nique* instead of *topic.*
 * Don't listen presumptively.
+* Avoid *only* using this guide. There's more to learn!
 
 
 [comment]: # (|||)
 
-#### Expectations from them
+#### Expect from them
 
-* No *scripted* conversations.
-* No interviewing.
-* Don't embarrass or make them feel cornered.
-* Triumphing & *gotcha* moments are counter-<wbr>productive.
+* They dislike *scripted* conversations.
+* … or «interviewing».
+* … or being embarrassed.
+* … or made to feel cornered.
+* Triumphing & *gotcha* moments are counter-<wbr>productive!
 
 
 [comment]: # (!!!)
@@ -89,7 +94,6 @@ With SE we try to bring this out of academia and into everyday life.
 * Show you're inter&shy;ested & listening.
 * Share what You have in common.
 * Show curiosity.
-* **Never offer facts**, unless asked.
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -100,7 +104,8 @@ With SE we try to bring this out of academia and into everyday life.
 <br>
 
 * *Be patient* – It's fine to have seve&shy;ral chats before pro&shy;ce&shy;eding with hard topics.
-* *Stay cool* – Avoiding *topic rebuttal* often requires practice.
+* *Don't offer facts* – Unless asked.
+* *Stay cool* – Avoiding *topic rebut&shy;tal* (offering facts) may require practice!
 * *Improve* – [Practice SE with strangers](#/8/1).
 
 
@@ -111,10 +116,10 @@ With SE we try to bring this out of academia and into everyday life.
 * Find or pick a **single topic**.
 * Phrase the topic in the form of a claim.
 * Ask if it's a good claim to explore together.
-* Recording? **Ask for consent**.
+* *Don't rush when considering claims.*
 
 \
-*Don't rush when considering claims.*
+Take notes!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -123,32 +128,35 @@ With SE we try to bring this out of academia and into everyday life.
 
 * ✅ Claim is positive, e.g. *«this exists / is true»*
 * ✅ … Specific & clear.
-* ✅ … Foundational or im&shy;portant
-* ❌ … Trivial or obvious
-* ⚠️  Stop if the claim is a *safety net!*
+* ✅ … Foundational or im&shy;portant.
+* ❌ … Trivial or obvious.
+* ⚠️  Stop if the claim is a *Safety Net*!
 
 
 [comment]: # (|||)
 
 #### When to abort early
 
-*Safety net*, in this context, is something that pre&shy;vents an individual from doing harm to them&shy;selves or others.
+*Safety Net*, in this context, is something that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
 \
-*«My God helped me be&shy;come sober, and without Him I would probably drink myself to death.»*
+*«My Belief helped me be&shy;come sober, and without it I would probably drink myself to death.»*
 
 \
-SE is **not always the right tool**.
+SE is **not always** the right tool to use!
 
 
 [comment]: # (!!!)
 
 ### 4. Clarify terms
 
-* *«What do you mean when you say this?»*
+* *«What do you mean when you say …?»*
 * In your own words, **repeat** what you hear.
 * **Confirm** if you understand correctly.
 * Identify, clarify & qualify words that may confuse.
+
+\
+Take notes!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -165,11 +173,21 @@ Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
 Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 
+#### Learner's perspective
+
+Show that *you too* want to learn:
+
+* ✅ *«Can you help me understand what you mean with …»*
+* ✅ *«Do I understand you correctly …»*
+* ❌ *«Please explain to me …»*
+* ❌ *«Are you saying that …»*
+
+
 [comment]: # (!!!)
 
 ### 5. Assess & calibrate confidence
 
-* *«How **confident** are you this claim is true?»* 0–100%
+* *«How **confident** are you … is true?»* 0–100%
 * *«What would move you up just a bit?»*
 * *«What would move you down?»*
 * *«What could change your mind?»*
@@ -189,9 +207,11 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 #### Finding underlying claims
 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your confidence?»*
-* *«... and if not, what else is keeping you at your level of confidence?»*
-* Switching topic is ok!
+* *«… and **if not, what else** is keeping you at your level of confidence?»*
+* [Switching topic](#/3) is fine!
 
+\
+*«Claim 2 seems to be an important reason why you believe claim 1. Would you mind if we explore it instead?»*
 
 [comment]: # (!!!)
 
