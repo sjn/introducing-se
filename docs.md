@@ -35,6 +35,9 @@
 * A step towards lear&shy;ning col&shy;laborative thinking.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
 
+\
+Swipe ↓more, →continue
+
 
 [comment]: # (|||)
 
@@ -49,6 +52,23 @@ The field of Philosophy focusing on *how* we know what we know.
 
 \
 With SE we try to bring this out of academia and into everyday life.
+
+\
+Swipe ↓more, →continue
+
+
+[comment]: # (|||)
+
+#### About
+
+This site is…
+
+* A short introduction and overview of Street Epistemology (SE).
+* A reminder of useful tips when practicing SE.
+* A tool to share with anyone interested.
+
+\
+Swipe →continue
 
 
 [comment]: # (!!!)
