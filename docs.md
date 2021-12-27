@@ -114,7 +114,8 @@ Bring something to take notes with!
 
 ### 3. Find & confirm a claim
 
-* Find or pick a **single topic**.
+* *«Do you have a claim you want to explore?»*
+* Find or suggest a **single topic**.
 * Phrase the topic in the form of a claim.
 * Ask if it's a good claim to explore together.
 * *Don't rush when considering claims.*
@@ -127,11 +128,12 @@ Take notes!
 
 #### Good & bad claims
 
-* ✅ Claim is positive, e.g. *«this exists / is true»*
-* ✅ … Specific & clear.
+* ✅ Claim is specific & clear.
 * ✅ … Foundational or im&shy;portant.
-* ❌ … Trivial or obvious.
-* ⚠️  Stop if the claim is a *Safety Net*!
+* ✅ *«I believe …»*
+* ❌ *«I don't believe …»*
+* ⚠️  … Trivial or obvious.
+* ⚠️  Stop if the claim is a [Safety Net](#/3/2) belief!
 
 
 [comment]: # (|||)
@@ -167,7 +169,7 @@ Take notes!
 Adopt a learner's per&shy;spective – *«I want to understand.»*
 
 \
-Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
+Use *their* de&shy;fini&shy;tions.
 
 \
 Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
@@ -179,11 +181,13 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 * ✅ *«Can you help me under&shy;stand what you mean with …»*
 * ✅ *«Do I understand you correctly …»*
-* ❌ *«Please explain to me …»*
+* ✅ *«How do I explain to someone else …»*
+* ❌ *«Don't you think that …»
 * ❌ *«Are you saying that …»*
+* ❌ *«How do you justify …»*
 
 \
-Show that *you* want to learn!
+*«Be the open mind you want to encounter!»*
 
 
 [comment]: # (!!!)
