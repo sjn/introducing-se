@@ -70,8 +70,8 @@ Bring something to take notes with!
 #### Expect from yourself
 
 * Explore *how* they know what they know.
-* When in doubt, focus on *tech&shy;nique* instead of *topic.*
-* Don't listen presumptively.
+* When in doubt, focus on *tech&shy;nique* instead of *topic*.
+* Listen without presumption.
 * Avoid *only* using this guide. There's more to learn!
 
 
@@ -83,7 +83,7 @@ Bring something to take notes with!
 * … or «interviewing».
 * … or being embarrassed.
 * … or made to feel cornered.
-* Triumphing & *gotcha* moments are counter-<wbr>productive!
+* Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
 
 
 [comment]: # (!!!)
@@ -100,7 +100,7 @@ Bring something to take notes with!
 
 #### Patience & practice
 
-*Keeping a frien&shy;dly tone is critical for success.*
+*Keeping a frien&shy;dly tone is critical for success*.
 
 <br>
 
@@ -244,7 +244,7 @@ Show that *you* want to learn!
 
 #### Recognizing bad reasons
 
-* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to au&shy;th&shy;ority*, *ig&shy;no&shy;rance* or *tradition.*
+* ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to auth&shy;ority*, *ig&shy;no&shy;rance* or *tradition.*
 * ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias*, *Av&shy;ail&shy;abi&shy;lity heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning.*
 * ❌ Sources don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
@@ -282,7 +282,7 @@ Some conversations may re&shy;quire several sessions.
 End your sessions with some&shy;thing they can wonder about!
 
 \
-*«That was a good que&shy;stion. You're making me think!»*
+*«That was a good ques&shy;tion. You're making me think!»*
 
 
 [comment]: # (!!!)
