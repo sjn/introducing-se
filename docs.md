@@ -23,7 +23,7 @@
 7. [Summarize & pause to think](#/7)
 
 \
-*Swipe ↓more, →next*
+*Swipe ↓about, →continue*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -146,10 +146,10 @@ Take notes!
 *«My Belief helped me be&shy;come sober, and without it I would probably drink myself to death.»*
 
 \
-Please do no harm. Explore something safer instead!
+Please do no harm; Talk about something safer instead!
 
 \
-SE is **not always** the right tool to use.
+SE is **not always** the right tool to use, and it is **not** therapy.
 
 
 [comment]: # (!!!)
