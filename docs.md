@@ -173,14 +173,17 @@ Use *their* de&shy;fini&shy;tions, when pos&shy;sible.
 Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 
+[comment]: # (|||)
+
 #### Learner's perspective
 
-Show that *you too* want to learn:
-
-* ✅ *«Can you help me understand what you mean with …»*
+* ✅ *«Can you help me under&shy;stand what you mean with …»*
 * ✅ *«Do I understand you correctly …»*
 * ❌ *«Please explain to me …»*
 * ❌ *«Are you saying that …»*
+
+\
+Demonstrate that *you want to learn*.
 
 
 [comment]: # (!!!)
@@ -259,9 +262,9 @@ The **Outsider test** – *«Would some&shy;one else with your rea&shy;sons, but
 ### 7. Summarize & pause to think
 
 * Try to end with *wonder* or *aporia*.
-* Success is when **all are happy** to have had the conversation.
+* Success is when **both are happy** to have had the conversation.
 * If you can, offer to con&shy;tinue the chat later.
-* Offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
+* Give them a printed [Introducing.SE card](dist/media/introducing-se-card-2021-01.pdf)!
 
 \
 [🔙 *to start*](#)
