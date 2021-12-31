@@ -62,7 +62,7 @@ Swipe ↓more, →continue
 ### About this site
 
 * It's a short in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
-* … a reminder of use&shy;ful tips when prac&shy;ti&shy;sing SE.
+* … a reminder of use&shy;ful tips when prac&shy;ti&shy;cing SE.
 * … a tool to [share](#/8) with anyone interested.
 
 \
@@ -85,17 +85,20 @@ Bring something to take notes with!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Expect from yourself
+#### Expect from yourself 🚧
 
 * Explore *how* they know what they know.
 * When in doubt, focus on *tech&shy;nique* instead of *topic*.
 * Listen without presumption.
 * Avoid *only* using this guide. There's [more to learn](#/8/1)!
 
+\
+*«Be the open mind you want to encounter!»*
+
 
 [comment]: # (|||)
 
-#### Expect from them
+#### Expect from them 🚧
 
 * They dislike *scripted* conversations.
 * … or «interviewing».
@@ -184,7 +187,7 @@ Take notes!
 
 #### Politeness & clarity
 
-Adopt a learner's per&shy;spective – *«I want to understand.»*
+Adopt a learner's atti&shy;tude – *«I want to understand.»*
 
 \
 Use *their* de&shy;fini&shy;tions.
@@ -195,7 +198,17 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 [comment]: # (|||)
 
-#### Learner's perspective
+#### Learner's attitude 🚧
+
+* Be self-directed – ask about the things you are curious about.
+* Be open-minded – who knows what you can learn?
+* Be single-minded – focus on one topic until you grasp it.
+* Be responsible – don't just acknowledge, but *learn to know*.
+
+
+[comment]: # (|||)
+
+#### Ask, don't tell 🚧
 
 * ✅ *«Can you help me under&shy;stand what you mean with …»*
 * ✅ *«Do I understand you correctly …»*
@@ -203,9 +216,6 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 * ❌ *«Don't you think that …»*
 * ❌ *«Are you saying that …»*
 * ❌ *«How do you justify …»*
-
-\
-*«Be the open mind you want to encounter!»*
 
 
 [comment]: # (!!!)
@@ -274,7 +284,7 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 [comment]: # (|||)
 
-#### Explore reasoning
+#### Explore reasoning 🚧
 
 **The outsider test** – *«Would some&shy;one with your rea&shy;sons, but one core dif&shy;fer&shy;ence, still reach the same conclusion?»*
 
