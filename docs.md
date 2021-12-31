@@ -14,7 +14,7 @@
 
 ### How to explore ideas & beliefs
 
-1. [Come prepared](#/1)
+1. [Prepare](#/1)
 2. [Build rapport](#/2)
 3. [Find & confirm a claim](#/3)
 4. [Clarify terms](#/4)
@@ -63,6 +63,8 @@ Swipe ↓more, →continue
 
 This site is…
 
+<br>
+
 * A short introduction and overview of Street Epistemology (SE).
 * A reminder of useful tips when practicing SE.
 * A tool to share with anyone interested.
@@ -73,7 +75,7 @@ Swipe →continue
 
 [comment]: # (!!!)
 
-### 1. Come prepared
+### 1. Prepare
 
 * Recording? **Ask for consent**.
 * Do you want to learn, empathize or change their mind?
@@ -205,7 +207,7 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 * ✅ *«Can you help me under&shy;stand what you mean with …»*
 * ✅ *«Do I understand you correctly …»*
 * ✅ *«How do I explain to someone else …»*
-* ❌ *«Don't you think that …»
+* ❌ *«Don't you think that …»*
 * ❌ *«Are you saying that …»*
 * ❌ *«How do you justify …»*
 
@@ -256,9 +258,7 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-*This is the key goal of Street&nbsp;Epistemology.*
-
-<br>
+#### The key goal of SE
 
 * Explore the reliability of methods used when forming a belief.
 * *How* questions are bet&shy;ter than *Why* & *What.*
@@ -283,7 +283,7 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 #### Explore reasoning
 
-**The outsider test** – *«Would some&shy;one else with your rea&shy;sons, but one core dif&shy;fer&shy;ence, reach the same conclusion?»*
+**The outsider test** – *«Would some&shy;one with your rea&shy;sons, but one core dif&shy;fer&shy;ence, still reach the same conclusion?»*
 
 
 [comment]: # (!!!)
@@ -301,12 +301,12 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Reason to return
+#### Reasons to return
 
 Some conversations may re&shy;quire several sessions.
 
 \
-End your sessions with some&shy;thing they can wonder about!
+End your sessions on a positive note, with some&shy;thing they can wonder about!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
