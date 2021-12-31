@@ -158,16 +158,13 @@ Take notes!
 
 #### When to abort early
 
-*Safety Net*, is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
+Here, a *Safety Net* is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
 \
 *«My Belief helped me be&shy;come sober, and without it I would probably drink myself to death.»*
 
 \
-Do no harm; Talk about something safer instead!
-
-\
-SE is **not always** the right tool to use, and it is **not** therapy.
+SE is not always the right tool to use, and it is **not therapy**. Please do no harm!
 
 
 [comment]: # (!!!)
