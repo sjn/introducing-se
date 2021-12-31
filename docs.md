@@ -59,15 +59,11 @@ Swipe ↓more, →continue
 
 [comment]: # (|||)
 
-#### About
+### About this site
 
-This site is…
-
-<br>
-
-* A short introduction and overview of Street Epistemology (SE).
-* A reminder of useful tips when practicing SE.
-* A tool to share with anyone interested.
+* It's a short in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
+* … a reminder of use&shy;ful tips when prac&shy;ti&shy;sing SE.
+* … a tool to [share](#/8) with anyone interested.
 
 \
 Swipe →continue
@@ -162,13 +158,13 @@ Take notes!
 
 #### When to abort early
 
-*Safety Net*, in this context, is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
+*Safety Net*, is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
 \
 *«My Belief helped me be&shy;come sober, and without it I would probably drink myself to death.»*
 
 \
-Please do no harm; Talk about something safer instead!
+Do no harm; Talk about something safer instead!
 
 \
 SE is **not always** the right tool to use, and it is **not** therapy.
@@ -326,7 +322,7 @@ End your sessions on a positive note, with some&shy;thing they can wonder about!
 ### Learn more
 
 * Join The Street&nbsp;Epistemology community! You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
-* Find SE videos, blogs, tutorials and other resources on [streetepistemology.com](https://streetepistemology.com/).
+* Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
 
 
 
