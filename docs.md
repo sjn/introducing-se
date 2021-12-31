@@ -339,7 +339,7 @@ End your sessions on a positive note, with some&shy;thing they can wonder about!
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> &amp; content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve&nbsp;J.&nbsp;Nilsen</a> &amp; others, is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC-BY-SA-4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
 
-#### Contribute
+#### Contribute 🚧
 
 Source code and content is on [Github](https://github.com/sjn/introducing-se/).
 
