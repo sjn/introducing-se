@@ -1,25 +1,37 @@
+TARGET=docs/
 
-TARGETS=docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/share-this.png
+CARD_SOURCES = src/introducing-se-card-2021-01-back.pdf src/introducing-se-card-2021-01-front.pdf
+CARD_BUILD   = dist/media/introducing-se-card-2021-01.pdf
+CARD_TARGET  = $(addprefix ${TARGET},${CARD_BUILD})
+
+DOCS_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/share-this.png
+DOCS_BUILD   = dist/media/introducing-se-qr-clean.png
+DOCS_TARGETS = $(addprefix ${TARGET},${DOCS_SOURCES})
+
+
 MDSLIDES=${HOME}/.local/bin/mdslides
+PDFUNITE=/usr/bin/pdfunite
 
-all: slideshow
 
-slideshow: docs/index.html docs/dist/theme/streetepistemology.css docs/dist/media/street-epistemology-logo.png
+all: slideshow card
+
+slideshow: ${WEB_TARGETS}
+card: ${CARD_TARGET}
 
 docs/index.html: docs.md
-docs/dist/theme/streetepistemology.css: dist/theme/streetepistemology.css
-docs/dist/media/street-epistemology-logo.png: dist/media/street-epistemology-logo.png
-docs/dist/media/share-this.png: dist/media/share-this.png
 
-docs/dist/media/introducing-se-qr-clean.png: dist/media/introducing-se-qr-clean.png
-	qrencode -s 6 -l H -o "dist/media/introducing-se-qr-clean.png" "https://introducing.se"
+dist/media/introducing-se-qr-clean.png:
+	qrencode -s 6 -l H -m 2 -o "dist/media/introducing-se-qr-clean.png" "https://introducing.se"
 
-$(TARGETS):
+$(WEB_TARGETS) ${CARD_TARGET}: ${CARD_BUILD} ${DOCS_SOURCES} ${DOCS_BUILD}
 	${MDSLIDES} docs.md --include dist
 	git checkout docs/CNAME
 
-install: install-apt install-qrencode install-mdslides
+${CARD_BUILD}: ${CARD_SOURCES}
+	${PDFUNITE) ${CARD_SOURCES} ${CARD_BUILD}
 
+
+installdeps: install-apt install-qrencode install-mdslides install-poppler-utils
 
 install-mdslides:
 	pip3 install git+https://gitlab.com/da_doomer/markdown-slides.git
@@ -29,3 +41,6 @@ install-apt:
 
 install-qrencode:
 	sudo apt install qrencode
+
+install-poppler-utils:
+	sudo apt install poppler-utils
