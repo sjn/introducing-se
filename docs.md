@@ -284,24 +284,24 @@ Qualify terms – *«True»* vs. *«True for me»* vs. *«True for all.»*
 
 [comment]: # (|||)
 
-#### Explore reasoning I 🚧
+#### Explore reasoning I
 
-**The Outsider Test** – *«Would some&shy;one using your rea&shy;sons, but coming from a different position reach the same conclusion?»*
+**The outsider test** –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different position reach the same conclusion?»*
 
-**The Consultant Test** – *«How would you evaluate this reasoning if it wasn’t your reasoning?»*
+**The consultant test** –&nbsp;*«How would you evaluate this situation if it wasn’t your situation?»*
 
-**The Double Standard Test** – *«Am I judging other people’s reasoning by a standard I wouldn’t apply to myself?»*
+**The double standard test** –&nbsp;*«Am I judging other people’s reasoning by a standard I wouldn’t apply to myself?»*
 
 
 [comment]: # (|||)
 
-#### Explore reasoning II 🚧
+#### Explore reasoning II
 
-**The Conformity Test** – *«If other people no longer held this view, would you still hold it?»*
+**The conformity test** –&nbsp;*«If other people no longer held this view, would you still hold it?»*
 
-**The Status Quo Bias Test** – *«If your current situation was not the status quo, would you actively choose it?»*
+**The status quo bias test** –&nbsp;*«If your current situation was not the status quo, would you actively choose it?»*
 
-**The Selective Skeptic Test** – *«If the same reasoning supported a different conclusion, how credible would you judge it to be?»*
+**The selective skeptic test** –&nbsp;*«If the same reasoning supported a different conclusion, how credible would you judge it to be?»*
 
 
 [comment]: # (!!!)
