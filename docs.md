@@ -88,8 +88,8 @@ Swipe ↓more, →continue
 
 * Explore *how* they know what they know.
 * When in doubt, focus on *tech&shy;nique* instead of *topic*.
-* Listen without presumption, and attmpt to learn.
-* This guide is just a simple introduction. There's [more to learn](#/8/1)!
+* Listen without pre&shy;sump&shy;tion, and at&shy;tempt to learn.
+* This guide is just a sim&shy;ple intro&shy;duction. There's [more to learn](#/8/1)!
 
 \
 *«Be the open mind you want to encounter!»* — Abstract Activist
@@ -171,10 +171,9 @@ Swipe ↓more, →continue
 * ✅ *«Can you help me under&shy;stand what you mean with …»*
 * ✅ *«Do I understand you correctly …»*
 * ✅ *«How do I explain to someone else …»*
-* ❌ *«Don't you think that…»*
-* ❌ *«Are you saying that…»*
-* ❌ *«How do you justify…»*
-
+* ❌ *«Don't you think that …»*
+* ❌ *«Are you saying that …»*
+* ❌ *«How do you justify …»*
 
 
 [comment]: # (!!!)
@@ -188,7 +187,7 @@ Swipe ↓more, →continue
 * Ask if it's a good claim to explore together.
 
 \
-Don't rush when considering claims, and take notes!
+Don't rush when considering claims!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -202,7 +201,7 @@ Don't rush when considering claims, and take notes!
 * *«What do you mean when you say …?»*
 * In your own words, **repeat** what you hear.
 * **Confirm** if you under&shy;stand correctly.
-* Identify, clarify & qualify words that may confuse.
+* Identify, clarify & qualify words that are confusing.
 * Use *their* de&shy;fini&shy;tions.
 
 \
@@ -310,22 +309,28 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 
 #### Explore reliability I
 
-**The outsider test** –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different position reach the same conclusion?»*
+**The outsider test**
+–&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different position reach the same conclusion?»*
 
-**The consultant test** –&nbsp;*«How would you evaluate this situation if it wasn’t your personal situation?»*
+**The consultant test**
+–&nbsp;*«How would you evaluate this situation if it wasn’t your personal situation?»*
 
-**The double standard test** –&nbsp;*«Am I judging other people’s reasoning by a standard I wouldn’t apply to myself?»*
+**The double standard test**
+–&nbsp;*«Am I judging other people’s reasoning by a standard I wouldn’t apply to myself?»*
 
 
 [comment]: # (|||)
 
 #### Explore reliability II
 
-**The conformity test** –&nbsp;*«If other people no longer held this view, would you still hold it?»*
+**The conformity test**
+–&nbsp;*«If other people no longer held this view, would you still hold it?»*
 
-**The status quo bias test** –&nbsp;*«If your current situation was not the status quo, would you still actively choose it?»*
+**The status quo bias test**
+–&nbsp;*«If your current situation was not the status quo, would you still actively choose it?»*
 
-**The selective skeptic test** –&nbsp;*«If the same reasoning supported a different conclusion, how credible would you judge it to be?»*
+**The selective skeptic test**
+–&nbsp;*«If the same reasoning supported a different conclusion, how credible would you judge it to be?»*
 
 
 [comment]: # (|||)
@@ -344,8 +349,8 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 
 ### 6. End the conversation
 
-* Try to end with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
-* Success? – You have it when **both are happy** to have had the conversation.
+* Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
+* Success? – You have it when **both are happy** to have had the con&shy;ver&shy;sation.
 * If you can, offer to con&shy;tinue the chat later.
 * Maybe give them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-01.pdf)?
 
@@ -383,7 +388,7 @@ End your sessions on a positive note, with some&shy;thing they can wonder about!
 * Join the SE com&shy;munity. You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice SE in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Still unsure? Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
+* Want some more explanations? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
 
 
 [comment]: # (|||)
