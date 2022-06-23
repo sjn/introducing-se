@@ -35,6 +35,7 @@
 * A conversatio&shy;nal tool&shy;box for explo&shy;ring ideas and beliefs.
 * A step towards lear&shy;ning col&shy;laborative thinking.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
+* [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
 
 \
 Swipe ↓more, →continue
@@ -78,8 +79,23 @@ Swipe →continue
 * Are you also open to changing your own mind?
 * Your intentions matter!
 
+\
+Swipe ↓more, →continue
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+#### Expect from yourself
+
+* Explore *how* they know what they know.
+* When in doubt, focus on *tech&shy;nique* instead of *topic*.
+* Listen without presumption, and attmpt to learn.
+* This guide is just a simple introduction. There's [more to learn](#/8/1)!
+
+\
+*«Be the open mind you want to encounter!»* — Abstract Activist
+
+
+[comment]: # (|||)
 
 #### Expect from them
 
@@ -88,46 +104,6 @@ Swipe →continue
 * … or being embarrassed.
 * … or made to feel cornered.
 * Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
-
-
-[comment]: # (|||)
-
-#### Expect from yourself
-
-* Explore *how* they know what they know.
-* When in doubt, focus on *tech&shy;nique* instead of *topic*.
-* Listen without presumption, and attmpt to learn.
-* This guide is just a start. There's [more to learn](#/8/1)!
-
-\
-*«Be the open mind you want to encounter!»*
-
-
-[comment]: # (|||)
-
-#### Learner's attitude
-
-*«I want to understand.»*
-
-<br>
-
-* Self-directed – ask about what you find curious or confusing.
-* Accepting – there's always something to learn!
-* Single-minded – focus on one topic until you grasp it.
-* Thorough – don't just acknowledge, but try to *connect* ideas.
-
-
-[comment]: # (|||)
-
-#### Ask, don't tell
-
-* ✅ *«Can you help me under&shy;stand what you mean with …»*
-* ✅ *«Do I understand you correctly …»*
-* ✅ *«How do I explain to someone else …»*
-* ❌ *«Don't you think that …»*
-* ❌ *«Are you saying that …»*
-* ❌ *«How do you justify …»*
-
 
 
 [comment]: # (|||)
@@ -168,10 +144,37 @@ Swipe →continue
 
 <br>
 
-* *Be patient* – Expect to have seve&shy;ral easy chats before pro&shy;ce&shy;eding with hard topics.
-* *Don't offer facts*, unless asked.
-* *Stay cool* – Avoiding *topic rebut&shy;tal* (offering facts) may require practice!
+* *Be patient* – You may have to have seve&shy;ral easy chats before pro&shy;ce&shy;eding to harder topics.
+* *Don't offer facts* ("topic rebuttal"), unless asked.
+* *Stay cool* – Avoiding *topic rebut&shy;tal* may require practice!
 * *Practice* – [SE may at first be easier with strangers](#/8/1).
+
+
+[comment]: # (|||)
+
+#### Adopt a learner's attitude
+
+*«I want to understand.»*
+
+<br>
+
+* Self-directed – ask about what you find curious or confusing.
+* Accepting – there's always something to learn!
+* Single-minded – focus on one topic until you grasp it.
+* Thorough – don't just acknowledge, but try to *connect* ideas.
+
+
+[comment]: # (|||)
+
+#### Ask, don't tell
+
+* ✅ *«Can you help me under&shy;stand what you mean with …»*
+* ✅ *«Do I understand you correctly …»*
+* ✅ *«How do I explain to someone else …»*
+* ❌ *«Don't you think that…»*
+* ❌ *«Are you saying that…»*
+* ❌ *«How do you justify…»*
+
 
 
 [comment]: # (!!!)
@@ -377,10 +380,10 @@ End your sessions on a positive note, with some&shy;thing they can wonder about!
 ### 7. Share & learn!
 
 * Share your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
-* Join the SE com&shy;munity! You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
+* Join the SE com&shy;munity. You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice SE in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Still unsure? Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
+* Still unsure? Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
 
 
 [comment]: # (|||)
