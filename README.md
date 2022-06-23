@@ -1,17 +1,16 @@
 # Introducing Street Epistemology
 
-This site gives a very short introduction to Street Epistemology, in the
-form of a slideshow and accompanying business cards to give away.
+This site gives a very short introduction to Street Epistemology, in the form of a slideshow and accompanying business cards to give away.
 
-Please check out [introducing.se](https://introucing.se) to see the site
-in full. Best viewed on a mobile phone!
+Please check out [introducing.se](https://introucing.se) to see the site in full.
+Best viewed on a mobile phone!
 
 
 # Dependencies and acknowledgments
 
 This site is built with dadoomer's markdown-slides tool, and Reveal.js.
-Please see these separate projects for license and usage terms. The site
-is hosted on Github Pages.
+Please see these separate projects for license and usage terms.
+The site is hosted on Github Pages.
 
 
 ## Markdown-slides
@@ -31,10 +30,15 @@ https://pages.github.com
 
 # Contributors
 
+* CanIBeBlue (SE Discord)
 * Elgvin, Jared
 * Helgadottir, Anna
 * Hove, Erlend
 * Magnabosco, Anthony
 * Nilsen, Salve J.
 * Säde, Ragnar
-* CanIBeBlue (SE Discord)
+
+
+## Inspiration
+
+Further inspiration for the content on this site has been gathered from the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page on streetepistemology.com, and from practicing and observing SE conversations on the SE Discord server and with strangers.
