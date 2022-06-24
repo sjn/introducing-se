@@ -35,7 +35,7 @@
 * A conversatio&shy;nal tool&shy;box for explo&shy;ring ideas and beliefs.
 * A step towards lear&shy;ning col&shy;laborative thinking.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
-* [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
+* Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
 
 \
 Swipe ↓more, →continue
@@ -75,7 +75,7 @@ Swipe →continue
 
 ### 0. Consider your goals
 
-* Decide if you want to learn, empathize or change their mind.
+* Decide if you want to learn, empathize or help them change their mind.
 * Are you also open to changing your own mind?
 * Your intentions matter!
 
@@ -123,7 +123,7 @@ Swipe ↓more, →continue
 * Establish a **friendly tone** & maintain it.
 * Show you're inter&shy;ested & listening.
 * Show curiosity; explore their ideas!
-* Share what You have in common.
+* Share what you have in common.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -145,7 +145,7 @@ Swipe ↓more, →continue
 <br>
 
 * *Be patient* – You may have to have seve&shy;ral easy chats before pro&shy;ce&shy;eding to harder topics.
-* *Don't offer facts* ("topic rebuttal"), unless asked.
+* *Don't offer facts* (*topic rebut&shy;tal*), unless asked.
 * *Stay cool* – Avoiding *topic rebut&shy;tal* may require practice!
 * *Practice* – [SE may at first be easier with strangers](#/8/1).
 
