@@ -20,8 +20,8 @@
 3. [Ask for & calibrate scaled confidence](#/4)
 4. [Identify main reason](#/5)
 5. [Explore & assess epistemology](#/6)
-6. [End with a good question](#/7)
-7. [Share and analyze](#/8)
+6. [End on a high note, with a good question](#/7)
+7. [Share & analyze](#/8)
 
 \
 *Swipe ↓about, →continue*
@@ -131,7 +131,7 @@ Swipe ↓more, →continue
 
 #### Politeness & intentions
 
-* Share your considered intentions upfront.
+* Share [your intentions](#/1) upfront.
 * [Describe](#/0) or explain this method, and ask if they are open for this!
 * Recording? **Ask for consent**.
 * Offer to set a timer if they have limited time.
@@ -349,7 +349,7 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 
 [comment]: # (!!!)
 
-### 6. End on good terms, with a good question
+### 6. End on a high note, with a good question
 
 * The best endings offer food for thought!
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
@@ -379,7 +379,7 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 * Join the SE com&shy;munity. You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice SE in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Want some more explanations? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
+* Want some more ex&shy;pla&shy;na&shy;tions? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")

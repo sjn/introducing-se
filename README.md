@@ -36,9 +36,20 @@ https://pages.github.com
 * Hove, Erlend
 * Magnabosco, Anthony
 * Nilsen, Salve J.
+* RyanAin'tLyin (SE Discord)
 * Säde, Ragnar
 
 
 ## Inspiration
 
 Further inspiration for the content on this site has been gathered from the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page on streetepistemology.com, and from practicing and observing SE conversations on the SE Discord server and with strangers.
+
+
+### Books
+
+* *A Manual for Creating Atheists* by Peter Boghossian
+* *How to Have Impossible Conversations* by Peter Boghossian and James Lindsay
+* *The Scout Mindset* by Julia Galef
+* *Mental Immunity* by Andy Norman
+* *The Constitution of Knowledge* by Jonathan Rauch
+* *How Minds Change* by David McRaney
