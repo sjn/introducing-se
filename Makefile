@@ -8,6 +8,7 @@ DOCS_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-
 DOCS_BUILD   = dist/media/introducing-se-qr-clean.png
 DOCS_TARGETS = $(addprefix ${TARGET},${DOCS_SOURCES})
 
+WEB_TARGETS  = docs/index.html
 
 MDSLIDES=${HOME}/.local/bin/mdslides
 PDFUNITE=/usr/bin/pdfunite

@@ -375,7 +375,7 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 ### 7. Share & collaborate
 
-* Share your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
+* [Share](#/8/1) your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
 * Join the SE com&shy;munity. You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice SE in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
