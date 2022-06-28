@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (1:1.2+202206011326+fc4e4096c5)"
-   sodipodi:docname="introducing-se-card-2021-01-front.svg"
+   sodipodi:docname="introducing-se-card-2022-01-front.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8101934"
-     inkscape:cx="109.38058"
-     inkscape:cy="171.80485"
-     inkscape:window-width="1460"
-     inkscape:window-height="1083"
+     inkscape:cx="119.32427"
+     inkscape:cy="189.48252"
+     inkscape:window-width="1315"
+     inkscape:window-height="1257"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -73,75 +73,72 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="27.913925"
-       y="8.508955"
+       x="27.38476"
+       y="10.418592"
        id="text1221"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="27.913925"
-         y="8.508955"
-         id="tspan21108">How to Explore</tspan><tspan
+         x="27.38476"
+         y="10.418592"
+         id="tspan21108">How to explore</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:4.58611px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="27.913925"
-         y="14.241592"
+         x="27.38476"
+         y="16.15123"
          id="tspan21112">ideas &amp; beliefs</tspan></text>
     <g
        id="g17382"
-       transform="translate(-0.17983083,-4.4349818)">
+       transform="translate(0.30797784,-0.46416076)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:39.9656;display:inline;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:39.3958;display:inline;stroke-width:0.264583"
          x="10.612441"
          y="27.594576"
          id="text9011"
          transform="translate(0,-2.1166666)"><tspan
            x="10.612441"
            y="27.594576"
-           id="tspan671">Consider your goals
+           id="tspan499">Consider intentions
 </tspan><tspan
            x="10.612441"
            y="32.445277"
-           id="tspan673">Establish rapport &amp; </tspan><tspan
+           id="tspan501">Establish rapport &amp; </tspan><tspan
            x="10.612441"
            y="37.295975"
-           id="tspan675">informed consent
+           id="tspan503">informed consent
 </tspan><tspan
            x="10.612441"
            y="42.146676"
-           id="tspan677">Find &amp; clarify a claim
+           id="tspan505">Find &amp; clarify claim
 </tspan><tspan
            x="10.612441"
            y="46.997376"
-           id="tspan679">Ask for &amp; calibrate </tspan><tspan
+           id="tspan507">Ask for &amp; calibrate </tspan><tspan
            x="10.612441"
            y="51.848076"
-           id="tspan681">Confidence
+           id="tspan509">scaled confidence
 </tspan><tspan
            x="10.612441"
            y="56.698777"
-           id="tspan683">Identify &amp; explore </tspan><tspan
+           id="tspan511">Identify main reason
+</tspan><tspan
            x="10.612441"
            y="61.549477"
-           id="tspan685">main reason
-</tspan><tspan
+           id="tspan513">Explore &amp; assess </tspan><tspan
            x="10.612441"
            y="66.400177"
-           id="tspan687">Explore &amp; assess </tspan><tspan
+           id="tspan515">epistemology
+</tspan><tspan
            x="10.612441"
            y="71.250878"
-           id="tspan689">epistemology
-</tspan><tspan
+           id="tspan517">End with a good </tspan><tspan
            x="10.612441"
            y="76.101578"
-           id="tspan691">End, summarize &amp; </tspan><tspan
-           x="10.612441"
-           y="80.952279"
-           id="tspan693">pause to think
+           id="tspan519">question
 </tspan><tspan
            x="10.612441"
-           y="85.802979"
-           id="tspan695">Share this!</tspan></text>
+           y="80.952279"
+           id="tspan521">Share &amp; analyze</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
@@ -182,36 +179,31 @@
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
            x="8.7604475"
            y="54.582111"
-           id="tspan15610">4.</tspan><tspan
+           id="tspan17045">4.</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
            x="8.7604475"
            y="59.432812"
-           id="tspan17045" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
-           x="8.7604475"
-           y="64.283508"
            id="tspan291">5.</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
            x="8.7604475"
-           y="69.134209"
+           y="64.283508"
            id="tspan8627" /><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
            x="8.7604475"
+           y="69.134209"
+           id="tspan293">6.</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="8.7604475"
            y="73.984909"
-           id="tspan8629">6.</tspan><tspan
+           id="tspan419" /><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
            x="8.7604475"
            y="78.835609"
-           id="tspan293" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88056px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.264583"
-           x="8.7604475"
-           y="83.68631"
            id="tspan295">7.</tspan></text>
     </g>
   </g>
