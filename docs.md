@@ -21,7 +21,7 @@
 4. [Identify main reason](#/5)
 5. [Explore & assess epistemology](#/6)
 6. [End on a high note, with a good question](#/7)
-7. [Share & analyze](#/8)
+7. [Share & collaborate](#/8)
 
 \
 *Swipe ↓about, →continue*
@@ -373,7 +373,7 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 [comment]: # (!!!)
 
-### 7. Share & analyze
+### 7. Share & collaborate
 
 * Share your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
 * Join the SE com&shy;munity. You can find it on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
