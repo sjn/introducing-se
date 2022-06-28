@@ -1,6 +1,6 @@
 TARGET=docs/
 
-CARD_SOURCES = src/introducing-se-card-2022-01-back.pdf src/introducing-se-card-2022-01-front.pdf
+CARD_SOURCES = src/introducing-se-card-2022-01-front.pdf src/introducing-se-card-2022-01-back.pdf
 CARD_BUILD   = dist/media/introducing-se-card-2022-01.pdf
 CARD_TARGET  = $(addprefix ${TARGET},${CARD_BUILD})
 
@@ -18,8 +18,6 @@ all: slideshow card
 
 slideshow: ${WEB_TARGETS}
 card: ${CARD_TARGET}
-
-docs/index.html: docs.md
 
 dist/media/introducing-se-qr-clean.png:
 	qrencode -s 6 -l H -m 2 -o "dist/media/introducing-se-qr-clean.png" "https://introducing.se"
