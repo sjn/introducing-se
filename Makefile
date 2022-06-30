@@ -1,48 +1,76 @@
 TARGET=docs/
 
-CARD_SOURCES = src/introducing-se-card-2022-01-front.pdf src/introducing-se-card-2022-01-back.pdf
-CARD_BUILD   = dist/media/introducing-se-card-2022-01.pdf
-CARD_TARGET  = $(addprefix ${TARGET},${CARD_BUILD})
+DOCS_SOURCE  = docs.md
+DOCS_TARGET  = ${TARGET}/index.html
 
-DOCS_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/share-this.png
-DOCS_BUILD   = dist/media/introducing-se-qr-clean.png
-DOCS_TARGETS = $(addprefix ${TARGET},${DOCS_SOURCES})
+ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/share-this-site-qr.png
+ASSET_TARGETS = $(addprefix ${TARGET},${ASSET_SOURCES})
 
-WEB_TARGETS  = docs/index.html
+CARD_SOURCES = src/introducing-se-card-2022-01-front.svg src/introducing-se-card-2022-01-back.svg
+CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
+CARD_TARGET  = ${TARGET}/dist/media/introducing-se-card-2022-01.pdf
 
-MDSLIDES=${HOME}/.local/bin/mdslides
+
+# To install, run "make install-mdslides"
+MDSLIDES = ${HOME}/.local/bin/mdslides
+
+# To install, run "make install-poppler-utils"
 PDFUNITE=/usr/bin/pdfunite
 
+# To install, run "make install-inkscape"
+INKSCAPE=/usr/bin/inkscape
 
-all: slideshow card
 
-slideshow: ${WEB_TARGETS}
+all: site card
+
 card: ${CARD_TARGET}
 
-dist/media/introducing-se-qr-clean.png:
-	qrencode -s 6 -l H -m 2 -o "dist/media/introducing-se-qr-clean.png" "https://introducing.se"
-
-${CARD_TARGET}: ${CARD_BUILD}
-	cp -p ${CARD_BUILD} ${CARD_TARGET}
-
-$(WEB_TARGETS): ${DOCS_SOURCES} ${DOCS_BUILD}
+site: ${DOCS_TARGET} ${ASSET_TARGETS}
 	${MDSLIDES} docs.md --include dist
 	git checkout docs/CNAME
 
+
+${CARD_TARGET}: ${CARD_BUILD}
+	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
+
 ${CARD_BUILD}: ${CARD_SOURCES}
-	${PDFUNITE} ${CARD_SOURCES} ${CARD_BUILD}
+	${INKSCAPE} -C -o $@ $(patsubst %.pdf,%.svg,$@)
+
+${DOCS_TARGET}: ${DOCS_SOURCE}
+
+${ASSETS_TARGETS}: ${ASSETS_SOURCES}
 
 
-installdeps: install-apt install-qrencode install-mdslides install-poppler-utils
 
-install-mdslides:
+# TODO: improve QR code generation method
+dist/media/introducing-se-qr-clean.png:
+	qrencode -s 6 -l H -m 2 -o "dist/media/introducing-se-qr-clean.png" "https://introducing.se"
+
+
+## Intalling dependencies
+
+installdeps: install-qrencode install-mdslides install-poppler-utils install-inkscape
+
+# Installation instructions: https://github.com/dadoomer/markdown-slides
+install-mdslides: install-pip3
 	pip3 install git+https://gitlab.com/da_doomer/markdown-slides.git
 
-install-apt:
+install-pip3:
 	sudo apt install python3-pip
 
 install-qrencode:
 	sudo apt install qrencode
 
+# pdfunite is supplied by poppler-utils
 install-poppler-utils:
 	sudo apt install poppler-utils
+
+install-inkscape:
+	sudo apt install inkscape
+
+
+
+## Graph this Makefile
+
+make2graph:
+	@echo 'make -Bnd | make2graph | dot -Lg -x -Tsvg -o out.svg'
