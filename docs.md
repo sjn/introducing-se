@@ -24,7 +24,7 @@
 7. [Share & collaborate](#/8)
 
 \
-*Swipe ↓about, →continue*
+Swipe ↓[about](#/0/1), →[continue](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -38,7 +38,7 @@
 * Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
 
 \
-Swipe ↓more, →continue
+Swipe ↓[more](#/0/2), →[continue](#/1)
 
 
 [comment]: # (|||)
@@ -56,7 +56,7 @@ The field of Philosophy focusing on *how* we know what we know.
 With SE we try to bring this out of academia and into everyday life.
 
 \
-Swipe ↓more, →continue
+Swipe ↓[more](#/0/3), →[continue](#/1)
 
 
 [comment]: # (|||)
@@ -68,19 +68,21 @@ Swipe ↓more, →continue
 * … a tool to [share](#/8) with anyone interested.
 
 \
-Swipe →continue
+Swipe →[continue](#/1)
 
 
 [comment]: # (!!!)
 
 ### 0. Consider intentions
 
-* Decide if you want to learn, empathize or help them change their mind.
-* Are you also open to changing your own mind?
-* Your goals and intentions matter!
+* Before trying SE, ask yourself some questions.
+* What do you want to do? Learn, empathize or help them change their mind?
+* Are you open to changing your own mind?
+* As you proceed, remember your goals and intentions matter!
 
 \
-Swipe ↓more, →continue
+Swipe ↓[more](#/1/1), →[continue](#/2)
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -125,6 +127,8 @@ Swipe ↓more, →continue
 * Show you're inter&shy;ested & listening.
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
+
+Swipe ↓[more](#/2/1), →[continue](#/3)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -182,7 +186,7 @@ Swipe ↓more, →continue
 ### 2. Find & clarify claim
 
 * *«Do you have a claim you want to explore?»*
-* *«... a topic you wish more people knew about?»*
+* *«... a topic you wish more people knew of?»*
 * *«Would you mind if we explored this claim together?»*
 * Aim to find a **single topic**.
 * Phrase the topic in the form of a claim.
@@ -203,7 +207,7 @@ Don't rush when considering claims!
 * *«What do you mean when you say …?»*
 * In your own words, **repeat** what you hear.
 * **Confirm** if you under&shy;stand correctly.
-* Identify, clarify & qualify words that are confusing.
+* Identify, clarify & qualify confusing words.
 * Use *their* de&shy;fini&shy;tions.
 
 \
@@ -261,7 +265,7 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 #### Pre-contemplative or not?
 
 * 100% or 0% con&shy;fidence may indicate they are pre-&shy;con&shy;tem&shy;pla&shy;tive – not yet open to explore.
-* *«If there is room to become more confident, what does this say about your current confidence?»*
+* *«If there is room to be&shy;come more con&shy;fi&shy;ent, what does this say about your current confidence?»*
 
 
 [comment]: # (!!!)
@@ -377,7 +381,7 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 * [Share](#/8/1) your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
 * You can find the SE community on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
-* Practice and collaborate in a friendly environment!
+* Practice and learn in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
 * Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
 
