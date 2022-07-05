@@ -31,7 +31,7 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 
 #### What is Street Epistemology (SE)?
 
-* A way to reflect on the qua&shy;lity of one's rea&sht;so&shy;ning th&shy;rough conversation.
+* A way to reflect on the qua&shy;lity of one's rea&shy;so&shy;ning th&shy;rough conversation.
 * A way to have bet&shy;ter talks about hard topics.
 * A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
@@ -64,8 +64,8 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 #### What is Introducing.SE?
 
 * It's a short in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
-* … a reminder of use&shy;ful tips when prac&shy;ti&shy;cing SE.
-* … a tool to [share](#/8) with anyone interested.
+* …a reminder of use&shy;ful tips when prac&shy;ti&shy;cing SE.
+* …a tool to [share](#/8) with anyone interested.
 
 \
 Swipe →[continue](#/1)
@@ -94,7 +94,7 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * This guide is just a sim&shy;ple intro&shy;duction. There's [more to learn](#/8/1)!
 
 \
-*«Be the open mind you want to encounter!»* — Abstract Activist
+*«Be the open mind you want to encounter!»* —&nbsp;Abstract&nbsp;Activist
 
 
 [comment]: # (|||)
@@ -102,10 +102,10 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 #### Expect from them
 
 * They'll dislike *scripted* conversations.
-* … or «interviewing».
-* … or leading questions.
-* … or being embarrassed.
-* … or made to feel cornered.
+* …or «interviewing».
+* …or leading questions.
+* …or being em&shy;barrassed.
+* …or made to feel cornered.
 * Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
 
 
@@ -114,7 +114,7 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 #### Practical preparations
 
 * Bring something to take notes with.
-* Bring a friend! Let them listen without participation.
+* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
 * Optionally, bring an audio recorder for your own use or for sharing.
 * Optionally, bring a timer.
 
@@ -283,8 +283,8 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 #### Finding underlying reasons
 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your con&shy;fi&shy;dence?»*
-* *«… if so, how would it change?»*
-* *«… and if not, **what else** is keeping you at your confidence level?»*
+* *«…if so, how would it change?»*
+* *«…and if not, **what else** is keeping you at your confidence level?»*
 * [Switching topic](#/3) is fine!
 
 \
