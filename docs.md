@@ -383,7 +383,7 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 * You can find the SE community on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice and learn in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
+* Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
