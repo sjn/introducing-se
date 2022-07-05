@@ -31,9 +31,9 @@
 
 #### What is Street Epistemology (SE)?
 
-* A way to help us have bet&shy;ter talks about hard topics.
-* A conversatio&shy;nal tool&shy;box for explo&shy;ring ideas and beliefs.
-* A step towards lear&shy;ning col&shy;laborative thinking.
+* A way to reflect on the qua&shy;lity of one's rea&sht;so&shy;ning th&shy;rough conversation.
+* A way to have bet&shy;ter talks about hard topics.
+* A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
 * Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
 
