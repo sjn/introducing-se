@@ -1,10 +1,10 @@
-TARGET=docs/
+TARGET=docs
 
 DOCS_SOURCE  = docs.md
 DOCS_TARGET  = ${TARGET}/index.html
 
 ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/share-this-site-qr.png
-ASSET_TARGETS = $(addprefix ${TARGET},${ASSET_SOURCES})
+ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
 
 CARD_SOURCES = src/introducing-se-card-2022-01-front.svg src/introducing-se-card-2022-01-back.svg
 CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
@@ -32,6 +32,7 @@ site: ${DOCS_TARGET} ${ASSET_TARGETS}
 
 ${CARD_TARGET}: ${CARD_BUILD}
 	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
+	touch ${CARD_TARGET}
 
 ${CARD_BUILD}: ${CARD_SOURCES}
 	${INKSCAPE} -C -o $@ $(patsubst %.pdf,%.svg,$@)
@@ -74,3 +75,6 @@ install-inkscape:
 
 make2graph:
 	@echo 'make -Bnd | make2graph | dot -Lg -x -Tsvg -o out.svg'
+
+
+.PHONY: all card site

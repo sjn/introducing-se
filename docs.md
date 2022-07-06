@@ -14,7 +14,6 @@
 
 ### How to explore ideas & beliefs
 
-0. [Consider intentions](#/1)
 1. [Establish rapport & informed consent](#/2)
 2. [Find & clarify claim](#/3)
 3. [Ask for & calibrate scaled confidence](#/4)
@@ -22,6 +21,7 @@
 5. [Explore & assess epistemology](#/6)
 6. [End on a high note, with a good question](#/7)
 7. [Share & collaborate](#/8)
+0. [But first, consider intentions](#/1)
 
 \
 Swipe ↓[about](#/0/1), →[continue](#/1)
@@ -31,10 +31,10 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 
 #### What is Street Epistemology (SE)?
 
-* A way to reflect on the qua&shy;lity of one's rea&shy;so&shy;ning th&shy;rough conversation.
+* A way to reflect on the qua&shy;lity of one's rea&shy;so&shy;ning th&shy;rough con&shy;ver&shy;sa&shy;tion.
 * A way to have bet&shy;ter talks about hard topics.
 * A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
-* A community that prac&shy;tices SE in a frien&shy;dly environment.
+* A community that prac&shy;tices SE in a frien&shy;dly en&shy;vi&shy;ron&shy;ment.
 * Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
 
 \
@@ -49,7 +49,7 @@ The field of Philosophy focusing on *how* we know what we know.
 
 <br>
 
-* *«How do we know if something is true?»*
+* *«How do we know if some&shy;thing is true?»*
 * *«Which methods and tools can we employ to determine this?»*
 
 \
@@ -69,54 +69,6 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 
 \
 Swipe →[continue](#/1)
-
-
-[comment]: # (!!!)
-
-### 0. Consider intentions
-
-* Before trying SE, ask yourself some questions.
-* What do you want to do? Learn, empathize or help them change their mind?
-* Are you open to changing your own mind?
-* As you proceed, remember your goals and intentions matter!
-
-\
-Swipe ↓[more](#/1/1), →[continue](#/2)
-
-
-[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
-
-#### Expect from yourself
-
-* Prepare to explore *how* they know what they know.
-* When in doubt, focus on *tech&shy;nique* instead of *topic*.
-* Listen without pre&shy;sump&shy;tion, and at&shy;tempt to learn.
-* This guide is just a sim&shy;ple intro&shy;duction. There's [more to learn](#/8/1)!
-
-\
-*«Be the open mind you want to encounter!»* —&nbsp;Abstract&nbsp;Activist
-
-
-[comment]: # (|||)
-
-#### Expect from them
-
-* They'll dislike *scripted* conversations.
-* …or «interviewing».
-* …or leading questions.
-* …or being em&shy;barrassed.
-* …or made to feel cornered.
-* Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
-
-
-[comment]: # (|||)
-
-#### Practical preparations
-
-* Bring something to take notes with.
-* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
-* Optionally, bring an audio recorder for your own use or for sharing.
-* Optionally, bring a timer.
 
 
 [comment]: # (!!!)
@@ -403,9 +355,63 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 <br>
 
-#### Contribute 🚧
+#### Contribute to this site 🚧
 
 Source code and content is on [Github](https://github.com/sjn/introducing-se/).
 
 
+[comment]: # (!!!)
+
+### 0. But first, consider intentions
+
+* Before trying SE, ask yourself some questions.
+* What do you want to do? Learn, empathize or help them change their mind?
+* Are you open to changing your own mind?
+* What is it you *really* want to achieve?
+* As you proceed, remember your goals and intentions matter!
+
+\
+Swipe ↓[more](#/1/1), →[continue](#/2)
+
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+#### Expect from yourself
+
+* Prepare to explore *how* they know what they know.
+* Listen actively and without pre&shy;sump&shy;tion.
+* When in doubt, focus on *tech&shy;nique* instead of *topic*.
+* This guide is just a sim&shy;ple intro&shy;duction. There's [more to learn](#/8/1)!
+
+\
+*«Be the open mind you want to encounter!»*
+—&nbsp;Abstract&nbsp;Activist
+
+
 [comment]: # (|||)
+
+#### Expect from them
+
+* They'll dislike *scripted* conversations.
+* …or «interviewing».
+* …or leading questions.
+* …or being em&shy;barrassed.
+* …or made to feel cornered.
+* Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
+
+
+[comment]: # (|||)
+
+#### Practical preparations
+
+*Depending on context, it may be beneficial to…*
+
+<br>
+
+* Bring something to take notes with.
+* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
+* Optionally, bring an audio recorder for your own use or for sharing.
+* Optionally, bring a timer.
+
+\
+*Good luck!*
