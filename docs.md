@@ -125,12 +125,12 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 
 #### Ask, don't tell
 
-* ✅ *«Can you help me under&shy;stand what you mean with …»*
-* ✅ *«Do I understand you correctly …»*
-* ✅ *«How do I explain to someone else …»*
-* ❌ *«Don't you think that …»*
-* ❌ *«Are you saying that …»*
-* ❌ *«How do you justify …»*
+* ✅ *«Can you help me under&shy;stand what you mean with…»*
+* ✅ *«Do I understand you correctly…»*
+* ✅ *«How do I explain to someone else…»*
+* ❌ *«Don't you think that…»*
+* ❌ *«Are you saying that…»*
+* ❌ *«How do you justify…»*
 
 
 [comment]: # (!!!)
@@ -158,7 +158,7 @@ Don't rush when considering claims!
 
 * *«What do you mean when you say …?»*
 * In your own words, **repeat** what you hear.
-* **Confirm** if you under&shy;stand correctly.
+* Have them **confirm** if you under&shy;stand correctly.
 * Identify, clarify & qualify confusing words.
 * Use *their* de&shy;fini&shy;tions.
 
@@ -171,16 +171,16 @@ Take notes!
 #### Good & bad claims
 
 * ✅ Claim is specific & clear.
-* ✅ … Foundational or im&shy;portant.
+* ✅ …Foundational or im&shy;portant.
 * ✅ *«I believe …»*
 * ❌ *«I don't believe …»*
-* ⚠️  … Trivial or obvious.
+* ⚠️  …Trivial or obvious.
 * ⚠️  Stop if the claim supports a [Safety Net](#/2/3)!
 
 
 [comment]: # (|||)
 
-#### Stopping early
+#### ⚠️  Stopping early
 
 A *Safety Net* is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
 
@@ -312,9 +312,6 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 * If you can, offer to con&shy;tinue the chat later.
 * Maybe give them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-01.pdf)?
 
-\
-[🔙 *to start*](#)
-
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -336,6 +333,9 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 * Are you open to changing your own mind?
 * What is it you *really* want to achieve?
 * As you proceed, expect your goals and intentions to show.
+
+\
+[🔙 *to start*](#)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
