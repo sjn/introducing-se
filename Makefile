@@ -3,7 +3,7 @@ TARGET=docs
 DOCS_SOURCE  = docs.md
 DOCS_TARGET  = ${TARGET}/index.html
 
-ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/share-this-site-qr.png
+ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
 ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
 
 CARD_SOURCES = src/introducing-se-card-2022-01-front.svg src/introducing-se-card-2022-01-back.svg
