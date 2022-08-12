@@ -6,7 +6,7 @@ DOCS_TARGET  = ${TARGET}/index.html
 ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
 ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
 
-CARD_SOURCES = src/introducing-se-card-2022-01-front.svg src/introducing-se-card-2022-01-back.svg
+CARD_SOURCES = src/introducing-se-card-2022-02-front.svg src/introducing-se-card-2022-01-back.svg
 CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
 CARD_TARGET  = ${TARGET}/dist/media/introducing-se-card-2022-01.pdf
 

@@ -14,14 +14,14 @@
 
 ### How to explore ideas & beliefs
 
-1. [Establish rapport & informed consent](#/2)
-2. [Find & clarify claim](#/3)
-3. [Ask for & calibrate scaled confidence](#/4)
-4. [Identify main reason](#/5)
-5. [Explore & assess epistemology](#/6)
-6. [End on a high note, with a good question](#/7)
-7. [Share & collaborate](#/8)
-0. [But first, consider intentions](#/1)
+1. [Establish rapport & informed consent](#/1)
+2. [Find & clarify claim](#/2)
+3. [Ask for & calibrate scaled confidence](#/3)
+4. [Identify main reason](#/4)
+5. [Explore & assess epistemology](#/5)
+6. [End on a high note, with a good question](#/6)
+7. [But first, consider…](#/7)
+8. [Share & collaborate](#/8)
 
 \
 Swipe ↓[about](#/0/1), →[continue](#/1)
@@ -80,14 +80,14 @@ Swipe →[continue](#/1)
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
 
-Swipe ↓[more](#/2/1), →[continue](#/3)
+Swipe ↓[more](#/1/1), →[continue](#/2)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Politeness & intentions
 
-* Share [your intentions](#/1) upfront.
+* Share [your intentions](#/7) upfront.
 * [Describe](#/0) or explain this method, and ask if they are open for this!
 * Recording? **Ask for consent**.
 * Offer to set a timer if they have limited time.
@@ -175,7 +175,7 @@ Take notes!
 * ✅ *«I believe …»*
 * ❌ *«I don't believe …»*
 * ⚠️  … Trivial or obvious.
-* ⚠️  Stop if the claim supports a [Safety Net](#/3/2)!
+* ⚠️  Stop if the claim supports a [Safety Net](#/2/3)!
 
 
 [comment]: # (|||)
@@ -236,7 +236,7 @@ SE is not always the right tool to use, and it is **not therapy**. Please do no 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your con&shy;fi&shy;dence?»*
 * *«…if so, how would it change?»*
 * *«…and if not, **what else** is keeping you at your confidence level?»*
-* [Switching topic](#/3) is fine!
+* [Switching topic](#/2) is fine!
 
 \
 *«Claim 2 seems to be important for your belief in claim 1. Would you mind if we explore it instead?»*
@@ -326,9 +326,50 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 *«That was a good ques&shy;tion. You're making me think!»*
 
 
+
 [comment]: # (!!!)
 
-### 7. Share & collaborate
+### 7. But first, consider…
+
+* Before trying SE, ask yourself some questions.
+* What do you want to do? Learn, empathize or help them change their mind?
+* Are you open to changing your own mind?
+* What is it you *really* want to achieve?
+* As you proceed, expect your goals and intentions to show.
+
+
+[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+
+#### Practical preparations
+
+*Depending on your situation, you may also want to…*
+
+<br>
+
+* Bring something to take notes with.
+* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
+* Optionally, bring an audio recorder for your own use or for sharing.
+* Optionally, bring a timer.
+
+
+[comment]: # (|||)
+
+#### Personal preparations
+
+* Expect they'll dislike *scripted* conversations.
+* …or «interviewing».
+* …or leading questions.
+* …or being em&shy;barrassed.
+* …or made to feel cornered.
+
+\
+*— Listen actively and without pre&shy;sump&shy;tion!*
+
+
+[comment]: # (!!!)
+
+### 8. Share & collaborate
 
 * [Share](#/8/1) your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
 * You can find the SE community on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
@@ -358,58 +399,4 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 Source code and content is on [Github](https://github.com/sjn/introducing-se/).
 
 
-[comment]: # (!!!)
-
-### 0. But first, consider intentions
-
-* Before trying SE, ask yourself some questions.
-* What do you want to do? Learn, empathize or help them change their mind?
-* Are you open to changing your own mind?
-* What is it you *really* want to achieve?
-* As you proceed, expect your goals and intentions to show.
-
-\
-Swipe ↓[more](#/1/1), →[continue](#/2)
-
-
-[comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
-
-
-#### Practical preparations
-
-*Depending on your situation, you may want to…*
-
-<br>
-
-* Bring something to take notes with.
-* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
-* Optionally, bring an audio recorder for your own use or for sharing.
-* Optionally, bring a timer.
-
-
 [comment]: # (|||)
-
-#### Expect from yourself
-
-* Prepare to explore *how* they know what they know.
-* Listen actively and without pre&shy;sump&shy;tion.
-* When in doubt, focus on *tech&shy;nique* instead of *topic*.
-* This guide is just a sim&shy;ple intro&shy;duction. There's [more to learn](#/8/1)!
-
-\
-*«Be the open mind you want to encounter!»*
-—&nbsp;Abstract&nbsp;Activist
-
-
-[comment]: # (|||)
-
-#### Expect from them
-
-* They'll dislike *scripted* conversations.
-* …or «interviewing».
-* …or leading questions.
-* …or being em&shy;barrassed.
-* …or made to feel cornered.
-* Triumphing & *gotcha* moments are coun&shy;ter&shy;productive!
-
- [comment]: # (|||)
