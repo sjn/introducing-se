@@ -35,7 +35,6 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 * A way to have bet&shy;ter con&shy;ver&shy;sa&shy;tion about con&shy;ten&shy;ti&shy;ous topics.
 * A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly en&shy;vi&shy;ron&shy;ment.
-* Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
 
 \
 Swipe ↓[more](#/0/2), →[continue](#/1)
