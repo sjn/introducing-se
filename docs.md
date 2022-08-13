@@ -31,8 +31,8 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 
 #### What is Street Epistemology (SE)?
 
-* A way to reflect on the qua&shy;lity of one's rea&shy;so&shy;ning th&shy;rough con&shy;ver&shy;sa&shy;tion.
-* A way to have bet&shy;ter talks about hard topics.
+* A way, th&shy;rough dia&shy;logue, to re&shy;flect on the qua&shy;lity of one's rea&shy;so&shy;ning.
+* A way to have bet&shy;ter con&shy;ver&shy;sa&shy;tion about con&shy;ten&shy;ti&shy;ous topics.
 * A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly en&shy;vi&shy;ron&shy;ment.
 * Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics)!
@@ -65,7 +65,7 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 
 * It's a short in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
 * …a reminder of use&shy;ful tips when prac&shy;ti&shy;cing SE.
-* …a tool to [share](#/8) with anyone interested.
+* …a way to [share SE](#/8) with anyone interested.
 
 \
 Swipe →[continue](#/1)
@@ -80,6 +80,7 @@ Swipe →[continue](#/1)
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
 
+\
 Swipe ↓[more](#/1/1), →[continue](#/2)
 
 
@@ -91,6 +92,9 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * [Describe](#/0) or explain this method, and ask if they are open for this!
 * Recording? **Ask for consent**.
 * Offer to set a timer if they have limited time.
+
+\
+Swipe ↓[more](#/1/2), →[continue](#/2)
 
 
 [comment]: # (|||)
@@ -106,6 +110,9 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * *Stay cool* – Avoiding *topic rebut&shy;tal* may require practice!
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
+\
+Swipe [↓](#/1/3) [→](#/2)
+
 
 [comment]: # (|||)
 
@@ -120,6 +127,9 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * Single-minded – focus on one topic until you grasp it.
 * Thorough – don't just acknowledge, but try to *connect* ideas.
 
+\
+Swipe [↓](#/1/4) [→](#/2)
+
 
 [comment]: # (|||)
 
@@ -131,6 +141,9 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * ❌ *«Don't you think that…»*
 * ❌ *«Are you saying that…»*
 * ❌ *«How do you justify…»*
+
+\
+Swipe [→](#/2)
 
 
 [comment]: # (!!!)
