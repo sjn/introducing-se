@@ -158,7 +158,7 @@ Swipe [→](#/2)
 * Ask if it's a good claim to explore together.
 
 \
-Don't rush when considering claims!
+*Don't rush when considering claims!*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -176,7 +176,7 @@ Don't rush when considering claims!
 * Use *their* de&shy;fini&shy;tions.
 
 \
-Take notes!
+*Take notes!*
 
 
 [comment]: # (|||)
@@ -334,7 +334,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 #### Reasons to return
 
-Some conversations may re&shy;quire several sessions. Give them a reason to have them!
+Some conversations may re&shy;quire several sessions. Give them reasons to look forward to them!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
