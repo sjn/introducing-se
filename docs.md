@@ -229,9 +229,9 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 #### Pre-contemplative — or not?
 
-* 100% or 0% con&shy;fidence may indicate they are pre-&shy;con&shy;tem&shy;pla&shy;tive – not yet open to ex&shy;plore this topic.
+* 100% or 0% con&shy;fidence may indicate they are pre-&shy;con&shy;tem&shy;pla&shy;tive.
 * Maybe try a «softer» topic first?
-* Or ask them if they'd like to re&shy;cali&shy;brate their confidence.
+* Or ask them if they'd like to re&shy;cali&shy;brate their con&shy;fidence.
 
 \
 *«If there is room to be&shy;come more con&shy;fi&shy;dent, what would you re&shy;cali&shy;brate your cur&shy;rent con&shy;fi&shy;dence to?»*
