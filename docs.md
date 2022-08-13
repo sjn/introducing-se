@@ -104,9 +104,9 @@ Swipe ↓[more](#/1/2), →[continue](#/2)
 
 <br>
 
-* *Be patient* – You may have to have seve&shy;ral easy chats before pro&shy;ce&shy;eding to harder topics.
-* *Don't offer facts* (*topic rebut&shy;tal*), unless asked.
-* *Stay cool* – Avoiding *topic rebut&shy;tal* may require practice!
+* *Be patient* – You may need to have a few «soft» chats before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
+* *Don't offer facts* (also cal&shy;led «topic re&shy;but&shy;tal»), un&shy;less asked.
+* *Stay cool* – Avoiding *topic rebut&shy;tal* may re&shy;quire practice!
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
@@ -152,7 +152,7 @@ Swipe [→](#/2)
 * *«Do you have a claim you want to explore?»*
 * *«... a topic you wish more people knew of?»*
 * *«Would you mind if we explored this claim together?»*
-* Aim to find a **single topic**.
+* Aim or a **single topic**.
 * Phrase the topic in the form of a claim.
 * Ask if it's a good claim to explore together.
 
@@ -344,8 +344,11 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 ### 7. But first, consider…
 
-* Before trying SE, ask your&shy;self some questions.
-* What do you want to do? Learn, empathize or help them change their mind?
+*Before engaging in SE, ask your&shy;self some questions.*
+
+<br>
+
+* What your goal? To learn, em&shy;path&shy;ize or help them change their mind?
 * Are you open to changing your own mind?
 * What is it you *really* want to achieve?
 * As you proceed, expect your goals and intentions to show.
@@ -355,7 +358,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 #### Personal preparations
 
-* Expect they'll dislike *scripted* conversations.
+* Expect them to dislike *scripted* conversations.
 * …or «interviewing».
 * …or leading questions.
 * …or overt «messaging».
