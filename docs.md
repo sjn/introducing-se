@@ -227,7 +227,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Pre-contemplative or not?
+#### Pre-contemplative — or not?
 
 * 100% or 0% con&shy;fidence may indicate they are pre-&shy;con&shy;tem&shy;pla&shy;tive – not yet open to ex&shy;plore their epi&shy;stemology.
 * Maybe try a «softer» topic first?
