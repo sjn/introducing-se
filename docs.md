@@ -345,32 +345,14 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 ### 7. But first, consider…
 
-* Before trying SE, ask yourself some questions.
+* Before trying SE, ask your&shy;self some questions.
 * What do you want to do? Learn, empathize or help them change their mind?
 * Are you open to changing your own mind?
 * What is it you *really* want to achieve?
 * As you proceed, expect your goals and intentions to show.
 
-\
-[🔙 *to start*](#)
-
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
-
-
-#### Practical preparations
-
-*Depending on your situation, you may also want to…*
-
-<br>
-
-* Bring something to take notes with.
-* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
-* Optionally, bring an audio recorder for your own use or for sharing.
-* Optionally, bring a timer.
-
-
-[comment]: # (|||)
 
 #### Personal preparations
 
@@ -383,6 +365,20 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 
 \
 *— Listen actively and without pre&shy;sump&shy;tion.*
+
+
+[comment]: # (|||)
+
+#### Practical preparations
+
+*Depending on your situation, you may also want to…*
+
+<br>
+
+* Bring something to take notes with.
+* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
+* Optionally, bring an audio recorder for your own use or for sharing.
+* Optionally, bring a timer.
 
 
 [comment]: # (!!!)
@@ -415,6 +411,9 @@ Some conversations may re&shy;quire several sessions. Give them a reason to have
 #### Contribute to this site 🚧
 
 Source code and content is on [Github](https://github.com/sjn/introducing-se/).
+
+\
+[🔙 *to start*](#)
 
 
 [comment]: # (|||)
