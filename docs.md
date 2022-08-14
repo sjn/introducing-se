@@ -62,8 +62,8 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 
 #### What is Introducing.SE?
 
-* It's a short in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
-* …a reminder on your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
+* It's a practical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
+* …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
 * …a way to [share SE](#/8) with anyone interested.
 
 \
@@ -117,14 +117,13 @@ Swipe [↓](#/1/3) [→](#/2)
 
 #### Adopt a learner's attitude
 
-*«I want to understand.»*
+* Be **Self-directed** – ask about what you find curious or confusing.
+* … **Open-minded** – there's always something to learn!
+* … **Single-minded** – focus on one topic until you grasp it.
+* and **Thorough** – don't just acknowledge, but try to *connect* ideas.
 
-<br>
-
-* Self-directed – ask about what you find curious or confusing.
-* Open-minded – there's always something to learn!
-* Single-minded – focus on one topic until you grasp it.
-* Thorough – don't just acknowledge, but try to *connect* ideas.
+\
+*«I want to understand in order to explore.»*
 
 \
 Swipe [↓](#/1/4) [→](#/2)
@@ -233,7 +232,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * …Or ask them if they'd like to re&shy;cali&shy;brate their con&shy;fidence!
 
 \
-*«If there is room to be&shy;come more con&shy;fi&shy;dent, what would you re&shy;cali&shy;brate your cur&shy;rent con&shy;fi&shy;dence to?»*
+*«If there is still room to be&shy;come more con&shy;fi&shy;dent, what would you re&shy;cali&shy;brate your cur&shy;rent con&shy;fi&shy;dence to?»*
 
 
 [comment]: # (!!!)
@@ -242,29 +241,50 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 * **What reasons** did they use to arrive at their belief?
 * Assess the reliability of these reasons.
-* If our methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
+* What methods were used to determine a reason was sound?
+* If these methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Finding underlying reasons
+#### Exploring underlying reasons
 
 * *«If this reason was un&shy;avail&shy;able to you, would it change your con&shy;fi&shy;dence?»*
 * *«…if so, how would it change?»*
 * *«…and if not, **what else** is keeping you at your confidence level?»*
-* [Switching topic](#/2) is fine!
+* [Switching topic](#/2) or focusing on [another reason](#/4) is fine!
 
 \
 *«Claim 2 seems to be important for your belief in claim 1. Would you mind if we explore it instead?»*
 
 
+[comment]: # (|||)
+
+#### Many small, or a few large
+
+* *A thousand small reasons, or a few big ones*? — explore to understand the background of the claim.
+* With many small, ask how each influences their confidence.
+* Is this influence additive (and may surpass 100%) or multiplicative (and may never reach 100%)?
+* Let them recalibrate their confidence as you explore.
+
+\
+*When you're done, restate & summarize their main reason(s).*
+
+
 [comment]: # (!!!)
 
-### 5. Explore & assess epistemology
+### 5. Explore & assess reliablility
 
-* Assess the reliability of these reasons.
-* What can we do to de&shy;termine a reason is sound?
-* If our methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
+Is our epistemology reliable? Let's assess!
+
+<br>
+
+* *«How did you arrive at the reason?»*
+* *«Was a method used to determine the reason was sound?»*
+* *«How can we de&shy;termine if this method is reliable?»*
+
+\
+*«If a method or a reason is un&shy;reli&shy;able, how does this affect our as&shy;sess&shy;ment?»*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -286,7 +306,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different starting point reach the same conclusion?»*
 
 **The consultant test**
-–&nbsp;*«How would you evaluate this situation if it was **not** your own situation?»*
+–&nbsp;*«How would you evaluate this claim if it was **not** your own?»*
 
 **The double standard test**
 –&nbsp;*«Am I judging other people’s reasoning by a standard I wouldn’t apply to myself?»*
@@ -300,15 +320,15 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 –&nbsp;*«If other people no longer held this view, to what extent would you still hold it?»*
 
 **The status quo bias test**
-–&nbsp;*«If your current situation was not the status quo, would you still actively choose it?»*
+–&nbsp;*«If your current claim was not the status quo, would you still actively choose it?»*
 
 **The selective skeptic test**
-–&nbsp;*«If the same reasoning supported a different conclusion, how credible would you judge it to be?»*
+–&nbsp;*«If the same reasoning supported a different or opposing conclusion, how credible would you judge it to be?»*
 
 
 [comment]: # (|||)
 
-#### Recognizing bad reasons
+#### Recognizing unreliable reasons
 
 * ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *Appeals to auth&shy;ority*, *ig&shy;no&shy;rance* or *tradition.*
 * ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *Con&shy;fir&shy;mation bias*, *Av&shy;ail&shy;abi&shy;lity heu&shy;ris&shy;tic* and *Moti&shy;vated reasoning.*
@@ -331,7 +351,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### Reasons to return
+#### A reason to return
 
 Some conversations may re&shy;quire several sessions. Give them reasons to look forward to them!
 
@@ -352,6 +372,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 * Are you open to changing your own mind?
 * What is it you *really* want to achieve?
 * As you proceed, expect your goals and intentions to show.
+* Share your intentions!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
