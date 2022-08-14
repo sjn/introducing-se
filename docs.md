@@ -225,7 +225,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Pre-contemplative — or not?
+#### Pre-contemplative —&nbsp;or&nbsp;not?
 
 * 100% or 0% con&shy;fidence may indicate they are pre-&shy;con&shy;tem&shy;pla&shy;tive.
 * Maybe explore a «softer» topic first?
@@ -239,7 +239,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 ### 4. Identify main reason
 
-* **What reasons** did they use to arrive at their belief?
+* **What reasons** and methods did they use to arrive at their belief?
 * Assess the reliability of these reasons.
 * What methods were used to determine a reason was sound?
 * If these methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
@@ -260,22 +260,22 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Many small, or a few large
+#### Many small, or a&nbsp;few&nbsp;large
 
-* *A thousand small reasons, or a few big ones*? — explore to understand the background of the claim.
-* With many small, ask how each influences their confidence.
-* Is this influence additive (and may surpass 100%) or multiplicative (and may never reach 100%)?
-* Let them recalibrate their confidence as you explore.
+* *A thousand small rea&shy;sons, or a few big ones*? — explore to under&shy;stand the back&shy;ground of the claim.
+* With many small, ask how each in&shy;flu&shy;en&shy;ces their confidence.
+* Is this influence ad&shy;ditive (& may surpass 100%) or mul&shy;tipli&shy;ca&shy;tive (& may never reach 100%)?
+* Let them re&shy;cali&shy;brate their con&shy;fi&shy;dence as you explore.
 
 \
-*When you're done, restate & summarize their main reason(s).*
+*When you're done, restate & sum&shy;marize their reason(s).*
 
 
 [comment]: # (!!!)
 
 ### 5. Explore & assess reliablility
 
-Is our epistemology reliable? Let's assess!
+Is our epistemology reliable? Let's assess.
 
 <br>
 
@@ -317,7 +317,7 @@ Is our epistemology reliable? Let's assess!
 #### Explore reliability II
 
 **The conformity test**
-–&nbsp;*«If other people no longer held this view, to what extent would you still hold it?»*
+–&nbsp;*«If other people no longer held this belief, to what extent would you still hold it?»*
 
 **The status quo bias test**
 –&nbsp;*«If your current claim was not the status quo, would you still actively choose it?»*
@@ -359,7 +359,6 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 *«That was a good ques&shy;tion. You're making me think!»*
 
 
-
 [comment]: # (!!!)
 
 ### 7. But first, consider…
@@ -368,11 +367,11 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 <br>
 
-* What your goal? To learn, em&shy;path&shy;ize or help them change their mind?
-* Are you open to changing your own mind?
+* What's your goal? To learn, em&shy;path&shy;ize or help them change their mind?
+* Are you open to learn and change your own mind too?
 * What is it you *really* want to achieve?
 * As you proceed, expect your goals and intentions to show.
-* Share your intentions!
+* Share your intentions upfront!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -408,8 +407,8 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 ### 8. Share & collaborate
 
-* [Share](#/8/1) your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munities!
-* You can find the SE community on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
+* [Share this](#/8/1) and your experiences with others in the Street&nbsp;Episte&shy;mology com&shy;munity!
+* You can find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice and learn in a friendly environment!
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
 * Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
@@ -433,7 +432,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 #### Contribute to this site 🚧
 
-Source code and content is on [Github](https://github.com/sjn/introducing-se/).
+Source code, content and issue tracker is on [Github](https://github.com/sjn/introducing-se/).
 
 \
 [🔙 *to start*](#)
