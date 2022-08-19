@@ -20,7 +20,7 @@
 4. [Identify main reason](#/4)
 5. [Explore & assess epistemology](#/5)
 6. [End on a high note, with a good question](#/6)
-7. [But first, consider…](#/7)
+7. [But first, prepare](#/7)
 8. [Share & collaborate](#/8)
 
 \
@@ -346,7 +346,7 @@ Is our epistemology reliable? Let's assess.
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
 * Success? – You have it when **both are happy** to have had the con&shy;ver&shy;sation.
 * If you can, offer to con&shy;tinue the chat later.
-* Maybe give them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-01.pdf)?
+* Maybe give them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-02.pdf)?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -361,17 +361,16 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 [comment]: # (!!!)
 
-### 7. But first, consider…
+### 7. But first, prepare
 
-*Before engaging in SE, ask your&shy;self some questions.*
+*Before engaging in SE, de&shy;cide for your&shy;self…*
 
 <br>
 
 * What's your goal? To learn, em&shy;path&shy;ize or help them change their mind?
 * Are you open to learn and change your own mind too?
-* What is it you *really* want to achieve?
+* Decide, and consider sharing your intentions upfront.
 * As you proceed, expect your goals and intentions to show.
-* Share your intentions upfront!
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -393,7 +392,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 
 #### Practical preparations
 
-*Depending on your situation, you may also want to…*
+*Depending on your situation, you may also…*
 
 <br>
 
@@ -401,6 +400,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 * Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
 * Optionally, bring an audio recorder for your own use or for sharing.
 * Optionally, bring a timer.
+* Print some [Introducing.SE cards](dist/media/introducing-se-card-2022-02.pdf) to give away!
 
 
 [comment]: # (!!!)
