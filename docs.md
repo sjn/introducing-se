@@ -14,14 +14,14 @@
 
 ### How to explore ideas & beliefs
 
-1. [Establish rapport & informed consent](#/1)
-2. [Find & clarify claim](#/2)
-3. [Ask for & calibrate scaled confidence](#/3)
-4. [Identify main reason](#/4)
-5. [Explore & assess epistemology](#/5)
-6. [End on a high note, with a good question](#/6)
+1. [**Establish rapport** & informed consent](#/1)
+2. [**Find a claim** & clarify](#/2)
+3. [**Ask for confidence** & calibrate on a scale](#/3)
+4. [**Identify main reason**](#/4)
+5. [**Explore & assess** epistemology & reliability](#/5)
+6. [**End with a question**, on a high note](#/6)
 7. [But first, prepare](#/7)
-8. [Share & collaborate](#/8)
+8. [Then, share & improve](#/8)
 
 \
 Swipe ↓[about](#/0/1), →[continue](#/1)
@@ -146,7 +146,7 @@ Swipe [→](#/2)
 
 [comment]: # (!!!)
 
-### 2. Find & clarify claim
+### 2. Find a claim & clarify
 
 * *«Do you have a claim you want to explore?»*
 * *«... a topic you wish more people knew of?»*
@@ -204,7 +204,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 3. Ask for & calibrate scaled confidence
+### 3. Ask for confidence & calibrate on a scale
 
 * *«How **confident** are you X is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -273,7 +273,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 5. Explore & assess reliablility
+### 5. Explore & assess epistemology & reliablility
 
 Is our epistemology reliable? Let's assess.
 
@@ -300,7 +300,7 @@ Is our epistemology reliable? Let's assess.
 
 [comment]: # (|||)
 
-#### Explore reliability I
+#### Exploring reliability I
 
 **The outsider test**
 –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different starting point reach the same conclusion?»*
@@ -314,7 +314,7 @@ Is our epistemology reliable? Let's assess.
 
 [comment]: # (|||)
 
-#### Explore reliability II
+#### Exploring reliability II
 
 **The conformity test**
 –&nbsp;*«If other people no longer held this belief, to what extent would you still hold it?»*
@@ -340,7 +340,7 @@ Is our epistemology reliable? Let's assess.
 
 [comment]: # (!!!)
 
-### 6. End on a high note, with a good question
+### 6. End with a question, on a high note
 
 * The best endings offer food for thought!
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
