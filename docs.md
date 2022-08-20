@@ -18,7 +18,7 @@
 2. [**Find a claim** & clarify](#/2)
 3. [**Ask for confidence** & calibrate on a scale](#/3)
 4. [**Identify main reason**](#/4)
-5. [**Explore & assess** epistemology & reliability](#/5)
+5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
 6. [**End with a question**, on a high note](#/6)
 7. [But first, prepare](#/7)
 8. [Then, share & improve](#/8)
@@ -62,9 +62,9 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 
 #### What is Introducing.SE?
 
-* It's a practical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE).
+* This is a prac&shy;tical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE)
 * …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
-* …a way to [share SE](#/8) with anyone interested.
+* …a way to [share SE](#/8/1) with anyone interested.
 
 \
 Swipe →[continue](#/1)
@@ -72,7 +72,7 @@ Swipe →[continue](#/1)
 
 [comment]: # (!!!)
 
-### 1. Establish rapport & informed consent
+### 1. Establish rap&shy;port & in&shy;formed consent
 
 * Establish a **friendly tone** & maintain it.
 * Show you're inter&shy;ested & listening.
@@ -146,7 +146,7 @@ Swipe [→](#/2)
 
 [comment]: # (!!!)
 
-### 2. Find a claim & clarify
+### 2. Find a claim &&nbsp;clarify
 
 * *«Do you have a claim you want to explore?»*
 * *«... a topic you wish more people knew of?»*
@@ -204,7 +204,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 3. Ask for confidence & calibrate on a scale
+### 3. Ask for con&shy;fi&shy;dence & cali&shy;brate on a scale
 
 * *«How **confident** are you X is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -232,7 +232,20 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * …Or ask them if they'd like to re&shy;cali&shy;brate their con&shy;fidence!
 
 \
+*«Can you imagine some&shy;thing that would make you even more confident?»*
+
+\
 *«If there is still room to be&shy;come more con&shy;fi&shy;dent, what would you re&shy;cali&shy;brate your cur&shy;rent con&shy;fi&shy;dence to?»*
+
+
+[comment]: # (|||)
+
+#### Pre-contemplative II
+
+*«Is there anything you can think of, or learn, that would lower your confidence?»*
+
+\
+*«Under what conditions would the claim be false?»*
 
 
 [comment]: # (!!!)
@@ -242,7 +255,6 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * **What reasons** and methods did they use to arrive at their belief?
 * Assess the reliability of these reasons.
 * What methods were used to determine a reason was sound?
-* If these methods are un&shy;reli&shy;able, would the as&shy;sess&shy;ment change?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -264,7 +276,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 * *A thousand small rea&shy;sons, or a few big ones*? — explore to under&shy;stand the back&shy;ground of the claim.
 * With many small, ask how each in&shy;flu&shy;en&shy;ces their confidence.
-* Is this influence ad&shy;ditive (& may surpass 100%) or mul&shy;tipli&shy;ca&shy;tive (& may never reach 100%)?
+* Is this influence ad&shy;ditive (may surpass 100%) or mul&shy;tipli&shy;ca&shy;tive (may never reach 100%)?
 * Let them re&shy;cali&shy;brate their con&shy;fi&shy;dence as you explore.
 
 \
@@ -275,7 +287,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 ### 5. Explore & assess epistemology & reliablility
 
-Is our epistemology reliable? Let's assess.
+*Is our epistemology reliable? Let's assess.*
 
 <br>
 
@@ -346,14 +358,14 @@ Is our epistemology reliable? Let's assess.
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
 * Success? – You have it when **both are happy** to have had the con&shy;ver&shy;sation.
 * If you can, offer to con&shy;tinue the chat later.
-* Maybe give them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-02.pdf)?
+* Maybe offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-02.pdf)?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### A reason to return
+#### Reasons to return
 
-Some conversations may re&shy;quire several sessions. Give them reasons to look forward to them!
+Some conversations may re&shy;quire several sessions. Give your conversation partner reasons to look forward to them!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
@@ -400,7 +412,7 @@ Some conversations may re&shy;quire several sessions. Give them reasons to look 
 * Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
 * Optionally, bring an audio recorder for your own use or for sharing.
 * Optionally, bring a timer.
-* Print some [Introducing.SE cards](dist/media/introducing-se-card-2022-02.pdf) to give away!
+* Print some [cards](dist/media/introducing-se-card-2022-02.pdf) to give away!
 
 
 [comment]: # (!!!)
