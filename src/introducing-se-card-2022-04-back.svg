@@ -27,8 +27,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.8710539"
-     inkscape:cx="60.953226"
-     inkscape:cy="196.61769"
+     inkscape:cx="60.953227"
+     inkscape:cy="196.966"
      inkscape:window-width="2560"
      inkscape:window-height="1394"
      inkscape:window-x="0"
@@ -45,7 +45,7 @@
      id="defs2"><color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile768" /><defs
+       id="color-profile962" /><defs
        id="defs1512" /><pattern
        id="EMFhbasepattern"
        patternUnits="userSpaceOnUse"
@@ -57,7 +57,13 @@
        id="defs1512-9" /></defs><g
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
-     id="layer1"><g
+     id="layer1"><rect
+       style="fill:#ffffff;stroke-width:1.448;stroke:none"
+       id="rect267"
+       width="55"
+       height="85"
+       x="-1.9073486e-06"
+       y="3.8146973e-06" /><g
        id="g709"><g
          inkscape:label="Layer 1"
          id="layer1-0"
