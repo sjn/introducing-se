@@ -45,7 +45,7 @@ Swipe ↓[more](#/0/2), →[continue](#/1)
 #### What is Epistemology?
 
 The field of Philosophy focusing on *how* we know what we know.
-*
+
 <br>
 
 * *«How do we know if some&shy;thing is true?»*
