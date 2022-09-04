@@ -31,10 +31,10 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 
 #### What is Street Epistemology (SE)?
 
-* A way, th&shy;rough dia&shy;logue, to re&shy;flect on the qua&shy;lity of one's rea&shy;so&shy;ning.
+* A way, th&shy;rough dia&shy;logue, to re&shy;flect on the qua&shy;lity of one's reasoning.
 * A way to have bet&shy;ter con&shy;ver&shy;sa&shy;tions about con&shy;ten&shy;ti&shy;ous topics.
 * A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
-* A community that prac&shy;tices SE in a frien&shy;dly en&shy;vi&shy;ron&shy;ment.
+* A community that prac&shy;tices SE in a frien&shy;dly environment.
 
 \
 Swipe ↓[more](#/0/2), →[continue](#/1)
@@ -45,14 +45,14 @@ Swipe ↓[more](#/0/2), →[continue](#/1)
 #### What is Epistemology?
 
 The field of Philosophy focusing on *how* we know what we know.
-*
+
 <br>
 
 * *«How do we know if some&shy;thing is true?»*
 * *«Which methods and tools can we employ to determine this?»*
 
 \
-With SE we try to bring this out of academia and into everyday life.
+With SE we try to bring this from academia and into everyday life.
 
 \
 Swipe ↓[more](#/0/3), →[continue](#/1)
@@ -61,6 +61,8 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 [comment]: # (|||)
 
 #### What is Introducing.SE?
+
+<br>
 
 * This is a prac&shy;tical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE)
 * …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
@@ -74,9 +76,9 @@ Swipe →[continue](#/1)
 
 ### 1. Find a good tone & get informed consent
 
-* Establish a **friendly rapport** & maintain it.
+* Establish **friendly rapport**, and maintain it.
 * Tell them your intentions, so they may consent.
-* Show you're inter&shy;ested & listening.
+* Show you're inter&shy;ested &&nbsp;listening.
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
 
@@ -89,7 +91,7 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 #### Politeness & intentions
 
 * Share [your intentions](#/7) upfront.
-* [Describe](#/0) or explain this method, and ask if they are open for this!
+* [Describe](#/0) or explain this method, and ask if they are open for exploring!
 * Recording? **Ask for consent**.
 * Offer to set a timer if they have limited time.
 
@@ -107,7 +109,7 @@ Swipe ↓[more](#/1/2), →[continue](#/2)
 
 * *Be patient* – You may need to have a few «soft» chats before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
 * *Don't offer facts* (also cal&shy;led «topic re&shy;but&shy;tal»), un&shy;less asked.
-* *Stay cool* – Avoiding *topic rebut&shy;tal* may re&shy;quire practice!
+* *Stay cool* – Avoiding *topic rebut&shy;tal* may re&shy;quire practice.
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
@@ -254,11 +256,14 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 ### 4. Identify main reason
 
 * **What reasons** and methods did they use to arrive at their belief?
-* What methods were used to determine a reason was sound?
-* How do these reasons influence the belief?
+* **What methods** were used to determine a reason was sound?
+* How do these reasons influence their belief?
 
 \
 *«What makes this particular reason a good one for you?»*
+
+\
+*«If you somehow could learn of a better reason, what would it look like?»*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -449,6 +454,9 @@ Some conversations may require several sessions. Give your conversation partner 
 
 #### 🚧 Contribute 🚧
 
+This site is a work in progress. Please help make it better!
+
+\
 Source code, content and issue tracker is on [Github](https://github.com/sjn/introducing-se/).
 
 \
