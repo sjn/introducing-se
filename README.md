@@ -34,6 +34,7 @@ https://pages.github.com
 * Elgvin, Jared
 * Helgadottir, Anna
 * Hove, Erlend
+* MasterDan (SE Discord)
 * Magnabosco, Anthony
 * Nilsen, Salve J.
 * RyanAin'tLyin (SE Discord)
