@@ -205,7 +205,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 3. Ask for con&shy;fi&shy;dence on a scale & calibrate
+### 3. Ask for con&shy;fi&shy;dence on a scale &&nbsp;calibrate
 
 * *«How **confident** are you X is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -356,20 +356,20 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 6. End with aporia & a question, a good tone
+### 6. End with aporia, a question, a good tone
 
 * The best endings offer food for thought!
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
 * Success? – You have it when **both are happy** to have had the con&shy;ver&shy;sation.
 * If you can, offer to con&shy;tinue the chat later.
-* Maybe offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-02.pdf)?
+* Maybe offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-06.pdf)?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### Reasons to return
 
-Some conversations may re&shy;quire several sessions. Give your conversation partner reasons to look forward to them!
+Some conversations may require several sessions. Give your conversation partner reasons to look forward to them!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
@@ -416,14 +416,15 @@ Some conversations may re&shy;quire several sessions. Give your conversation par
 * Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
 * Optionally, bring an audio recorder for your own use or for sharing.
 * Optionally, bring a timer.
-* Print some [cards](dist/media/introducing-se-card-2022-02.pdf) to give away!
+* Print some [cards](dist/media/introducing-se-card-2022-06.pdf) to give away!
 
 
 [comment]: # (!!!)
 
 ### 8. Share & improve
 
-* [Share this](#/8/1) and your ex&shy;peri&shy;ences with others in the Street&nbsp;Episte&shy;mology com&shy;munity!
+* [Share this site](#/8/1)!
+* Share your ex&shy;peri&shy;ences with others in the Street&nbsp;Episte&shy;mology com&shy;munity!
 * You can find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice and learn in a friendly environment.
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
