@@ -16,12 +16,12 @@
 
 1. [**Find a good tone** & get informed consent](#/1)
 2. [**Pick a claim** & clarify](#/2)
-3. [**Ask for confidence** & calibrate on a scale](#/3)
+3. [**Ask for confidence** on a scale & calibrate](#/3)
 4. [**Identify main reason**](#/4)
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
-6. [**End with a question**, on a high note](#/6)
-7. [But first, prepare](#/7)
-8. [Then, share & improve](#/8)
+6. [**End with aporia** & a question, good tone](#/6)
+7. [Consider & prepare](#/7)
+8. [Share & improve](#/8)
 
 \
 Swipe ↓[about](#/0/1), →[continue](#/1)
@@ -147,7 +147,7 @@ Swipe [→](#/2)
 
 [comment]: # (!!!)
 
-### 2. Find a claim &&nbsp;clarify
+### 2. Pick a claim &&nbsp;clarify
 
 * *«Do you have a claim you want to explore?»*
 * *«... a topic you wish more people knew of?»*
@@ -205,7 +205,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 3. Ask for con&shy;fi&shy;dence & cali&shy;brate on a scale
+### 3. Ask for con&shy;fi&shy;dence on a scale & calibrate
 
 * *«How **confident** are you X is true?»* 0–100%
 * *«What would move you up just a bit?»*
@@ -353,7 +353,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 6. End with a question, on a high note
+### 6. End with aporia & a question, a good tone
 
 * The best endings offer food for thought!
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
@@ -374,7 +374,7 @@ Some conversations may re&shy;quire several sessions. Give your conversation par
 
 [comment]: # (!!!)
 
-### 7. But first, prepare
+### 7. Consider & prepare
 
 *Before engaging in SE, de&shy;cide for your&shy;self…*
 
@@ -418,11 +418,11 @@ Some conversations may re&shy;quire several sessions. Give your conversation par
 
 [comment]: # (!!!)
 
-### 8. Share & collaborate
+### 8. Share & improve
 
 * [Share this](#/8/1) and your ex&shy;peri&shy;ences with others in the Street&nbsp;Episte&shy;mology com&shy;munity!
 * You can find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
-* Practice and learn in a friendly environment!
+* Practice and learn in a friendly environment.
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
 * Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
 
