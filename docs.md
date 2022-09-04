@@ -418,8 +418,8 @@ Some conversations may require several sessions. Give your conversation partner 
 <br>
 
 * Bring something to take notes with.
-* Bring a friend! Let them listen in, without par&shy;ti&shy;ci&shy;pation.
-* Optionally, bring an audio recorder for your own use or for sharing.
+* Bring a friend! Let them listen in without par&shy;ti&shy;ci&shy;pating, so they later can offer feedback.
+* Optionally, bring an audio recorder for your own reviewing or for sharing.
 * Optionally, bring a timer.
 * Print some [cards](dist/media/introducing-se-card-2022-06.pdf) to give away!
 
@@ -429,11 +429,11 @@ Some conversations may require several sessions. Give your conversation partner 
 ### 8. Share & improve
 
 * [Share this site](#/8/1)!
-* Share your ex&shy;peri&shy;ences with others in the Street&nbsp;Episte&shy;mology com&shy;munity!
+* Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community!
 * You can find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
 * Practice and learn in a friendly environment.
 * Find SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Looking for another view on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
+* Looking for another take on SE? Check the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -454,7 +454,7 @@ Some conversations may require several sessions. Give your conversation partner 
 
 #### 🚧 Contribute 🚧
 
-This site is a work in progress. Please help make it better!
+This site is a work in pro&shy;gress. Please help us improve&nbsp;it!
 
 \
 Source code, content and issue tracker is on [Github](https://github.com/sjn/introducing-se/).
