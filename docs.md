@@ -19,7 +19,7 @@
 3. [**Ask for confidence** on a scale & calibrate](#/3)
 4. [**Identify main reason**](#/4)
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
-6. [**End with aporia** & a question, good tone](#/6)
+6. [**End with aporia**, a question, good tone](#/6)
 7. [Consider & prepare](#/7)
 8. [Share & improve](#/8)
 
@@ -254,8 +254,11 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 ### 4. Identify main reason
 
 * **What reasons** and methods did they use to arrive at their belief?
-* Assess the reliability of these reasons.
 * What methods were used to determine a reason was sound?
+* How do these reasons influence the belief?
+
+\
+*«What makes this particular reason a good one for you?»*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -273,7 +276,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Many small, or a&nbsp;few&nbsp;large
+#### Many small, or a&nbsp;few&nbsp;large?
 
 * *A thousand small rea&shy;sons, or a few big ones*? — explore to under&shy;stand the back&shy;ground of the claim.
 * With many small, ask how each in&shy;flu&shy;en&shy;ces their confidence.
