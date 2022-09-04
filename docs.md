@@ -12,10 +12,10 @@
 [comment]: # (help: true)
 
 
-### How to explore ideas & beliefs
+### How to talk about anything
 
-1. [**Establish rapport** & informed consent](#/1)
-2. [**Find a claim** & clarify](#/2)
+1. [**Find a good tone** & get informed consent](#/1)
+2. [**Pick a claim** & clarify](#/2)
 3. [**Ask for confidence** & calibrate on a scale](#/3)
 4. [**Identify main reason**](#/4)
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
@@ -45,7 +45,7 @@ Swipe ↓[more](#/0/2), →[continue](#/1)
 #### What is Epistemology?
 
 The field of Philosophy focusing on *how* we know what we know.
-
+*
 <br>
 
 * *«How do we know if some&shy;thing is true?»*
@@ -72,9 +72,10 @@ Swipe →[continue](#/1)
 
 [comment]: # (!!!)
 
-### 1. Establish rap&shy;port & in&shy;formed consent
+### 1. Find a good tone & get informed consent
 
-* Establish a **friendly tone** & maintain it.
+* Establish a **friendly rapport** & maintain it.
+* Tell them your intentions, so they may consent.
 * Show you're inter&shy;ested & listening.
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
@@ -120,7 +121,7 @@ Swipe [↓](#/1/3) [→](#/2)
 * Be **Self-directed** – ask about what you find curious or confusing.
 * … **Open-minded** – there's always something to learn!
 * … **Single-minded** – focus on one topic until you grasp it.
-* and **Thorough** – don't just acknowledge, but try to *connect* ideas.
+* and **Thorough** – don't just acknowledge, but try to *connect ideas*.
 
 \
 *«I want to understand in order to explore.»*
@@ -131,7 +132,7 @@ Swipe [↓](#/1/4) [→](#/2)
 
 [comment]: # (|||)
 
-#### Ask, don't tell
+#### Ask for more; Don't tell
 
 * ✅ *«Can you help me under&shy;stand what you mean with…»*
 * ✅ *«Do I understand you correctly…»*
