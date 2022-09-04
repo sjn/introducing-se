@@ -12,7 +12,7 @@
 [comment]: # (help: true)
 
 
-### How to talk about anything
+### To talk about anything
 
 1. [**Find a good tone** & get informed consent](#/1)
 2. [**Pick a claim** & clarify](#/2)
