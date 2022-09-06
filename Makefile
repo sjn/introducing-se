@@ -6,9 +6,9 @@ DOCS_TARGET  = ${TARGET}/index.html
 ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
 ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
 
-CARD_SOURCES = src/introducing-se-card-2022-06-front.svg src/introducing-se-card-2022-04-back.svg
+CARD_SOURCES = src/introducing-se-card-2022-07-front.svg src/introducing-se-card-2022-05-back.svg
 CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
-CARD_TARGET  = dist/media/introducing-se-card-2022-06.pdf
+CARD_TARGET  = dist/media/introducing-se-card-2022-07-05.pdf
 
 
 # To install, run "make install-mdslides"
@@ -35,7 +35,7 @@ ${CARD_TARGET}: ${CARD_BUILD}
 	touch ${CARD_TARGET}
 
 ${CARD_BUILD}: ${CARD_SOURCES}
-	${INKSCAPE} -C -o $@ $(patsubst %.pdf,%.svg,$@)
+	${INKSCAPE} -D -o $@ $(patsubst %.pdf,%.svg,$@)
 
 ${DOCS_TARGET}: ${DOCS_SOURCE}
 
