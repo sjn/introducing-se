@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8069197"
-     inkscape:cx="131.99258"
-     inkscape:cy="180.14082"
+     inkscape:cx="132.54601"
+     inkscape:cy="180.69425"
      inkscape:window-width="1504"
      inkscape:window-height="1282"
      inkscape:window-x="26"
@@ -82,6 +82,17 @@
        height="105"
        x="-10"
        y="-10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="7.4074273"
+       y="94.339577"
+       id="text668"><tspan
+         sodipodi:role="line"
+         id="tspan666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="7.4074273"
+         y="94.339577">Page size: 55.0x85.0 mm</tspan></text>
     <rect
        style="fill:#ffffff;stroke:none;stroke-width:1.448"
        id="rect267"
@@ -98,16 +109,16 @@
        transform="translate(0.09689044,-1.2946444)"><tspan
          x="27.38476"
          y="11.476925"
-         id="tspan2592"><tspan
+         id="tspan997"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Montserrat, Bold'"
-   id="tspan2590">TO TALK ABOUT</tspan><tspan
+   id="tspan995">TO TALK ABOUT</tspan><tspan
    y="11.476925"
-   id="tspan2594"> </tspan></tspan><tspan
+   id="tspan999"> </tspan></tspan><tspan
          x="27.38476"
          y="17.209563"
-         id="tspan2598"><tspan
+         id="tspan1003"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Montserrat, Bold'"
-           id="tspan2596">ANYTHING</tspan></tspan></text>
+           id="tspan1001">ANYTHING</tspan></tspan></text>
     <g
        id="g534"
        transform="translate(-0.26415599,-0.87856697)">
@@ -224,6 +235,42 @@
          style="fill:none;stroke:#000000;stroke-width:0.25"
          id="cropBR2"
          d="M 56.99999999999999,85.0 L 67.0,85.0" />
+    </g>
+    <g
+       inkscape:label="BleedMarks"
+       id="BleedMarks">
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedTL1"
+         d="M -3.000000000000007,-2.9999999999999964 L -3.000000000000007,-12.999999999999996" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedTL2"
+         d="M -3.000000000000007,-2.9999999999999964 L -13.000000000000007,-2.9999999999999964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedTR1"
+         d="M 57.99999999999999,-2.9999999999999964 L 57.99999999999999,-12.999999999999996" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedTR2"
+         d="M 57.99999999999999,-2.9999999999999964 L 68.0,-2.9999999999999964" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedBL1"
+         d="M -3.000000000000007,88.0 L -3.000000000000007,98.0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedBL2"
+         d="M -3.000000000000007,88.0 L -13.000000000000007,88.0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedBR1"
+         d="M 57.99999999999999,88.0 L 57.99999999999999,98.0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-dasharray:4, 2, 1, 2;stroke-dashoffset:0;stroke-miterlimit:4;stroke-width:0.25"
+         id="bleedBR2"
+         d="M 57.99999999999999,88.0 L 68.0,88.0" />
     </g>
   </g>
 </svg>
