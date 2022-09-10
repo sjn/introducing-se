@@ -108,8 +108,8 @@ Swipe ↓[more](#/1/2), →[continue](#/2)
 <br>
 
 * *Be patient* – You may need to have a few «soft» chats before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
-* *Don't offer facts* (also cal&shy;led «topic re&shy;but&shy;tal»), un&shy;less asked.
-* *Stay cool* – Avoiding *topic rebut&shy;tal* may re&shy;quire practice.
+* *Don't offer facts* (*topic rebut&shy;tal*), un&shy;less asked. Instead focus on the methods (*tech&shy;nique rebuttal*).
+* *Stay cool* – Avoiding *topic rebut&shy;tal* often re&shy;quires practice.
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
@@ -171,7 +171,7 @@ Swipe [→](#/2)
 <br>
 
 * *«What do you mean when you say …?»*
-* In your own words, **repeat** what you hear.
+* In *your own* words, **repeat** what you hear.
 * Have them **confirm** if you under&shy;stand correctly.
 * Identify, clarify & qualify confusing words.
 * Use *their* de&shy;fini&shy;tions.
