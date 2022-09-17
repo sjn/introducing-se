@@ -38,6 +38,7 @@ https://pages.github.com
 * Magnabosco, Anthony
 * Nilsen, Salve J.
 * RyanAin'tLyin (SE Discord)
+* Schiesser, Ulrike
 * Säde, Ragnar
 
 
@@ -54,3 +55,4 @@ Further inspiration for the content on this site has been gathered from the [Str
 * *Mental Immunity* by Andy Norman
 * *The Constitution of Knowledge* by Jonathan Rauch
 * *How Minds Change* by David McRaney
+* *Fakt und Vorurteil* by Holm Gero Hümmler, Ulrike Schiesser
