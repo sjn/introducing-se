@@ -26,8 +26,6 @@ all: card site
 card: ${CARD_TARGET}
 
 site: ${DOCS_TARGET} ${ASSET_TARGETS}
-	${MDSLIDES} docs.md --include dist
-	git checkout docs/CNAME
 
 
 ${CARD_TARGET}: ${CARD_BUILD}
@@ -38,6 +36,10 @@ ${CARD_BUILD}: ${CARD_SOURCES}
 	${INKSCAPE} -D -o $@ $(patsubst %.pdf,%.svg,$@)
 
 ${DOCS_TARGET}: ${DOCS_SOURCE}
+	${MDSLIDES} docs.md --include dist
+	# mdslides deletes unfamiliar files, but we need CNAME
+	# for github to serve the files on the correct DNS hostname
+	git checkout docs/CNAME
 
 ${ASSETS_TARGETS}: ${ASSETS_SOURCES}
 

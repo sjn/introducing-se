@@ -28,18 +28,21 @@ https://revealjs.com
 https://pages.github.com
 
 
-# Contributors
+# Contributors & attibution
 
 * CanIBeBlue (SE Discord)
 * Elgvin, Jared
 * Helgadottir, Anna
 * Hove, Erlend
-* MasterDan (SE Discord)
 * Magnabosco, Anthony
+* MasterDan (SE Discord)
 * Nilsen, Salve J.
 * RyanAin'tLyin (SE Discord)
 * Schiesser, Ulrike
-* Säde, Ragnar
+* Säde, Ragnar (SE Discord)
+
+Furthermore, some content is inspired from SE conversations published on YouTube over many years.
+Please see the Steet Epistemology website for viewing guides.
 
 
 ## Inspiration
@@ -47,12 +50,14 @@ https://pages.github.com
 Further inspiration for the content on this site has been gathered from the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page on streetepistemology.com, and from practicing and observing SE conversations on the SE Discord server and with strangers.
 
 
-### Books
+## Books
+
+The following books have informed much of the content on this site.
 
 * *A Manual for Creating Atheists* by Peter Boghossian
 * *How to Have Impossible Conversations* by Peter Boghossian and James Lindsay
 * *The Scout Mindset* by Julia Galef
 * *Mental Immunity* by Andy Norman
-* *The Constitution of Knowledge* by Jonathan Rauch
 * *How Minds Change* by David McRaney
+* *The Constitution of Knowledge* by Jonathan Rauch
 * *Fakt und Vorurteil* by Holm Gero Hümmler, Ulrike Schiesser
