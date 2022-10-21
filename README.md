@@ -2,7 +2,7 @@
 
 This site gives a very short introduction to Street Epistemology, in the form of a slideshow and accompanying business cards to give away.
 
-Please check out [introducing.se](https://introucing.se) to see the site in full.
+Please check out [introducing.se](https://introducing.se) to see the site in full.
 Best viewed on a mobile phone!
 
 
