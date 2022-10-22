@@ -182,14 +182,33 @@ Swipe [→](#/2)
 
 [comment]: # (|||)
 
+#### Normative vs. factual claims
+
+*«Normative should; Factual is.»*
+
+<br>
+
+* Claims about the world («is» claims) are easier to explore.
+* Claims about behaviour («should» claims) may require extra work.
+* Sometimes, you can ask «why» to find a factual claim to explore!
+
+\
+*«If everybody changed to agreeing with your [normative claim], what would change in the world?»*
+
+\
+*«…and [how confident](#/3) are you this change would happen?»*
+
+
+[comment]: # (|||)
+
 #### Good & bad claims
 
 * ✅ Claim is specific & clear.
 * ✅ …Foundational or im&shy;portant.
-* ✅ *«I believe …»*
-* ❌ *«I don't believe …»*
+* ✅ …Positive: *«I believe …»*
+* ❌ Not negative: *«I don't believe …»*
 * ⚠️  …Trivial or obvious.
-* ⚠️  Stop if the claim supports a [Safety Net](#/2/3)!
+* ⚠️  Stop if the claim is part of a [Safety Net](#/2/4)!
 
 
 [comment]: # (|||)
