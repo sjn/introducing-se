@@ -188,9 +188,9 @@ Swipe [→](#/2)
 
 <br>
 
-* «Is» claims are often easier to explore.
-* «Should» claims often require extra work.
-* Sometimes, asking «why» helps find a factual claim to explore!
+* «Is» claims are often ea&shy;sier to explore.
+* «Should» claims often re&shy;quire extra work.
+* Sometimes, asking «why» helps you find a fac&shy;tual claim to explore!
 
 \
 *«If everybody changed to ag&shy;ree&shy;ing with your [norma&shy;tive claim], what would change in the world?»*
