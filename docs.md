@@ -19,7 +19,7 @@
 3. [**Ask for confidence** on a scale & calibrate](#/3)
 4. [**Identify main reason**](#/4)
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
-6. [**End with aporia**, a question, good tone](#/6)
+6. [**End on aporia**, a question, a good tone](#/6)
 7. [Consider & prepare](#/7)
 8. [Share & improve](#/8)
 
@@ -31,9 +31,9 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 
 #### What is Street Epistemology (SE)?
 
-* A way, th&shy;rough dia&shy;logue, to re&shy;flect on the qua&shy;lity of one's reasoning.
-* A way to have bet&shy;ter con&shy;ver&shy;sa&shy;tions about con&shy;ten&shy;ti&shy;ous topics.
-* A conversatio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
+* A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one re&shy;flect on the qua&shy;lity of one's reasoning.
+* A way to have bet&shy;ter dia&shy;logue about con&shy;ten&shy;ti&shy;ous topics.
+* A conversa&shy;tio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
 
 \
@@ -81,6 +81,7 @@ Swipe →[continue](#/1)
 * Show you're inter&shy;ested &&nbsp;listening.
 * Show your curiosity; explore their ideas!
 * Share what you have in common.
+* Be respectful, be charitable
 
 \
 Swipe ↓[more](#/1/1), →[continue](#/2)
@@ -383,7 +384,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (!!!)
 
-### 6. End with aporia, a question, a good tone
+### 6. End on aporia, a question, a good tone
 
 * The best endings offer food for thought!
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
