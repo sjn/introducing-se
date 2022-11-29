@@ -31,17 +31,18 @@ Swipe ↓[about](#/0/1), →[proceed](#/1)
 
 #### What is this?
 
-**Imagine** a conversaion **topic** you tend to avoid**. Maybe it's **political**, or an **ideological** or **religious** issue, or even something **confusing** or **harmful**.
+Imagine a topic you tend to avoid – **political**, **ideo&shy;logical** or **religious**, or maybe some&shy;thing **con&shy;fusing** or **harmful**.
 
 \
-Do you offer critique? Facts? A passionate plea to change their mind?
+Do you offer critique? Facts? A pas&shy;sio&shy;nate plea to change their mind?
 
 \
-Or do you just distance yourself?
+Or do you just avoid the topic, and distance yourself?
 
 \
-This site offers **a practical guide** for engaging with **difficult topics**, using [Street Epistemology](#/0/2).
+This is **a practical intro** to talking about **difficult topics**, using [Street&nbsp;Epistemology](#/0/2).
 
+\
 Swipe ↓[more](#/0/2), →[proceed](#/1)
 
 
@@ -71,7 +72,7 @@ The field of Philosophy focusing on *how* we know what we know.
 * *«Which methods and tools can we employ to determine this?»*
 
 \
-By [Introducing SE](#/0/4) we try to bring epistemology from academia and into everyday life.
+By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
 
 \
 Swipe ↓[more](#/0/4), →[proceed](#/1)
@@ -429,12 +430,12 @@ Some conversations may require several sessions. Give your conversation partner 
 
 ### 7. Consider & prepare
 
-*Before engaging in SE, de&shy;cide for your&shy;self…*
+*Before engaging in SE, de&cide for yourself…*
 
 <br>
 
 * What's your goal? To learn, em&shy;path&shy;ize or help them change their mind?
-* Are you open to learn and change your own mind too?
+* Are you also open to learn and change your own mind?
 * Decide, and consider sharing your intentions upfront.
 * As you proceed, expect your goals and intentions to show.
 
@@ -473,10 +474,10 @@ Some conversations may require several sessions. Give your conversation partner 
 
 ### 8. Learn more & share
 
-* Practice, learn and improve with a friendly community!
+* Practice, learn and im&sha;prove with a friendly community!
 * Find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
-* SE videos, blogs, tutorials, books and other resources on [streetepistemology.com](https://streetepistemology.com/).
-* Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community, so they may learn from you too.
+* SE videos, blogs, tutorials, books and more on [streetepistemology.com](https://streetepistemology.com/).
+* Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community, so we can get better together.
 * …And when you meet someone that may benefit from SE, [share this site](#/8/2)!
 
 
@@ -488,8 +489,8 @@ Looking for another take on Street&nbsp;Epistemology?
 
 <br>
 
-* Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics) page.
-* If you prefer videos, have a look at [LiveWell.Coach's SE Tutorial videos](https://www.youtube.com/watch?v=bKr_phSSzes&list=PLEBCyAR7MPxk6fRihp-Op9UN2Tw_qI6FJ).
+* Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
+* If you prefer videos, have a look at LiveWell.Coach's [SE Tutorial videos](https://www.youtube.com/watch?v=bKr_phSSzes&list=PLEBCyAR7MPxk6fRihp-Op9UN2Tw_qI6FJ).
 * Also, there's an awesome [SE poster](https://drive.google.com/file/d/1QNgN7HyzWE2AYm5VxaaRy9lqKQ6Y-zUm/view?usp=sharing)!
 
 
