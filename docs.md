@@ -31,7 +31,7 @@ Swipe ↓[about](#/0/1), →[proceed](#/1)
 
 #### What is this?
 
-Imagine a topic you tend to avoid – **political**, **ideo&shy;logical** or **religious**, or maybe some&shy;thing **con&shy;fusing** or **harmful**.
+Imagine a topic you tend to avoid – *political*, *ideo&shy;logical* or *religious*, or maybe some&shy;thing *con&shy;fusing* or *harmful*.
 
 \
 Do you offer critique? Facts? A pas&shy;sio&shy;nate plea to change their mind?
@@ -40,7 +40,7 @@ Do you offer critique? Facts? A pas&shy;sio&shy;nate plea to change their mind?
 Or do you just avoid the topic, and distance yourself?
 
 \
-This is **a practical intro** to talking about **difficult topics**, using [Street&nbsp;Epistemology](#/0/2).
+This is **a practical intro** for talking about **difficult topics**, using [Street&nbsp;Epistemology](#/0/2).
 
 \
 Swipe ↓[more](#/0/2), →[proceed](#/1)
