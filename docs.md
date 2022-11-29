@@ -24,10 +24,28 @@
 8. [Share & improve](#/8)
 
 \
-Swipe ↓[about](#/0/1), →[continue](#/1)
+Swipe ↓[about](#/0/1), →[proceed](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+#### What is this?
+
+**Imagine** a conversaion **topic** you tend to avoid**. Maybe it's **political**, or an **ideological** or **religious** issue, or even something **confusing** or **harmful**.
+
+\
+Do you offer critique? Facts? A passionate plea to change their mind?
+
+\
+Or do you just distance yourself?
+
+\
+This site offers **a practical guide** for engaging with **difficult topics**, using [Street Epistemology](#/0/2).
+
+Swipe ↓[more](#/0/2), →[proceed](#/1)
+
+
+[comment]: # (|||)
 
 #### What is Street Epistemology (SE)?
 
@@ -35,9 +53,10 @@ Swipe ↓[about](#/0/1), →[continue](#/1)
 * A way to have bet&shy;ter dia&shy;logue about con&shy;ten&shy;ti&shy;ous topics.
 * A conversa&shy;tio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
+* A way to introduce [Epistemology](#/0/3) into everyday conversations.
 
 \
-Swipe ↓[more](#/0/2), →[continue](#/1)
+Swipe ↓[more](#/0/3), →[proceed](#/1)
 
 
 [comment]: # (|||)
@@ -52,10 +71,10 @@ The field of Philosophy focusing on *how* we know what we know.
 * *«Which methods and tools can we employ to determine this?»*
 
 \
-With SE we try to bring this from academia and into everyday life.
+By [Introducing SE](#/0/4) we try to bring epistemology from academia and into everyday life.
 
 \
-Swipe ↓[more](#/0/3), →[continue](#/1)
+Swipe ↓[more](#/0/4), →[proceed](#/1)
 
 
 [comment]: # (|||)
@@ -69,7 +88,7 @@ Swipe ↓[more](#/0/3), →[continue](#/1)
 * …a way to [share SE](#/8/2) with anyone interested.
 
 \
-Swipe →[continue](#/1)
+Swipe →[proceed](#/1)
 
 
 [comment]: # (!!!)
@@ -84,7 +103,7 @@ Swipe →[continue](#/1)
 * Be respectful, be charitable
 
 \
-Swipe ↓[more](#/1/1), →[continue](#/2)
+Swipe ↓[more](#/1/1), →[proceed](#/2)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -97,7 +116,7 @@ Swipe ↓[more](#/1/1), →[continue](#/2)
 * Offer to set a timer if they have limited time.
 
 \
-Swipe ↓[more](#/1/2), →[continue](#/2)
+Swipe ↓[more](#/1/2), →[proceed](#/2)
 
 
 [comment]: # (|||)

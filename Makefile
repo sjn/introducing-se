@@ -30,6 +30,9 @@ site: ${DOCS_TARGET} ${ASSET_TARGETS}
 
 ${CARD_TARGET}: ${CARD_BUILD}
 	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
+	# Strip some non-idempotent cruft that pdfunite/poppler adds to
+    # the PDF, that makes the output non-reproducible
+	perl -i~ -pE 'our $$match; s@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' ${CARD_TARGET}
 	touch ${CARD_TARGET}
 
 ${CARD_BUILD}: ${CARD_SOURCES}
