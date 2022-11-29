@@ -66,10 +66,11 @@ Swipe ↓[more](#/0/3), →[proceed](#/1)
 
 The field of Philosophy focusing on *how* we know what we know.
 
-<br>
+\
+*«How do we know if some&shy;thing is true?»*
 
-* *«How do we know if some&shy;thing is true?»*
-* *«Which methods and tools can we employ to determine this?»*
+\
+*«Which methods and tools can we employ to determine this?»*
 
 \
 By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
@@ -82,11 +83,12 @@ Swipe ↓[more](#/0/4), →[proceed](#/1)
 
 #### What is Introducing.SE?
 
-<br>
-
 * This is a prac&shy;tical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE)
 * …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
 * …a way to [share SE](#/8/2) with anyone interested.
+
+\
+Welcome to the Street Epistemology community!
 
 \
 Swipe →[proceed](#/1)
@@ -134,7 +136,7 @@ Swipe ↓[more](#/1/2), →[proceed](#/2)
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
-Swipe [↓](#/1/3) [→](#/2)
+Swipe ↓[more](#/1/3) →[proceed](#/2)
 
 
 [comment]: # (|||)
@@ -150,7 +152,7 @@ Swipe [↓](#/1/3) [→](#/2)
 *«Let's solve this mystery together.»*
 
 \
-Swipe [↓](#/1/4) [→](#/2)
+Swipe ↓[more](#/1/4) →[proceed](#/2)
 
 
 [comment]: # (|||)
@@ -165,7 +167,7 @@ Swipe [↓](#/1/4) [→](#/2)
 * ❌ *«How do you justify…»*
 
 \
-Swipe [→](#/2)
+Swipe →[proceed](#/2)
 
 
 [comment]: # (!!!)
