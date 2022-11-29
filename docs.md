@@ -21,7 +21,7 @@
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
 7. [Consider & prepare](#/7)
-8. [Learn more, & share](#/8)
+8. [Learn more & share](#/8)
 
 \
 Swipe ↓[about](#/0/1), →[proceed](#/1)
@@ -471,7 +471,7 @@ Some conversations may require several sessions. Give your conversation partner 
 
 [comment]: # (!!!)
 
-### 8. Learn more, & share
+### 8. Learn more & share
 
 * Practice, learn and improve with a friendly community!
 * Find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).

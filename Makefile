@@ -1,3 +1,8 @@
+
+YEAR_V=2022
+FRONT_V=09
+BACK_V=06
+
 TARGET=docs
 
 DOCS_SOURCE  = docs.md
@@ -6,9 +11,9 @@ DOCS_TARGET  = ${TARGET}/index.html
 ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
 ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
 
-CARD_SOURCES = src/introducing-se-card-2022-08-front.svg src/introducing-se-card-2022-05-back.svg
+CARD_SOURCES = src/introducing-se-card-${YEAR_V}-${FRONT_V}-front.svg src/introducing-se-card-${YEAR_V}-${BACK_V}-back.svg
 CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
-CARD_TARGET  = dist/media/introducing-se-card-2022-08-05.pdf
+CARD_TARGET  = dist/media/introducing-se-card-${YEAR_V}-${FRONT_V}-${BACK_V}.pdf
 
 
 # To install, run "make install-mdslides"
@@ -32,11 +37,18 @@ ${CARD_TARGET}: ${CARD_BUILD}
 	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
 	# Strip some non-idempotent cruft that pdfunite/poppler adds to
     # the PDF, that makes the output non-reproducible
-	perl -i~ -pE 'our $$match; s@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' ${CARD_TARGET}
+	perl -i.orig -nE 's@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; print; } BEGIN: { our $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' ${CARD_TARGET}
 	touch ${CARD_TARGET}
 
 ${CARD_BUILD}: ${CARD_SOURCES}
-	${INKSCAPE} -D -o $@ $(patsubst %.pdf,%.svg,$@)
+	# If the PDF contains a %VERSION% string, then replace it with a version
+	# string composed by the year, front and back serial numbers defined above
+	cp $(patsubst %.pdf,%.svg,$@) $(patsubst %.pdf,%.svg.v,$@)
+	perl -i~ -nE 's@\%VERSION\%@${YEAR_V}\.${FRONT_V}\.${BACK_V}@; print;' $(patsubst %.pdf,%.svg.v,$@)
+	${INKSCAPE} -D -o $@ $(patsubst %.pdf,%.svg.v,$@)
+	# Strip some non-idempotent cruft that pdfunite/poppler adds to
+    # the PDF, that makes the output non-reproducible
+	perl -i.orig -nE 's@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; print; } BEGIN: { our $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' $@
 
 ${DOCS_TARGET}: ${DOCS_SOURCE}
 	${MDSLIDES} docs.md --include dist
@@ -84,5 +96,7 @@ install-inkscape:
 make2graph:
 	@echo 'make -Bnd | make2graph | dot -Lg -x -Tsvg -o out.svg'
 
+clean:
+	@find . -name '*~' -o -name '*.svg.v' -o -name '*.orig' -exec rm {} \;
 
-.PHONY: all card site
+.PHONY: all card site clean

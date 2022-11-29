@@ -1,4 +1,5 @@
 *~
+*.orig
+*.svg.v
 *.swp
-out.svg
 markdown-slides-master-example
