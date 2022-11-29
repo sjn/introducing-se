@@ -412,7 +412,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * Try to end on a posi&shy;tive note, with *wonder* or *[aporia](https://en.wikipedia.org/wiki/Aporia)*.
 * Success? – You have it when **both are happy** to have had the con&shy;ver&shy;sation.
 * If you can, offer to con&shy;tinue the chat later.
-* Maybe offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-07-05.pdf)?
+* Maybe offer them a printed [Introducing.SE card](dist/media/introducing-se-card-2022-09-06.pdf)?
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
