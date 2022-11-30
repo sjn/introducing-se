@@ -98,7 +98,7 @@ Swipe →[proceed](#/1)
 
 ### 1. Find a good tone & get informed consent
 
-* Establish **friendly rapport**, and maintain it.
+* Establish **friendly rap&shy;port**, and maintain it.
 * Tell them your intentions, so they may consent.
 * Show you're inter&shy;ested &&nbsp;listening.
 * Show your curiosity; explore their ideas!
@@ -349,7 +349,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 <br>
 
 * *«How did you arrive at the reason?»*
-* *«What method was used to determine the soundness of this reason?»*
+* *«What method was used to determine the sound&shy;ness of this reason?»*
 * *«How can we de&shy;termine if this method is reliable?»*
 
 \
@@ -432,7 +432,7 @@ Some conversations may require several sessions. Give your conversation partner 
 
 ### 7. Consider & prepare
 
-*Before engaging in SE, de&cide for yourself…*
+*Before engaging in SE, decide for yourself…*
 
 <br>
 
@@ -476,10 +476,10 @@ Some conversations may require several sessions. Give your conversation partner 
 
 ### 8. Learn more & share
 
-* Practice, learn and im&sha;prove with a friendly community!
-* Find the SE com&shy;munity on [Discord](https://discord.gg/sKap3zM) and [elsewhere](https://streetepistemology.com/community).
-* SE videos, blogs, tutorials, books and more on [streetepistemology.com](https://streetepistemology.com/).
-* Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community, so we can get better together.
+* Practice, learn and im&shy;prove with a friendly community!
+* Find SE practitioners on [Discord](https://discord.gg/sKap3zM) &amp; [elsewhere](https://streetepistemology.com/community).
+* SE videos, blogs, books, tutorials and more on [streetepistemology.com](https://streetepistemology.com/).
+* Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community, so we can improve together!
 * …And when you meet someone that may benefit from SE, [share this site](#/8/2)!
 
 
