@@ -492,7 +492,7 @@ Looking for another take on Street&nbsp;Epistemology?
 <br>
 
 * Check out the [Street Epistemology Basics](https://streetepistemology.com/blog/street-epistemology-the-basics).
-* If you prefer videos, have a look at LiveWell.Coach's [SE Tutorial videos](https://www.youtube.com/watch?v=bKr_phSSzes&list=PLEBCyAR7MPxk6fRihp-Op9UN2Tw_qI6FJ).
+* Prefer videos? Check out LiveWell.Coach's [SE Tutorial](https://www.youtube.com/watch?v=bKr_phSSzes&list=PLEBCyAR7MPxk6fRihp-Op9UN2Tw_qI6FJ) on YouTube.
 * Also, there's an awesome [SE poster](https://drive.google.com/file/d/1QNgN7HyzWE2AYm5VxaaRy9lqKQ6Y-zUm/view?usp=sharing)!
 
 
