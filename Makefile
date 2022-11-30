@@ -97,6 +97,6 @@ make2graph:
 	@echo 'make -Bnd | make2graph | dot -Lg -x -Tsvg -o out.svg'
 
 clean:
-	@find . -name '*~' -o -name '*.svg.v' -o -name '*.orig' -exec rm {} \;
+	find . -iregex '.*~\|.*.svg.v\|.*.orig' -exec rm {} \;
 
 .PHONY: all card site clean
