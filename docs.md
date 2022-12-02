@@ -84,7 +84,7 @@ Swipe ↓[more](#/0/4), →[proceed](#/1)
 #### What is Introducing.SE?
 
 * This is a prac&shy;tical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE)
-* …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing SE.
+* …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing&nbsp;SE.
 * …a way to [share SE](#/8/2) with anyone interested.
 
 \
@@ -98,7 +98,7 @@ Swipe →[proceed](#/1)
 
 ### 1. Find a good tone & get informed consent
 
-* Establish **friendly rap&shy;port**, and maintain it.
+* Establish **friendly rap&shy;port**, and main&shy;tain&nbsp;it.
 * Tell them your intentions, so they may consent.
 * Show you're inter&shy;ested &&nbsp;listening.
 * Show your curiosity; explore their ideas!
@@ -145,7 +145,7 @@ Swipe ↓[more](#/1/3) →[proceed](#/2)
 
 * Be **Self-directed** – ask about what you find curious or confusing.
 * … **Open-minded** – there's always something to learn!
-* … **Single-minded** – focus on one topic until you grasp it.
+* … **Single-minded** – focus on one topic until you grasp&nbsp;it.
 * and **Thorough** – don't just acknowledge, but try to *connect ideas*.
 
 \
@@ -493,7 +493,7 @@ Give your conversation partner reasons to look forward to them!
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-### Other SE resources
+#### Other SE resources
 
 Looking for another take on Street&nbsp;Epistemology?
 
@@ -507,22 +507,22 @@ Looking for another take on Street&nbsp;Epistemology?
 [comment]: # (|||)
 
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-###### Street&nbsp;Epistemology
+#### Street&nbsp;Epistemology
 
 [![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
-###### Introducing.SE
+#### Introducing.SE
 
 
 [comment]: # (|||)
 
-### About this site
+#### License
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> &amp; content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/sjoshuan">Salve&nbsp;J.&nbsp;Nilsen</a> &amp; others, is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC-BY-SA-4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/sa.svg?ref=chooser-v1"></a></p>
 <br>
 
-#### 🚧 Contribute 🚧
+#### Contributing
 
-This site is a work in pro&shy;gress. Please help us improve&nbsp;it!
+🚧 This site is a work in pro&shy;gress. Please help us improve&nbsp;it!
 
 \
 Source code, content, attributions and issue tracker is on [Github](https://github.com/sjn/introducing-se/).
