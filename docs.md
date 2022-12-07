@@ -24,26 +24,28 @@
 8. [Learn more & share](#/8)
 
 \
-Swipe ↓[What is this?](#/0/1), →[proceed](#/1)
+Swipe ↓[What is this?](#/0/1), →[Proceed](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### What is this?
 
-Imagine a dif&shy;fi&shy;cult topic – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, or maybe some&shy;thing *con&shy;fusing* or *harmful*.
+Some conversations are *hard*.
+
+Imagine a content&shy;ious topic – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, *reli&shy;gious* or maybe *con&shy;fusing* or *harmful*.
 
 \
-Do you offer critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to change their mind?
+Have you offered critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to change their mind, but failed?
 
 \
-Or do you just avoid the topic, and distance yourself?
+Or have you just avoided it all, distancing yourself?
 
 \
-If you need to engage, there is a way — [Street&nbsp;Epistemology](#/0/2).
+If you need to engage, there is an effective and respectful way — [Street&nbsp;Epistemology](#/0/2).
 
 \
-Swipe ↓[Learn more](#/0/2), →[proceed](#/1)
+↓[Learn more](#/0/2), →[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -57,7 +59,7 @@ Swipe ↓[Learn more](#/0/2), →[proceed](#/1)
 * A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
 
 \
-Swipe ↓[Learn more](#/0/3), →[proceed](#/1)
+↓[Learn more](#/0/3), →[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -76,7 +78,7 @@ The field of Philosophy focusing on *how* we know what we know.
 By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
 
 \
-Swipe ↓[Learn more](#/0/4), →[proceed](#/1)
+↓[Learn more](#/0/4), →[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -92,7 +94,7 @@ Swipe ↓[Learn more](#/0/4), →[proceed](#/1)
 Welcome to the Street Epistemology community!
 
 \
-Swipe →[proceed](#/1)
+→[Proceed](#/1)
 
 
 [comment]: # (!!!)
@@ -107,7 +109,7 @@ Swipe →[proceed](#/1)
 * Be respectful, be charitable
 
 \
-Swipe ↓[more](#/1/1), →[proceed](#/2)
+↓[More](#/1/1), →[Proceed](#/2)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -120,7 +122,7 @@ Swipe ↓[more](#/1/1), →[proceed](#/2)
 * Offer to set a timer if they have limited time.
 
 \
-Swipe ↓[more](#/1/2), →[proceed](#/2)
+↓[More](#/1/2), →[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -137,7 +139,7 @@ Swipe ↓[more](#/1/2), →[proceed](#/2)
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
-Swipe ↓[more](#/1/3) →[proceed](#/2)
+↓[More](#/1/3) →[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -153,7 +155,7 @@ Swipe ↓[more](#/1/3) →[proceed](#/2)
 *«Let's solve this mystery together.»*
 
 \
-Swipe ↓[more](#/1/4) →[proceed](#/2)
+↓[More](#/1/4) →[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -168,7 +170,7 @@ Swipe ↓[more](#/1/4) →[proceed](#/2)
 * ❌ *«How do you justify…»*
 
 \
-Swipe →[proceed](#/2)
+Swipe →[Proceed](#/2)
 
 
 [comment]: # (!!!)
