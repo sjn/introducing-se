@@ -30,19 +30,19 @@ https://pages.github.com
 
 # Contributors & attibution
 
+* Nilsen, Salve J.
+
 * CanIBeBlue (SE Discord)
 * Elgvin, Jared
 * Helgadottir, Anna
 * Hove, Erlend
 * Magnabosco, Anthony
 * MasterDan (SE Discord)
-* Nilsen, Salve J.
 * RyanAin'tLyin (SE Discord)
 * Schiesser, Ulrike
 * Säde, Ragnar (SE Discord)
 
-Furthermore, some content is inspired from SE conversations published on YouTube over many years.
-Please see the Steet Epistemology website for viewing guides.
+Furthermore, some content is inspired from SE conversations published on YouTube over many years. Please see the Steet Epistemology website for viewing guides.
 
 
 ## Inspiration
