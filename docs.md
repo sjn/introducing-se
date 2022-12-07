@@ -24,23 +24,21 @@
 8. [Learn more & share](#/8)
 
 \
-Swipe ↓[What is this?](#/0/1), →[Proceed](#/1)
+↓[What is this?](#/0/1), →[Proceed](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
-#### What is this?
-
-Some talks are *hard*.
+#### Some talks are *hard*
 
 \
-Imagine a content&shy;ious topic – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, *ethical* or maybe *con&shy;fusing* or *harmful*.
+Imagine a content&shy;ious topic – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, *ethical* or maybe just *con&shy;fusing* or *harmful*.
 
 \
 Have you offered critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to change their mind? Or do you just avoid it all, distancing yourself?
 
 \
-If you need to engage, there is an effective and respectful way — [Street&nbsp;Epistemology](#/0/2).
+If you have to engage, there is an effective and respectful way — [Street&nbsp;Epistemology](#/0/2).
 
 \
 ↓[Learn more](#/0/2), →[Proceed](#/1)
@@ -52,7 +50,7 @@ If you need to engage, there is an effective and respectful way — [Street&nbsp
 
 * A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
 * A way to have friendly dia&shy;logue about con&shy;ten&shy;ti&shy;ous topics.
-* A conversa&shy;tio&shy;nal tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
+* A tool&shy;box for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
 * A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
 
