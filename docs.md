@@ -24,14 +24,14 @@
 8. [Learn more & share](#/8)
 
 \
-Swipe ↓[about](#/0/1), →[proceed](#/1)
+Swipe ↓[What is this?](#/0/1), →[proceed](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 #### What is this?
 
-Imagine a topic you find dif&shy;fi&shy;cult – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, *reli&shy;gi&shy;ous*, or maybe some&shy;thing *con&shy;fusing* or *harmful*…
+Imagine a dif&shy;fi&shy;cult topic – *poli&shy;tical*, *ideo&shy;logi&shy;cal*, or maybe some&shy;thing *con&shy;fusing* or *harmful*.
 
 \
 Do you offer critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to change their mind?
@@ -40,10 +40,10 @@ Do you offer critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to
 Or do you just avoid the topic, and distance yourself?
 
 \
-This is **a practical intro** for talking about **difficult topics**, using [Street&nbsp;Epistemology](#/0/2).
+If you need to engage, there is a way — [Street&nbsp;Epistemology](#/0/2).
 
 \
-Swipe ↓[more](#/0/2), →[proceed](#/1)
+Swipe ↓[Learn more](#/0/2), →[proceed](#/1)
 
 
 [comment]: # (|||)
@@ -57,7 +57,7 @@ Swipe ↓[more](#/0/2), →[proceed](#/1)
 * A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
 
 \
-Swipe ↓[more](#/0/3), →[proceed](#/1)
+Swipe ↓[Learn more](#/0/3), →[proceed](#/1)
 
 
 [comment]: # (|||)
@@ -76,15 +76,16 @@ The field of Philosophy focusing on *how* we know what we know.
 By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
 
 \
-Swipe ↓[more](#/0/4), →[proceed](#/1)
+Swipe ↓[Learn more](#/0/4), →[proceed](#/1)
 
 
 [comment]: # (|||)
 
 #### What is Introducing.SE?
 
-* This is a prac&shy;tical in&shy;tro&shy;duc&shy;tion and over&shy;view of Street Episte&shy;mology (SE)
-* …a site for your phone, with use&shy;ful tips for prac&shy;ti&shy;cing&nbsp;SE.
+* This is websige offering a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* and over&shy;view of Street Episte&shy;mology (SE)
+* …a tool best used on your phone, with use&shy;ful tips for prac&shy;ti&shy;cing&nbsp;SE.
+* …a living document that aims to be as useful as possible within it's constraints.
 * …a way to [share SE](#/8/2) with anyone interested.
 
 \
