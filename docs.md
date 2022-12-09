@@ -24,7 +24,7 @@
 8. [Learn more & share](#/8)
 
 \
-↓[What is this?](#/0/1), →[Proceed](#/1)
+🖣[What is this?](#/0/1), 🖝[Proceed](#/1)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -40,7 +40,7 @@ Do you offer critique? Facts? De&shy;ri&shy;sion? A pas&shy;sio&shy;nate plea to
 If you have to engage, **you can do it** in an effective and respectful way, with [Street&nbsp;Epistemology](#/0/2).
 
 \
-↓[Learn more](#/0/2), →[Proceed](#/1)
+🖣[Learn more](#/0/2), 🖝[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -54,7 +54,7 @@ If you have to engage, **you can do it** in an effective and respectful way, wit
 * A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
 
 \
-↓[Learn more](#/0/3), →[Proceed](#/1)
+🖣[Learn more](#/0/3), 🖝[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -73,7 +73,7 @@ The field of Philosophy focusing on **how we know** what we know.
 By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
 
 \
-↓[Learn more](#/0/4), →[Proceed](#/1)
+🖣[Learn more](#/0/4), 🖝[Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -89,7 +89,7 @@ By [Introducing SE](#/0/4) we try to bring epistemology from academia into every
 Welcome to the Street Epistemology community!
 
 \
-→[Proceed](#/1)
+🖝[Proceed](#/1)
 
 
 [comment]: # (!!!)
@@ -104,7 +104,7 @@ Welcome to the Street Epistemology community!
 * Be respectful, be charitable
 
 \
-↓[More](#/1/1), →[Proceed](#/2)
+🖣[More](#/1/1), 🖝[Proceed](#/2)
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -117,7 +117,7 @@ Welcome to the Street Epistemology community!
 * Offer to set a timer if they have limited time.
 
 \
-↓[More](#/1/2), →[Proceed](#/2)
+🖣[More](#/1/2), 🖝[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -134,7 +134,7 @@ Welcome to the Street Epistemology community!
 * *Practice* – [SE may at first be easier with strangers](#/8).
 
 \
-↓[More](#/1/3) →[Proceed](#/2)
+🖣[More](#/1/3) 🖝[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -150,7 +150,7 @@ Welcome to the Street Epistemology community!
 *«Let's solve this mystery together.»*
 
 \
-↓[More](#/1/4) →[Proceed](#/2)
+🖣[More](#/1/4) 🖝[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -165,7 +165,7 @@ Welcome to the Street Epistemology community!
 * ❌ *«How do you justify…»*
 
 \
-Swipe →[Proceed](#/2)
+Swipe 🖝[Proceed](#/2)
 
 
 [comment]: # (!!!)
