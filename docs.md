@@ -61,10 +61,10 @@ If you have to engage, there is an effective and respectful way — [Street&nbsp
 
 #### What is Epistemology?
 
-The field of Philosophy focusing on *how* we know what we know.
+The field of Philosophy focusing on **how we know** what we know.
 
 \
-*«How do we know if some&shy;thing is true?»*
+*«How do we determine if some&shy;thing is true?»*
 
 \
 *«Which methods and tools can we employ to determine this?»*
@@ -80,10 +80,10 @@ By [Introducing SE](#/0/4) we try to bring epistemology from academia into every
 
 #### What is Introducing.SE?
 
-* This is websige offering a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* and over&shy;view of Street Episte&shy;mology (SE)
+* This is website offering a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* and over&shy;view of Street Episte&shy;mology (SE)
 * …a tool best used on your phone, with use&shy;ful tips for prac&shy;ti&shy;cing&nbsp;SE.
-* …a living document that aims to be as useful as possible within it's constraints.
-* …a way to [share SE](#/8/2) with anyone interested.
+* …a living resource that aims to become as useful as possible – within it's constraints.
+* …a way to [Share SE](#/8/2) with anyone interested.
 
 \
 Welcome to the Street Epistemology community!
@@ -348,8 +348,8 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 <br>
 
 * *«How did you arrive at the reason?»*
+* *«How did you rule out other reasons that could explain the same?»*
 * *«What method was used to determine the sound&shy;ness of this reason?»*
-* *«How did you rule out other reasons that would explain the same?»*
 * *«How can we de&shy;termine if these methods are reliable?»*
 
 \
