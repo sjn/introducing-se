@@ -34,7 +34,7 @@ https://pages.github.com
 
 * CanIBeBlue (SE Discord)
 * Elgvin, Jared
-* Helgadottir, Anna
+* Helgadóttir, Anna
 * Hove, Erlend
 * Magnabosco, Anthony
 * MasterDan (SE Discord)
@@ -54,10 +54,10 @@ Further inspiration for the content on this site has been gathered from the [Str
 
 The following books have informed much of the content on this site.
 
-* *A Manual for Creating Atheists* by Peter Boghossian
+* *How Minds Change* by David McRaney
 * *How to Have Impossible Conversations* by Peter Boghossian and James Lindsay
 * *The Scout Mindset* by Julia Galef
 * *Mental Immunity* by Andy Norman
-* *How Minds Change* by David McRaney
+* *A Manual for Creating Atheists* by Peter Boghossian
 * *The Constitution of Knowledge* by Jonathan Rauch
 * *Fakt und Vorurteil* by Holm Gero Hümmler, Ulrike Schiesser
