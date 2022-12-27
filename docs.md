@@ -83,7 +83,7 @@ Welcome to the Street Epistemology community!
 * Establish [**friendly rap&shy;port**](#/1/1), and main&shy;tain&nbsp;it.
 * [Tell them your intentions](#/1/2), so they may consent.
 * Avoid [topic rebuttal](#/1/3).
-* [Be tactful](#/1/4) in what you say.
+* [Be tactful](#/1/4) in what you&nbsp;say.
 * [Be mindful of their time](#/1/6).
 
 \
@@ -402,8 +402,8 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 * This is [the key goal of&nbsp;SE](#/5/1).
 * [Explore epistemology](#/5/2).
-* [Explore reliability](#/5/3).
-* [Recognize unreliable reasons](#/5/5)
+* [Assess reliability](#/5/3).
+* [Recognize unreliable reasons](#/5/5).
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -560,7 +560,7 @@ Give your conversation partner reasons to look forward to them!
 
 <br>
 
-* ❌ *scripted* conversations.
+* ❌ *scripted* con&shy;versations.
 * ❌ …«interviewing».
 * ❌ …leading questions.
 * ❌ …overt «messaging».
