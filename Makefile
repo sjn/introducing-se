@@ -4,9 +4,13 @@ FRONT_V=09
 BACK_V=06
 
 TARGET=docs
+SLIDES=slides
 
-DOCS_SOURCE  = docs.md
-DOCS_TARGET  = ${TARGET}/index.html
+DOCS_SOURCE   = docs.md
+DOCS_TARGET   = ${TARGET}/index.html
+
+SLIDES_SOURCE = slides.md
+SLIDES_TARGET = ${SLIDES}/index.html
 
 ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
 ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
@@ -32,6 +36,8 @@ card: ${CARD_TARGET}
 
 site: ${DOCS_TARGET} ${ASSET_TARGETS}
 
+slides: ${SLIDES_TARGET} ${ASSETS_TARGETS}
+
 
 ${CARD_TARGET}: ${CARD_BUILD}
 	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
@@ -55,6 +61,9 @@ ${DOCS_TARGET}: ${DOCS_SOURCE}
 	# mdslides deletes unfamiliar files, but we need CNAME
 	# for github to serve the files on the correct DNS hostname
 	git checkout docs/CNAME
+
+${SLIDES_TARGET}: ${SLIDES_SOURCE}
+	${MDSLIDES} slides.md --include dist --output_dir slides
 
 ${ASSETS_TARGETS}: ${ASSETS_SOURCES}
 
