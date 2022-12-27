@@ -11,7 +11,7 @@
 [comment]: # (height: "80%")
 [comment]: # (help: true)
 
-### Street Epistemology Workshop
+## Street Epistemology Workshop
 
 \
 \
@@ -33,7 +33,12 @@ oslohack:22
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
 7. [Consider & prepare](#/7)
-8. [Learn more & share](#/8)
+8. [Learn more](#/8)
+
+Note:
+* SE: A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
+* Epistemology: The field of Philosophy focusing on **how we know** what we know.
+* Introducing.SE: A *prac&shy;tical in&shy;tro&shy;duc&shy;tion* and over&shy;view of Street Episte&shy;mology (SE
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -47,6 +52,14 @@ oslohack:22
 * [Be mindful of their time](#/1/6).
 
 
+Note:
+* Rapport: *Keeping a frien&shy;dly tone is critical for success*.
+* Politeness: *Share, describe, be respectful, charitable*.
+* Topic rebuttal: *Don't offer facts, but tech&shy;nique rebuttal*.
+* Be tactful: ✅'s & ❌'s
+* Recording: Ask for consent & manage time
+
+
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 ### 2. Pick a claim &&nbsp;clarify
@@ -56,6 +69,13 @@ oslohack:22
 * [Turn normative claims factual](#/2/3).
 * [Clarify terms](#/2/4).
 * [Avoid «Safety Net» claims](#/2/5).
+
+Note:
+* Find a claim: Single, factual, claim
+* Good claim: Specific, important, positive
+* Normative caims: Ask "why" to make into factual claim
+* Clarifying terms: "True for me", clarify, qualify, their definition, take notes
+* «Safety Net»: Do no harm
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -67,6 +87,12 @@ oslohack:22
 * [Pre-contemplative or&nbsp;not?](#/3/3)
 * [Nudging confidence](#/3/4)
 
+Note:
+* Ask for confidence: polarization, scale, up, down, change
+* Explore confidence: >100%, evidence, others, why not extremes
+* Pre-contemplative: 0 or 100? trust? tribe?
+* Nudging confidence: if room for more, calibrate? evidence, community
+
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -75,6 +101,11 @@ oslohack:22
 * [What is their most im&shy;portant](#/4/1) source, ex&shy;peri&shy;ence or reason?
 * Are there any other [under&shy;lying reasons](#/4/2) sup&shy;porting this?
 * [Many small reasons](#/4/3), or a few large?
+
+Note:
+* Asking: what makes it good? better reason?
+* Underlying: reason is unavailable, confidence change, yes: how? no: what else? switch topic?
+* Many small/few large: commonalities, influence how, adds/multiplies, take notes
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -89,6 +120,16 @@ oslohack:22
 * [Explore epistemology](#/5/2).
 * [Assess reliability](#/5/3).
 * [Recognize unreliable reasons](#/5/5).
+
+Note:
+* The key goal: reliability, how > why > what
+* Epistemology: arrive, rule out, soundness, reliability
+* Reliability: Outsider, consultant, double standard
+* Reliability: Conformity, status quo, selective skeptic
+* Fallacies: Authority, ignorance, tradition
+* Biases: confirmation, availability, motivated
+* News: bias, misleading, fact check fails
+* Publications: C.R.A.A.P test
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -105,6 +146,10 @@ oslohack:22
 \
 *«I've never thought about that!»*
 
+Note:
+* Ending: aporia, question, both happy, cont'd
+* Returning: necessary? look forward, making one think
+
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -114,6 +159,12 @@ oslohack:22
 * [Adopt a learner's attitude](#/7/2)
 * [Be aware of their expectations](#/7/3)
 * Do any necessary [prac&shy;tical preparations](#/7/4)
+
+Note:
+* Intentions: goal: learn or change mind? share!
+* Learner's attitude: curiosity, open-minded, focus, connect ideas
+* Expectation: ❌ scripted, interview, leading, messaging, embarrass, cornered
+* Practical: note-taking, friend, recorder, timer, cards
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
