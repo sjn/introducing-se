@@ -12,8 +12,11 @@ DOCS_TARGET   = ${TARGET}/index.html
 SLIDES_SOURCE = slides.md
 SLIDES_TARGET = ${SLIDES}/index.html
 
-ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
-ASSET_TARGETS = $(addprefix ${TARGET}/,${ASSET_SOURCES})
+DOCS_ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png
+DOCS_ASSET_TARGETS = $(addprefix ${TARGET}/,${DOCS_ASSET_SOURCES})
+
+SLIDES_ASSET_SOURCES = dist/theme/streetepistemology.css dist/media/street-epistemology-logo.png dist/media/to-this-site-qr.png dist/media/se-law-of-attraction.mp4
+SLIDES_ASSET_TARGETS = $(addprefix ${SLIDES}/,${SLIDES_ASSET_SOURCES})
 
 CARD_SOURCES = src/introducing-se-card-${YEAR_V}-${FRONT_V}-front.svg src/introducing-se-card-${YEAR_V}-${BACK_V}-back.svg
 CARD_BUILD   = $(patsubst %.svg,%.pdf,${CARD_SOURCES})
@@ -34,9 +37,9 @@ all: card site
 
 card: ${CARD_TARGET}
 
-site: ${DOCS_TARGET} ${ASSET_TARGETS}
+site: ${DOCS_TARGET} ${DOCS_ASSET_TARGETS}
 
-slides: ${SLIDES_TARGET} ${ASSETS_TARGETS}
+slides: ${SLIDES_TARGET} ${SLIDES_ASSETS_TARGETS}
 
 
 ${CARD_TARGET}: ${CARD_BUILD}

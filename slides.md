@@ -4,36 +4,44 @@
 
 [comment]: # (THEME = streetepistemology)
 
+[comment]: # (width: 960)
+[comment]: # (height: 540)
 [comment]: # (minScale: 0.2)
 [comment]: # (maxScale: 4.0)
-[comment]: # (controls: true)
-[comment]: # (width: "80%")
-[comment]: # (height: "80%")
-[comment]: # (help: true)
+[comment]: # (controls: false)
+[comment]: # (help: false)
 
-## Street Epistemology Workshop
+[![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
 
-\
-\
-Salve J. Nilsen & Jared Elgvin
+## Street Epistemology
 
-\
-\
-oslohack:22
+<br>
+
+Salve J. Nilsen — Jared Elgvin
+
+<br>
+
+### oslohack:22
 
 
-[comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+[comment]: # (!!!)
+
+<!-- Download https://www.youtube.com/watch?v=ZXnTA9irjo0 and place it in local/media/se-law-of-attraction.mp4 -->
+<iframe width="880" height="480" src="../local/media/se-law-of-attraction.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
+
+
+[comment]: # (!!!)
 
 ### The Street Epistemology Checklist
 
-1. [**Find a good tone** & get informed consent](#/1)
-2. [**Pick a claim** & clarify](#/2)
-3. [**Ask for confidence** on a scale & calibrate](#/3)
-4. [**Identify main reason**](#/4)
-5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
-6. [**End on aporia**, a question, a good tone](#/6)
-7. [Consider & prepare](#/7)
-8. [Learn more](#/8)
+1. [**Find a good tone** & get informed consent](#/3)
+2. [**Pick a claim** & clarify](#/4)
+3. [**Ask for confidence** on a scale & calibrate](#/5)
+4. [**Identify main reason**](#/6)
+5. [**Explore & assess** epi&shy;stemology & reliability](#/7)
+6. [**End on aporia**, a question, a good tone](#/8)
+7. [Consider & prepare](#/9)
+8. [Learn more](#/10)
 
 Note:
 * SE: A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
@@ -45,11 +53,11 @@ Note:
 
 ### 1. Find a good tone & get informed consent
 
-* Establish [**friendly rap&shy;port**](#/1/1), and main&shy;tain&nbsp;it.
-* [Tell them your intentions](#/1/2), so they may consent.
-* Avoid [topic rebuttal](#/1/3).
-* [Be tactful](#/1/4) in what you&nbsp;say.
-* [Be mindful of their time](#/1/6).
+* Establish **friendly rap&shy;port**, and main&shy;tain&nbsp;it.
+* **Tell them your intentions**, so they may consent.
+* Avoid **topic rebuttal**.
+* **Be tactful** in what you&nbsp;say.
+* Be **mindful of their time**.
 
 
 Note:
@@ -64,11 +72,11 @@ Note:
 
 ### 2. Pick a claim &&nbsp;clarify
 
-* [Find a claim to explore](#/2/1).
-* [What is a good claim?](#/2/2).
-* [Turn normative claims factual](#/2/3).
-* [Clarify terms](#/2/4).
-* [Avoid «Safety Net» claims](#/2/5).
+* Find **a claim to explore**.
+* What is **a good claim**?
+* Turn **normative claims** factual.
+* **Clarify** terms.
+* Avoid **«Safety Net»** claims.
 
 Note:
 * Find a claim: Single, factual, claim
@@ -82,25 +90,25 @@ Note:
 
 ### 3. Ask for con&shy;fi&shy;dence on a scale &&nbsp;calibrate
 
-* [Ask for confidence](#/3/1)
-* [Explore their confidence](#/3/2)
-* [Pre-contemplative or&nbsp;not?](#/3/3)
-* [Nudging confidence](#/3/4)
+* Ask for **confidence**.
+* **Explore** their confidence.
+* **Pre-contemplative** or&nbsp;not?
+* **Nudging** confidence.
 
 Note:
 * Ask for confidence: polarization, scale, up, down, change
 * Explore confidence: >100%, evidence, others, why not extremes
 * Pre-contemplative: 0 or 100? trust? tribe?
-* Nudging confidence: if room for more, calibrate? evidence, community
+* Nudging confidence: if room for more, calibrate? postpone, evidence, community
 
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 ### 4. Identify main reason
 
-* [What is their most im&shy;portant](#/4/1) source, ex&shy;peri&shy;ence or reason?
-* Are there any other [under&shy;lying reasons](#/4/2) sup&shy;porting this?
-* [Many small reasons](#/4/3), or a few large?
+* What is **their most im&shy;portant source**, ex&shy;peri&shy;ence or reason?
+* Are there any other **under&shy;lying reasons** sup&shy;porting this?
+* **Many small reasons**, or a few large?
 
 Note:
 * Asking: what makes it good? better reason?
@@ -116,10 +124,10 @@ Note:
 
 <br>
 
-* This is [the key goal of&nbsp;SE](#/5/1).
-* [Explore epistemology](#/5/2).
-* [Assess reliability](#/5/3).
-* [Recognize unreliable reasons](#/5/5).
+* This is **the key goal of&nbsp;SE**.
+* **Explore epistemology**.
+* **Assess reliability**.
+* **Recognize unreliable reasons**.
 
 Note:
 * The key goal: reliability, how > why > what
@@ -140,8 +148,8 @@ Note:
 
 <br>
 
-* Try [ending on aporia](#/6/1) or with a question.
-* Offer them some [reasons to return](#/6/2).
+* Try **ending on aporia** or with a question.
+* Offer them some **reasons to return**.
 
 \
 *«I've never thought about that!»*
@@ -155,10 +163,10 @@ Note:
 
 ### Consider & prepare
 
-* [Consider your intentions](#/7/1)
-* [Adopt a learner's attitude](#/7/2)
-* [Be aware of their expectations](#/7/3)
-* Do any necessary [prac&shy;tical preparations](#/7/4)
+* Consider **your intentions**
+* Adopt a **learner's attitude**
+* Be aware of **their expectations**
+* Do any necessary **prac&shy;tical preparations**
 
 Note:
 * Intentions: goal: learn or change mind? share!
@@ -171,15 +179,25 @@ Note:
 
 ### Learn more
 
+![Impossible Conversations](dist/media/impossible-conversations.png) ![How Minds Change](dist/media/how-minds-change.png)
 
+
+[comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
+### Introducing.SE
+
+[![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
 
 [comment]: # (!!!)
 
-[![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
-#### Street&nbsp;Epistemology
+### Takk!
 
-[![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
-#### Introducing.SE
+<br>
 
+Jared Elgvin – Salve J. Nilsen
+
+<br>
+
+Next: **Workshop**
 
 [comment]: # (|||)
