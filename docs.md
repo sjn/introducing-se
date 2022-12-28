@@ -173,11 +173,11 @@ Swipe →[Proceed](#/2)
 
 ### 2. Pick a claim &&nbsp;clarify
 
-* [Find a claim to explore](#/2/1).
-* [What is a good claim?](#/2/2).
-* [Turn normative claims factual](#/2/3).
-* [Clarify terms](#/2/4).
-* [Avoid «Safety Net» claims](#/2/5).
+* Find a [claim to explore](#/2/1).
+* What is [a good claim?](#/2/2).
+* Turn [normative claims](#/2/3) factual.
+* [Clarify](#/2/4) terms.
+* Avoid [«Safety Net»](#/2/5) claims.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -263,10 +263,10 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 ### 3. Ask for con&shy;fi&shy;dence on a scale &&nbsp;calibrate
 
-* [Ask for confidence](#/3/1)
-* [Explore their confidence](#/3/2)
-* [Pre-contemplative or&nbsp;not?](#/3/3)
-* [Nudging confidence](#/3/4)
+* Ask for [confidence](#/3/1).
+* [Explore](#/3/2) their confidence.
+* [Pre-contemplative](#/3/3) or&nbsp;not?
+* [Nudging](#/3/4) confidence.
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -337,7 +337,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 ### 4. Identify main reason
 
-* [What is their most im&shy;portant](#/4/1) source, ex&shy;peri&shy;ence or reason?
+* What is [their most im&shy;portant source](#/4/1), ex&shy;peri&shy;ence or reason?
 * Are there any other [under&shy;lying reasons](#/4/2) sup&shy;porting this?
 * [Many small reasons](#/4/3), or a few large?
 
@@ -513,9 +513,9 @@ Give your conversation partner reasons to look forward to them!
 
 ### 7. Consider & prepare
 
-* [Consider your intentions](#/7/1)
-* [Adopt a learner's attitude](#/7/2)
-* [Be aware of their expectations](#/7/3)
+* Consider [your intentions](#/7/1)
+* Adopt a [learner's attitude](#/7/2)
+* Be aware of [their expectations](#/7/3)
 * Do any necessary [prac&shy;tical preparations](#/7/4)
 
 
