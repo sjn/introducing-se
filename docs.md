@@ -10,6 +10,8 @@
 [comment]: # (width: "80%")
 [comment]: # (height: "80%")
 [comment]: # (help: true)
+[comment]: # (progress: false)
+[comment]: # (controlsBackArrows: "hidden")
 
 
 ### To talk about anything
@@ -29,6 +31,20 @@
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
+#### What is Introducing.SE?
+
+* This site is a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* to [Street Episte&shy;mology (SE)](#/0/2).
+* …optimized for your phone, with use&shy;ful tips and reminders for practicing SE.
+* …a continuously improving resource for both new and seasoned SE practicioners.
+* …a way to [Share SE](#/8/2) with anyone interested.
+
+\
+↓[Learn more](#/0/2), →[Proceed](#/1)
+
+
+[comment]: # (|||)
+
 #### What is Street Epistemology (SE)?
 
 * A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
@@ -36,6 +52,9 @@
 * A frame&shy;work for ex&shy;plo&shy;ring ideas and beliefs.
 * A community that prac&shy;tices SE in a frien&shy;dly environment.
 * A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
+
+\
+Welcome to the Street Epistemology community!
 
 \
 ↓[Learn more](#/0/3), →[Proceed](#/1)
@@ -54,23 +73,7 @@ The field of Philosophy focusing on **how we know** what we know.
 *«Which methods and tools can we employ to determine this?»*
 
 \
-By [Introducing SE](#/0/4) we try to bring epistemology from academia into everyday life.
-
-\
-↓[Learn more](#/0/4), →[Proceed](#/1)
-
-
-[comment]: # (|||)
-
-#### What is Introducing.SE?
-
-* This is website offering a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* and over&shy;view of Street Episte&shy;mology (SE)
-* …a tool best used on your phone, with use&shy;ful tips for prac&shy;ti&shy;cing&nbsp;SE.
-* …a living resource that aims to become as useful as possible – within it's constraints.
-* …a way to [Share SE](#/8/2) with anyone interested.
-
-\
-Welcome to the Street Epistemology community!
+By [Introducing SE](#/0/1) we try to bring epistemology from academia into everyday life.
 
 \
 →[Proceed](#/1)
