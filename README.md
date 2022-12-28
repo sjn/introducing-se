@@ -28,9 +28,9 @@ https://revealjs.com
 https://pages.github.com
 
 
-# Contributors & attibution
+# Contributors & attribution
 
-* Nilsen, Salve J.
+* Nilsen, Salve J. (Project founder)
 
 * CanIBeBlue (SE Discord)
 * Elgvin, Jared
@@ -42,7 +42,7 @@ https://pages.github.com
 * Schiesser, Ulrike
 * Säde, Ragnar (SE Discord)
 
-Furthermore, some content is inspired from SE conversations published on YouTube over many years. Please see the Steet Epistemology website for viewing guides.
+Some content is inspired from SE conversations published on YouTube and on Discord over many years. Please see the Steet Epistemology website for viewing guides.
 
 
 ## Inspiration

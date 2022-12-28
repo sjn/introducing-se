@@ -32,16 +32,38 @@ Salve J. Nilsen — Jared Elgvin
 
 [comment]: # (!!!)
 
+### Street Epistemology
+
+* The concept
+* This workshop
+
+Note:
+* A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
+* Post-it notes & pen
+    * Write one claim on front & your name on the glue side
+    * Topic you care about
+    * …wish more people knew about
+    * …too many disagree with you
+    * …shapes how you act every day
+* First: Video
+* Second: Introduction
+* Third: Gather post-it notes
+* Fourth: Pick 2-3 post-it notes
+* Fifth: Workshop!
+
+
+[comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
 ### The Street Epistemology Checklist
 
-1. [**Find a good tone** & get informed consent](#/3)
-2. [**Pick a claim** & clarify](#/4)
-3. [**Ask for confidence** on a scale & calibrate](#/5)
-4. [**Identify main reason**](#/6)
-5. [**Explore & assess** epi&shy;stemology & reliability](#/7)
-6. [**End on aporia**, a question, a good tone](#/8)
-7. [Consider & prepare](#/9)
-8. [Learn more](#/10)
+1. [**Find a good tone** & get informed consent](#/4)
+2. [**Pick a claim** & clarify](#/5)
+3. [**Ask for confidence** on a scale & calibrate](#/6)
+4. [**Identify main reason**](#/7)
+5. [**Explore & assess** epi&shy;stemology & reliability](#/8)
+6. [**End on aporia**, a question, a good tone](#/9)
+7. [Consider & prepare](#/10)
+8. [Learn more](#/11)
 
 Note:
 * SE: A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
