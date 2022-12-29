@@ -203,9 +203,6 @@ Note:
 
 ![Impossible Conversations](dist/media/impossible-conversations.png) ![How Minds Change](dist/media/how-minds-change.png)
 
-
-[comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
-
 Note:
 * *How Minds Change* by David McRaney
 * *How to Have Impossible Conversations* by Peter Boghossian and James Lindsay
@@ -214,9 +211,12 @@ Note:
 * *A Manual for Creating Atheists* by Peter Boghossian
 
 
+[comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
+
 ### Introducing.SE
 
 [![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
+
 
 [comment]: # (!!!)
 
