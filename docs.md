@@ -166,7 +166,7 @@ The field of Philosophy focusing on **how we know** what we know.
 * Offer to set a timer if they are busy.
 
 \
-Swipe →[Proceed](#/2)
+→[Proceed](#/2)
 
 
 [comment]: # (!!!)
