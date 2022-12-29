@@ -206,6 +206,14 @@ Note:
 
 [comment]: # (!!! data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+Note:
+* *How Minds Change* by David McRaney
+* *How to Have Impossible Conversations* by Peter Boghossian and James Lindsay
+* *The Scout Mindset* by Julia Galef
+* *Mental Immunity* by Andy Norman
+* *A Manual for Creating Atheists* by Peter Boghossian
+
+
 ### Introducing.SE
 
 [![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
@@ -221,5 +229,15 @@ Jared Elgvin – Salve J. Nilsen
 <br>
 
 Next: **Workshop**
+
+Note:
+* Gather post-it notes
+* Give SE business cards
+* Stick them on the wall
+* Let everyone pick 2-3 topics from the wall
+* Have 1-on-1 chats
+* Return discussed post-it note to wall
+* Optionally exchange one of your notes with one on the wall
+* Repeat
 
 [comment]: # (|||)
