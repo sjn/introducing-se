@@ -229,6 +229,11 @@ Note:
 
 [![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
 
+Note:
+* Slide notes, reminders, and a way to share
+* Print templates for the cards
+* Evolving site — feedback appreciated!
+
 
 [comment]: # (!!!)
 
