@@ -24,6 +24,7 @@ CARD_TARGET  = dist/media/introducing-se-card-${YEAR_V}-${FRONT_V}-${BACK_V}.pdf
 
 
 # To install, run "make install-mdslides"
+# Required version: MarkdownSlides-1.6
 MDSLIDES = ${HOME}/.local/bin/mdslides
 
 # To install, run "make install-poppler-utils"
