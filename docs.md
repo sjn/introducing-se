@@ -666,10 +666,11 @@ Note:
 * …And when you meet someone that may benefit from SE, [share this site](#/8/2)!
 
 Note:
-* **How Minds Change** by David McRaney
-* **How to Have Impossible Conversations** by Peter Boghossian and James Lindsay
-* **The Scout Mindset** by Julia Galef
-* **Mental Immunity** by Andy Norman
+* Books
+    * **How Minds Change** by David McRaney
+    * **How to Have Impossible Conversations** by Peter Boghossian and James Lindsay
+    * **The Scout Mindset** by Julia Galef
+    * **Mental Immunity** by Andy Norman
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
