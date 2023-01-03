@@ -191,7 +191,7 @@ Note:
 ### 2. Pick a claim &&nbsp;clarify
 
 * Find a [claim to explore](#/2/1).
-* What is [a good claim?](#/2/2).
+* What is [a good claim?](#/2/2)
 * Turn [normative claims](#/2/3) factual.
 * [Clarify](#/2/4) terms.
 * Avoid [«Safety Net»](#/2/5) claims.
@@ -379,18 +379,12 @@ Note:
 * Are there any other [under&shy;lying reasons](#/4/2) sup&shy;porting this?
 * [Many small reasons](#/4/3), or a few large?
 
-* What is **their most im&shy;portant source**, ex&shy;peri&shy;ence or reason?
-* Are there any other **under&shy;lying reasons** sup&shy;porting this?
-* **Many small reasons**, or a few large?
-* If underlying reason is unavailable, confidence change, yes: how? no: what else? switch topic?
-* Many small/few large: commonalities, influence how, adds/multiplies, take notes
-
 Note:
-* Asking
-    * What makes it good? better reason?
-* Underlying
+* Asking for source/reason
+    * **What makes it good?** better reason?
+* Underlying reasons
     * What if reason is unavailable, confidence change, yes: how? no: what else? switch topic?
-* Many small/few large
+* Many small/few large reasons
     * Commonalities? influence how – adds/multiplies? take notes!
 
 
@@ -448,9 +442,9 @@ Note:
 <br>
 
 * This is [the key goal of&nbsp;SE](#/5/1).
-* [Explore epistemology](#/5/2).
-* [Assess reliability](#/5/3).
-* [Recognize unreliable reasons](#/5/5).
+* Explore [Epistemology](#/5/2).
+* Assess [Reliability](#/5/3).
+* Recognize [Unreliable reasons](#/5/5).
 
 Note:
 * Goal: **reliability**, **how** &gt; why &gt; what
@@ -495,7 +489,7 @@ Note:
 
 [comment]: # (|||)
 
-#### Exploring reliability I
+#### Assessing reliability I
 
 **The outsider test**<br>
 –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different starting point reach the same conclusion?»*
@@ -511,7 +505,7 @@ Note:
 
 [comment]: # (|||)
 
-#### Exploring reliability II
+#### Assessing reliability II
 
 **The conformity test**<br>
 –&nbsp;*«If other people no longer held this belief, to what extent would you still hold it?»*
@@ -585,10 +579,10 @@ Give your conversation partner reasons to look forward to them!
 
 ### 7. Consider & prepare
 
-* Consider [your intentions](#/7/1)
-* Adopt a [learner's attitude](#/7/2)
-* Be aware of [their expectations](#/7/3)
-* Do any necessary [prac&shy;tical preparations](#/7/4)
+* Consider [your intentions](#/7/1).
+* Adopt a [learner's attitude](#/7/2).
+* Be aware of [their expectations](#/7/3).
+* Do any necessary [prac&shy;tical preparations](#/7/4).
 
 Note:
 * Intentions or goal
