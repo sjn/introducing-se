@@ -192,18 +192,18 @@ Note:
 
 * Find a [claim to explore](#/2/1).
 * What is [a good claim?](#/2/2)
-* Turn [normative claims](#/2/3) factual.
-* [Clarify](#/2/4) terms.
+* [Clarify](#/2/3) terms.
+* Ask «why» questions to turn [normative claims](#/2/4) factual.
 * Avoid [«Safety Net»](#/2/5) claims.
 
 Note:
 * Find a claim
     * **Single, factual**
     * **Specific, important, positive**
-* Normative caims
-    * **Ask "whys" to turn into factual claim**
 * Clarify terms
     * "True for me", qualify, use **their definition**, take notes
+* Normative caims
+    * **Ask "whys" to turn into factual claim**
 * Safety Net
     * "If it was not for my belief, I would drink myself to death"
 
@@ -213,8 +213,8 @@ Note:
 #### Find a claim to explore
 
 * *«Do you have a topic you want to explore?»*
-* *«… you wish more people knew of?»*
-* *«… or agreed with?»*
+* *«…you wish more people knew of?»*
+* *«…or agreed with?»*
 * Aim for a [**single topic**](#/2/2).
 * Re-phrase the topic as [a factual claim](#/2/4).
 * *«Would you mind if we explore this together?»*
@@ -231,7 +231,7 @@ Note:
 * ✅ …Phrased as a positive: *«I believe…»*
 * ✅ …Relevant to us both: *«True for us»*
 * ✅ …Foundational or im&shy;portant to them.
-* ❌ Not phrased as a negative: ~~*«I don't believe…»*~~
+* ❌ Not phrased as a nega&shy;tive: ~~*«I don't believe…»*~~
 * ⚠️  …Trivial or obvious.
 
 \
@@ -246,7 +246,7 @@ Note:
 * In *your own* words, **repeat** what you hear.
 * Have them **confirm** if you under&shy;stand correctly.
 * Identify, clarify & qualify confusing words.
-* Use *their* de&shy;fini&shy;tions.
+* Use *their* de&shy;fini&shy;tions!
 
 \
 *Take notes!*
