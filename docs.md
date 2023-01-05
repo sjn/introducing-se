@@ -194,7 +194,7 @@ Note:
 * What is [a good claim?](#/2/2)
 * [Clarify](#/2/3) terms.
 * Ask «why» questions to turn [normative claims](#/2/4) factual.
-* Avoid [«Safety Net»](#/2/5) claims.
+* Avoid [«Safety Nets»](#/2/5).
 
 Note:
 * Find a claim
@@ -204,7 +204,7 @@ Note:
     * "True for me", qualify, use **their definition**, take notes
 * Normative caims
     * **Ask "whys" to turn into factual claim**
-* Safety Net
+* Safety Nets
     * "If it was not for my belief, I would drink myself to death"
 
 
@@ -281,7 +281,7 @@ A *Safety Net* is a belief that pre&shy;vents an individual from doing harm to t
 *«My Belief helped me be&shy;come sober, and without it I would probably drink myself to death.»*
 
 \
-SE is not always the right tool to use, and **SE is not for therapy**. Please do no harm!
+SE is not always the right tool to use, and **SE is not for therapy**. Please do no harm. Pick another claim!
 
 
 [comment]: # (!!!)
