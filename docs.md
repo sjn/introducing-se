@@ -354,7 +354,6 @@ Note:
 
 #### Nudging confidence
 
-\
 *«Can you imagine some&shy;thing that would make you even more confident?»*
 
 \
