@@ -174,10 +174,13 @@ The field of Philosophy focusing on **how we know** what we know.
 ### 2. Pick a claim &&nbsp;clarify
 
 * Find a [claim to explore](#/2/1).
-* What is [a good claim?](#/2/2).
-* Turn [normative claims](#/2/3) factual.
-* [Clarify](#/2/4) terms.
+* What's a [*good claim*](#/2/2)?
+* [Clarify terms](#/2/3) & use their definitions.
+* Turn [normative claims](#/2/4) factual.
 * Avoid [«Safety Net»](#/2/5) claims.
+
+\
+*«True»* vs. *«True for me»* vs. *«True for us all.»*
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -188,11 +191,11 @@ The field of Philosophy focusing on **how we know** what we know.
 * *«… you wish more people knew of?»*
 * *«… or agreed with?»*
 * Aim for a [**single topic**](#/2/2).
-* Re-phrase the topic as [a factual claim](#/2/3).
+* Re-phrase the topic as [a factual claim](#/2/4).
 * *«Would you mind if we explore this together?»*
 
 \
-*Don't rush when considering claims!*
+*No need to rush when considering claims!*
 
 
 [comment]: # (|||)
@@ -200,41 +203,19 @@ The field of Philosophy focusing on **how we know** what we know.
 #### What is a good claim?
 
 * ✅ Claim is specific, clear & terse.
-* ✅ …Foundational or im&shy;portant for them.
-* ✅ …A positive phrase: *«I believe …»*
-* ❌ Not a negative phrase: ~~*«I don't believe …»*~~
+* ✅ …Phrased as a positive: *«I believe…»*
+* ✅ …Relevant to us both: *«True for us»*
+* ✅ …Foundational or im&shy;portant to them.
+* ❌ Not phrased as a negative: ~~*«I don't believe…»*~~
 * ⚠️  …Trivial or obvious.
 
 \
-⚠️  Stop if the claim is part of a [Safety Net](#/2/4)!
-
-
-[comment]: # (|||)
-
-#### Normative vs. factual
-
-*«Normative should;<br> Factual is.»*
-
-<br>
-
-* «Is» claims are often ea&shy;sier to explore.
-* «Should» claims often re&shy;quire extra work.
-* Sometimes, asking «why» helps you find a fac&shy;tual claim to explore!
-
-\
-*«If everyone ag&shy;reed with the [norma&shy;tive claim], what would change in the world?»*
-
-\
-*«…[how confident](#/3) are you this change would happen?»*
+⚠️  Stop if the claim is part of a [Safety Net](#/2/5)!
 
 
 [comment]: # (|||)
 
 #### Clarifying terms
-
-*«True»* vs. *«True for me»* vs. *«True for all.»*
-
-<br>
 
 * *«What do you mean when you say …?»*
 * In *your own* words, **repeat** what you hear.
@@ -244,6 +225,25 @@ The field of Philosophy focusing on **how we know** what we know.
 
 \
 *Take notes!*
+
+
+[comment]: # (|||)
+
+#### Normative vs. factual
+
+*Normative ought;<br> Factual is.*
+
+<br>
+
+* «Is» claims are often ea&shy;sier to explore.
+* «Ought» claims often re&shy;quire extra clari&shy;fication.
+* Asking «why» can help you get closer to a fac&shy;tual claim to explore!
+
+\
+*«If everyone ag&shy;reed with the [norma&shy;tive claim], what would change in the world?»*
+
+\
+*«…[how confident](#/3) are you this change would happen?»*
 
 
 [comment]: # (|||)
