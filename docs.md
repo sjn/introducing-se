@@ -89,7 +89,7 @@ The field of Philosophy focusing on **how we know** what we know.
 * [Tell them your intentions](#/1/2), so they may consent.
 * Avoid [topic rebuttal](#/1/3).
 * [Be tactful](#/1/4) in what you&nbsp;say.
-* [Be mindful of their time](#/1/6).
+* [Be mindful](#/1/6) of their time.
 
 \
 ↓[More](#/1/1), →[Proceed](#/2)
@@ -640,7 +640,7 @@ Note:
 * Bring a friend! Let them listen in without par&shy;ti&shy;ci&shy;pating, so they later can offer feedback.
 * Optionally, bring an audio recorder for your own reviewing or for sharing.
 * Optionally, bring a timer.
-* Print some [cards](dist/media/introducing-se-card-2022-07-05.pdf) to give away!
+* Print some [cards](dist/media/introducing-se-card-2022-09-06.pdf) to give away!
 
 
 
