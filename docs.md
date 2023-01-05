@@ -28,6 +28,13 @@
 \
 ↓[What is this?](#/0/1), →[Proceed](#/1)
 
+Note:
+* What is SE?
+    * A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
+* Epistemology?
+    * The field of Philosophy focusing on **how we know what we know**.
+* Introducing.SE?
+    * A **prac&shy;tical in&shy;tro&shy;duc&shy;tion** and over&shy;view of Street Episte&shy;mology (SE)
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -86,6 +93,16 @@ The field of Philosophy focusing on **how we know** what we know.
 
 \
 ↓[More](#/1/1), →[Proceed](#/2)
+
+Note:
+* Rapport
+    * Keeping a **frien&shy;dly tone is critical for success**.
+* Politeness
+    * *Share, describe, be respectful, charitable*.
+* Topic rebuttal &lt; Technique rebuttal
+    * **Don't offer facts**.
+* Be **tactful**
+* Ask for **consent**
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -174,13 +191,21 @@ The field of Philosophy focusing on **how we know** what we know.
 ### 2. Pick a claim &&nbsp;clarify
 
 * Find a [claim to explore](#/2/1).
-* What's a [*good claim*](#/2/2)?
-* [Clarify terms](#/2/3) & use their definitions.
-* Turn [normative claims](#/2/4) factual.
+* What is [a good claim?](#/2/2)
+* Turn [normative claims](#/2/3) factual.
+* [Clarify](#/2/4) terms.
 * Avoid [«Safety Net»](#/2/5) claims.
 
-\
-*«True»* vs. *«True for me»* vs. *«True for us all.»*
+Note:
+* Find a claim
+    * **Single, factual**
+    * **Specific, important, positive**
+* Normative caims
+    * **Ask "whys" to turn into factual claim**
+* Clarify terms
+    * "True for me", qualify, use **their definition**, take notes
+* Safety Net
+    * "If it was not for my belief, I would drink myself to death"
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -268,6 +293,16 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * [Pre-contemplative](#/3/3) or&nbsp;not?
 * [Nudging](#/3/4) confidence.
 
+Note:
+* Ask for confidence
+    * Avoids polarization, **use a scale**, ask for up, down, what would change mind
+    * how important is it to **believe in true things**?
+* Explore confidence
+    * Evidence, why not other arguments? **why not extremes**?
+* OPTONAL: Pre-contemplative?
+    * 0 or 100? trust? tribe?
+    * If room for &gt;100%, calibrate? postpone? is evidence important?
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -341,6 +376,14 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 * Are there any other [under&shy;lying reasons](#/4/2) sup&shy;porting this?
 * [Many small reasons](#/4/3), or a few large?
 
+Note:
+* Asking for source/reason
+    * **What makes it good?** better reason?
+* Underlying reasons
+    * What if reason is unavailable, confidence change, yes: how? no: what else? switch topic?
+* Many small/few large reasons
+    * Commonalities? influence how – adds/multiplies? take notes!
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -396,9 +439,23 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 <br>
 
 * This is [the key goal of&nbsp;SE](#/5/1).
-* [Explore epistemology](#/5/2).
-* [Assess reliability](#/5/3).
-* [Recognize unreliable reasons](#/5/5).
+* Explore [Epistemology](#/5/2).
+* Assess [Reliability](#/5/3).
+* Recognize [Unreliable reasons](#/5/5).
+
+Note:
+* Goal: **reliability**, **how** &gt; why &gt; what
+* Epistemology: **arrive**, rule out, soundness
+* Reliability: **Outsider test**
+    * Consultant, double standard Conformity, status quo, selective skeptic
+* Fallacies
+    * Appeal to authority, ignorance, tradition
+* Biases
+    * Confirmation bias, availability heuristic, motivated reasoning
+* News, Publications
+    * bias, misleading, fact check fails, naïve realism
+    * C.R.A.A.P test
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -429,7 +486,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Exploring reliability I
+#### Assessing reliability I
 
 **The outsider test**<br>
 –&nbsp;*«Would some&shy;one using your rea&shy;sons, but coming from a different starting point reach the same conclusion?»*
@@ -445,7 +502,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
-#### Exploring reliability II
+#### Assessing reliability II
 
 **The conformity test**<br>
 –&nbsp;*«If other people no longer held this belief, to what extent would you still hold it?»*
@@ -485,6 +542,12 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 \
 *«I've never thought about that!»*
 
+Note:
+* Ending
+    * With **aporia** or **question**, both **happy**
+* Returning
+    * Necessary? look forward to it, **make one think**
+
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
@@ -513,10 +576,20 @@ Give your conversation partner reasons to look forward to them!
 
 ### 7. Consider & prepare
 
-* Consider [your intentions](#/7/1)
-* Adopt a [learner's attitude](#/7/2)
-* Be aware of [their expectations](#/7/3)
-* Do any necessary [prac&shy;tical preparations](#/7/4)
+* Consider [your intentions](#/7/1).
+* Adopt a [learner's attitude](#/7/2).
+* Be aware of [their expectations](#/7/3).
+* Do any necessary [prac&shy;tical preparations](#/7/4).
+
+Note:
+* Intentions or goal
+    * Learn or change mind? share!
+* Learner's attitude
+    * curiosity, open-minded, focus, connect ideas
+* Their expectations
+    * AVOID: Scripted, interview, **leading**, messaging, embarrass, cornered
+* Practical
+    * Note-taking equipment, friend, recorder, timer, cards
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
@@ -588,6 +661,13 @@ Give your conversation partner reasons to look forward to them!
 * SE videos, blogs, books, tutorials and more on [streetepistemology.com](https://streetepistemology.com/).
 * Share your ex&shy;peri&shy;ences with the Street&nbsp;Epi&shy;ste&shy;mology community, so we can improve together!
 * …And when you meet someone that may benefit from SE, [share this site](#/8/2)!
+
+Note:
+* Books
+    * **How Minds Change** by David McRaney
+    * **How to Have Impossible Conversations** by Peter Boghossian and James Lindsay
+    * **The Scout Mindset** by Julia Galef
+    * **Mental Immunity** by Andy Norman
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
