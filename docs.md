@@ -129,8 +129,6 @@ Note:
 
 #### Show politeness & intentions
 
-<br>
-
 * Share [your intentions](#/7) upfront.
 * [Describe](#/0) or explain this method, and ask if they are open for exploring!
 * If they consent, show your curiosity.
@@ -143,8 +141,6 @@ Note:
 [comment]: # (|||)
 
 #### Avoid topic rebuttal
-
-<br>
 
 * *Don't offer facts* (*topic rebut&shy;tal*), un&shy;less asked. Instead focus on the methods (*tech&shy;nique rebuttal*).
 * *Stay cool* – Avoiding *topic rebut&shy;tal* often re&shy;quires practice.
@@ -173,8 +169,6 @@ Note:
 [comment]: # (|||)
 
 #### Recording & timing
-
-<br>
 
 * Recording? **Ask for their consent**.
 * Taking notes is a good alternative.
@@ -399,8 +393,6 @@ Note:
 
 #### Exploring underlying reasons
 
-<br>
-
 * *«If this reason was un&shy;avail&shy;able to you, would it change your con&shy;fi&shy;dence?»*
 * *«…if so, how would it change?»*
 * *«…and if not, **what else** is keeping you at your con&shy;fi&shy;dence level?»*
@@ -530,7 +522,7 @@ Note:
 
 [comment]: # (!!!)
 
-### 6. End on aporia, a question, a good tone
+### 6. End on aporia, a&nbsp;question, a&nbsp;good tone
 
 *The best endings offer food for thought!*
 
