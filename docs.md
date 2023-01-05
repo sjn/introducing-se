@@ -438,7 +438,7 @@ Note:
 
 <br>
 
-* This is [the key goal of&nbsp;SE](#/5/1).
+* This is [the key goal of&nbsp;SE](#/5/1)!
 * Explore [Epistemology](#/5/2).
 * Assess [Reliability](#/5/3).
 * Recognize [Unreliable reasons](#/5/5).
@@ -468,7 +468,7 @@ Note:
 ***How*** questions are bet&shy;ter than *Why* & *What.*
 
 \
-*«If our methods aren't reliable, how can we be confident?»*
+*«If our methods aren't reliable, should we be this confident?»*
 
 [comment]: # (|||)
 
@@ -499,6 +499,7 @@ Note:
 
 \
 ([continued…](#/5/4))
+
 
 [comment]: # (|||)
 
