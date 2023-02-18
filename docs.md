@@ -42,8 +42,8 @@ Note:
 #### What is Introducing.SE?
 
 * This site is a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* to [Street Episte&shy;mology (SE)](#/0/2).
-* …optimized for your phone, with use&shy;ful tips and reminders for practicing SE.
-* …a continuously improving resource for both new and seasoned SE practicioners.
+* …optimized for your phone, with use&shy;ful tips and re&shy;min&shy;ders for practicing&nbsp;SE.
+* …a continuously improving resource for both new and seasoned SE prac&shy;ticioners.
 * …a way to [Share SE](#/8/2) with anyone interested.
 
 \
@@ -57,8 +57,8 @@ Note:
 * A way, th&shy;rough civil con&shy;ver&shy;sa&shy;tion, to help one reflect on the qua&shy;lity of one's reasoning.
 * A way to have friendly dia&shy;logue about con&shy;ten&shy;ti&shy;ous topics.
 * A frame&shy;work for ex&shy;plo&shy;ring ideas and beliefs.
-* A community that prac&shy;tices SE in a frien&shy;dly environment.
-* A way to introduce [Epistemology](#/0/3) into every&shy;day conversations.
+* A community that prac&shy;tices Street Epistemology in a frien&shy;dly en&shy;vironment.
+* A way to introduce [Epi&shy;ste&shy;mology](#/0/3) into every&shy;day conversations.
 
 
 \
@@ -69,7 +69,7 @@ Note:
 
 #### What is Epistemology?
 
-The field of Philosophy focusing on **how we know** what we know.
+The field of Philosophy focusing on **_how_ we know what we know**.
 
 \
 *«How do we determine if some&shy;thing is true?»*
@@ -115,7 +115,7 @@ Note:
 
 * Show your genuine inte&shy;rest by paying attention.
 * Withold judgement.
-* Indicate your under&shy;stan&shy;ding by re&shy;flec&shy;ting key points back.
+* Indicate your under&shy;stan&shy;ding by re&shy;flec&shy;ting and re&shy;pea&shy;ting key point.
 * Share what you have in common.
 
 \
@@ -145,10 +145,10 @@ Note:
 * *Don't offer facts* (*topic rebut&shy;tal*), un&shy;less asked. Instead focus on the methods (*tech&shy;nique rebuttal*).
 * *Stay cool* – Avoiding *topic rebut&shy;tal* often re&shy;quires practice.
 * *Practice* – [SE may at first be easier with strangers](#/8).
-* *Be patient* – You may need to have a few «soft» chats before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
+* *Be patient* – You may need to have a few «harmless» con&shy;ver&shy;sa&shy;tions before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
 
 \
-↓[More](#/1/3) →[Proceed](#/2)
+↓[More](#/1/4) →[Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -286,12 +286,13 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 ### 3. Ask for con&shy;fi&shy;dence on a scale &&nbsp;calibrate
 
 * Ask how [confident](#/3/1) they are.
+* Use a scale, to help further exploration.
 * [Explore](#/3/2) their confidence.
 * Respectfully [challenge](#/3/4) their confidence.
 * Extra: Are they [pre-contemplative](#/3/3)?
 
 \
-*«How confident are you this true?»*
+*«How __confident__ are you this is&nbsp;true?»*
 
 Note:
 * Ask for confidence
@@ -364,7 +365,6 @@ Note:
 
 \
 *«Under what conditions would this claim be false?»*
-
 
 
 [comment]: # (!!!)
@@ -462,7 +462,7 @@ Note:
 
 #### The key goal of SE
 
-*Explore the reliability of methods used when forming a belief.*
+*Explore the reliability of methods used when forming a&nbsp;belief.*
 
 \
 ***How*** questions are bet&shy;ter than *Why* & *What.*
@@ -533,7 +533,8 @@ Note:
 
 ### 6. End on aporia, a&nbsp;question, a&nbsp;good tone
 
-* Try [ending on aporia](#/6/1) or with a question. Look for *«the spider on the ceiling»*!
+* Try [ending on aporia](#/6/1) or with a question.
+* Good sign: They are *«looking for the spider on the ceiling»*.
 * Offer them [reasons to return](#/6/2).
 * The best endings offer food for thought!
 
@@ -577,7 +578,7 @@ Give your conversation partner reasons to look forward to them!
 
 * Consider [your intentions](#/7/1). What do you want to achieve?
 * Adopt a [learner's attitude](#/7/2). What can you learn?
-* Be aware of [their expectations](#/7/3). What do they want?
+* Be aware of [their ex&shy;pec&shy;ta&shy;tions](#/7/3). What do they want?
 * Extra: Do any necessary [prac&shy;tical preparations](#/7/4).
 
 Note:
