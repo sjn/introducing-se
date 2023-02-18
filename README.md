@@ -8,9 +8,9 @@ Best viewed on a mobile phone!
 
 # Dependencies and acknowledgments
 
-This site is built with dadoomer's markdown-slides tool, and Reveal.js.
+The site is generated with dadoomer's markdown-slides tool and Reveal.js.
 Please see these separate projects for license and usage terms.
-The site is hosted on Github Pages.
+The introducing.se site itself is hosted on Github Pages.
 
 
 ## Markdown-slides
@@ -61,3 +61,19 @@ The following books have informed much of the content on this site.
 * *A Manual for Creating Atheists* by Peter Boghossian
 * *The Constitution of Knowledge* by Jonathan Rauch
 * *Fakt und Vorurteil* by Holm Gero Hümmler, Ulrike Schiesser
+
+
+## Useful links
+
+* https://streetepistemology.com/
+
+
+# What is this?
+
+Some conversations are *hard*.
+
+Imagine a topic – *political*, *ideological*, *ethical* or maybe even *confusing*, *contentious* or *harmful*.
+
+Do you offer critique? Facts? Derision? A passionate plea to change their mind? Or do you just avoid it all, distancing yourself?
+
+If you have to engage, you can do it in an effective and respectful way, with [Street Epistemology](https://introducing.se).
