@@ -11,7 +11,6 @@
 [comment]: # (height: "80%")
 [comment]: # (help: true)
 [comment]: # (progress: false)
-[comment]: # (controlsBackArrows: "hidden")
 
 
 ### To talk about anything
