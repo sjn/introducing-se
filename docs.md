@@ -493,7 +493,7 @@ Note:
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
 
-#### The key goal of SE
+#### The key goal of Street&nbsp;Epistemology
 
 *Explore the reliability of methods used when forming a&nbsp;belief.*
 
@@ -606,7 +606,7 @@ Note:
 [comment]: # (|||)
 
 
-#### Reasons to return
+#### Create reasons to return
 
 Some conversations may require several sessions.
 
@@ -615,6 +615,9 @@ Offer your conversation partner reasons to look forward to&nbsp;them!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
+
+\
+*«Thanks for the conversation. You're really good at listening and asking good questions!»*
 
 
 [comment]: # (!!!)
