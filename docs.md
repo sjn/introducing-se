@@ -21,7 +21,7 @@
 4. [**Identify main reason**](#/4)
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
-7. [Consider & prepare](#/7)
+7. [Consider & prepare](#/7)<br>
 🔗 [Learn more & share](#/8)
 
 \
