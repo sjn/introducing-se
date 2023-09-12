@@ -561,12 +561,12 @@ Note:
 
 * ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *[Appeals to auth&shy;ority](https://yourlogicalfallacyis.com/appeal-to-authority)*, *[ig&shy;no&shy;rance](https://en.m.wikipedia.org/wiki/Argument_from_ignorance)* or *[tradition](https://en.m.wikipedia.org/wiki/Appeal_to_tradition).*
 * ❌ [Cognitive biases](https://en.m.wikipedia.org/wiki/Cognitive_bias#List_of_biases), like *[Con&shy;fir&shy;mation bias](https://yourbias.is/confirmation-bias)*, *[Av&shy;ail&shy;abi&shy;lity heu&shy;ris&shy;tic](https://yourbias.is/the-availability-heuristic)* and *[Moti&shy;vated reasoning](https://en.m.wikipedia.org/wiki/Motivated_reasoning).*
-* ❌ News sources are [biased or misleading](https://adfontesmedia.com/interactive-media-bias-chart/).
+* ❌ News sources that are [biased or misleading](https://adfontesmedia.com/interactive-media-bias-chart/).
 * ❌ News sources that [fail fact checks](https://mediabiasfactcheck.com/).
 * ❌ Academic publi&shy;ca&shy;tions that don't pass [the C.R.A.A.P. test](https://en.m.wikipedia.org/wiki/CRAAP_test).
 
 \
-*«If a text only offers thoughts I agree with, how can I know it is truthful?»*
+*«If a source only offers ideas I agree with, how do I know it is truthful?»*
 
 
 [comment]: # (!!!)
