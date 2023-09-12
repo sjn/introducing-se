@@ -757,12 +757,14 @@ Looking for another take on Street&nbsp;Epistemology?
 
 #### License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> &amp; content, by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://chaos.social/@sjn">Salve&nbsp;J.&nbsp;Nilsen</a> &amp; others, is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC-BY-SA-4.0 International<br><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/cc.svg?ref=chooser-v1">&nbsp;<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/by.svg?ref=chooser-v1">&nbsp;<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/sa.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://introducing.se">Introducing.SE</a> &amp; content,<br>
+by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://chaos.social/@sjn">Salve&nbsp;J.&nbsp;Nilsen</a> &amp; others,<br>
+is licensed <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC-BY-SA-4.0 International<br><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/cc.svg?ref=chooser-v1">&nbsp;<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/by.svg?ref=chooser-v1">&nbsp;<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="dist/icons/sa.svg?ref=chooser-v1"></a></p>
 <br>
 
 #### Contributing
 
-🚧 This site is a work in pro&shy;gress. Please help us improve&nbsp;it!
+🚧 This site is a collaborative work in pro&shy;gress. Please [report any issues](https://github.com/sjn/introducing-se/issues) to help us improve&nbsp;it!
 
 \
 Source code, content, attributions and issue tracker is hosted on [Github](https://github.com/sjn/introducing-se/).
