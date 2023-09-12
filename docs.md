@@ -22,7 +22,7 @@
 5. [**Explore & assess** epi&shy;stemology & reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
 7. [Consider & prepare](#/7)
-8. [Learn more & share](#/8)
+🔗 [Learn more & share](#/8)
 
 \
 ↓[What is this?](#/0/1), →[Proceed](#/1)
@@ -163,6 +163,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Be tactful in what&nbsp;you&nbsp;say
 
 * ✅ *«Can you help me under&shy;stand what you mean with…»*
@@ -178,6 +179,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Recording & timing
 
 * Recording? **Ask for their consent**.
@@ -191,6 +193,7 @@ Note:
 
 
 [comment]: # (!!!)
+
 
 ### 2. Pick a claim &&nbsp;clarify
 
@@ -217,6 +220,7 @@ Note:
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
 #### Find a claim to explore
 
 * *«Do you have a topic you want to explore?»*
@@ -235,6 +239,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Clarifying terms
 
 * In *your own* words, **repeat** what you hear.
@@ -248,6 +253,7 @@ Note:
 
 
 [comment]: # (|||)
+
 
 #### Normative vs. factual
 
@@ -268,6 +274,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### ⚠️  Avoid «Safety Net» claims
 
 A *Safety Net* is a belief that pre&shy;vents an individual from doing harm to them&shy;selves or others.
@@ -281,6 +288,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 [comment]: # (|||)
 
+
 #### What is a good claim?
 
 * ✅ Claim is specific, clear & terse.
@@ -292,6 +300,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 
 [comment]: # (!!!)
+
 
 ### 3. Ask for con&shy;fi&shy;dence on a scale &&nbsp;calibrate
 
@@ -317,6 +326,7 @@ Note:
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
 #### Ask for confidence
 
 *Use a scale to help reduce polarization.*
@@ -333,6 +343,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Explore their confidence
 
 * At 100%, *«Would any&shy;thing increase your con&shy;fidence even higher?»*
@@ -343,6 +354,7 @@ Note:
 
 
 [comment]: # (|||)
+
 
 #### Respectfully challenge their confidence
 
@@ -359,6 +371,7 @@ Note:
 
 
 [comment]: # (|||)
+
 
 #### Pre-contemplative —&nbsp;or&nbsp;not?
 
@@ -378,6 +391,7 @@ Note:
 
 
 [comment]: # (!!!)
+
 
 ### 4. Identify main reason
 
@@ -451,6 +465,7 @@ Note:
 
 [comment]: # (!!!)
 
+
 ### 5. Explore & assess epistemology & reliablility
 
 * This is [the key goal of&nbsp;SE](#/5/1)!
@@ -489,7 +504,7 @@ Note:
 *«If you learned that you came to a conclusion using an unreliable method, how would this change your confidence?»*
 
 \
-*«How would you expect unreliable methods to influence someone's confidence in general?»*
+*«How would you expect un&shy;reliable methods to influence someone else's confidence?»*
 
 
 [comment]: # (|||)
@@ -508,6 +523,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Assessing reliability I
 
 **The outsider test**<br>
@@ -525,6 +541,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Assessing reliability II
 
 **The conformity test**<br>
@@ -539,6 +556,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Recognizing unreliable reasons
 
 * ❌ [Informal fallacies](https://en.m.wikipedia.org/wiki/List_of_fallacies#Informal_fallacies), like *[Appeals to auth&shy;ority](https://yourlogicalfallacyis.com/appeal-to-authority)*, *[ig&shy;no&shy;rance](https://en.m.wikipedia.org/wiki/Argument_from_ignorance)* or *[tradition](https://en.m.wikipedia.org/wiki/Appeal_to_tradition).*
@@ -552,6 +570,7 @@ Note:
 
 
 [comment]: # (!!!)
+
 
 ### 6. End on aporia, a&nbsp;question, a&nbsp;good tone
 
@@ -586,18 +605,20 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Reasons to return
 
 Some conversations may require several sessions.
 
 \
-Give your conversation partner reasons to look forward to them!
+Offer your conversation partner reasons to look forward to&nbsp;them!
 
 \
 *«That was a good ques&shy;tion. You're making me think!»*
 
 
 [comment]: # (!!!)
+
 
 ### 7. Consider & prepare
 
@@ -607,45 +628,48 @@ Give your conversation partner reasons to look forward to them!
 * Extra: Do any necessary [prac&shy;tical preparations](#/7/4).
 
 Note:
-* Intentions or goal
-    * Learn or change mind? share!
+* What are _your_ intentions or goal?
+    * To learn or to change someone's mind? Share!
 * Learner's attitude
     * curiosity, open-minded, focus, connect ideas
 * Their expectations
-    * AVOID: Scripted, interview, **leading**, messaging, embarrass, cornered
+    * AVOID: Scripted, interviewing, **leading**, messaging, embarrassment, cornering
 * Practical
-    * Note-taking equipment, friend, recorder, timer, cards
+    * Bring note-taking equipment, a friend, recorder, timer, Introducing.SE cards
 
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
 #### Consider your intentions
 
-*Before engaging in SE, decide&shy;for&shy;yourself…*
+*Before engaging in SE, decide for&nbsp;yourself…*
 
 <br>
 
 * What's your goal? To learn, em&shy;path&shy;ize or help them change their mind?
 * Are you also open to learn and change your own mind?
 * Decide, and consider sharing your intentions upfront.
-* As you proceed, expect your goals and intentions to show.
+* As you proceed, expect your goals and intentions to reveal themselves.
 
 
 [comment]: # (|||)
 
-#### Adopt a learner's attitude
 
-*Find a way to be…*
+#### Adopt a learner'&nbsp;sattitude
+
+*Find ways to be…*
 
 <br>
 
-* … **Self-directed** – ask about what you find curious or confusing.
-* … **Open-minded** – there's always something to learn!
-* … **Single-minded** – focus on one topic until you grasp&nbsp;it.
-* and **Thorough** – don't just acknowledge, but try to *connect ideas*.
+* …**Self-directed** – ask about what you find interesting, curious or confusing.
+* …**Open-minded** – there's always something to learn!
+* …**Single-minded** – focus on one topic until you grasp&nbsp;it.
+* and **Thorough** – don't just acknowledge, but try to *actively connect ideas*.
 
 
 [comment]: # (|||)
+
 
 #### Expectation awareness
 
@@ -663,6 +687,7 @@ Note:
 
 [comment]: # (|||)
 
+
 #### Practical preparations
 
 *Depending on your situation, you may also…*
@@ -679,7 +704,8 @@ Note:
 
 [comment]: # (!!!)
 
-### 8. Learn more & share
+
+### 🔗 Learn more & share
 
 * Practice, learn and im&shy;prove with a friendly community!
 * Find SE practitioners on [Discord](https://discord.gg/sKap3zM) &amp; [elsewhere](https://streetepistemology.com/community).
@@ -697,6 +723,7 @@ Note:
 
 [comment]: # (||| data-background-size="50%" data-background-image="dist/media/street-epistemology-logo.png", data-background-position="100% 0%" data-background-opacity="0.2")
 
+
 #### Other SE resources
 
 Looking for another take on Street&nbsp;Epistemology?
@@ -710,6 +737,7 @@ Looking for another take on Street&nbsp;Epistemology?
 
 [comment]: # (|||)
 
+
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
 #### Street&nbsp;Epistemology
 
@@ -718,6 +746,7 @@ Looking for another take on Street&nbsp;Epistemology?
 
 
 [comment]: # (|||)
+
 
 #### License
 
