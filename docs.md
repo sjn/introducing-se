@@ -21,8 +21,8 @@
 4. [**Identify main reason**](#/4)
 5. [**Explore &amp; assess** epi&shy;stemology &amp; reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
-7. [Consider &amp; prepare](#/7)
-8. [Learn more &amp; share](#/8)
+7. [Consider &amp; prepare](#/7) <!-- .element: value="0" -->
+8. [Learn more &amp; share](#/8) <!-- .element: value="a" -->
 
 \
 👇[What is this?](#/0/1) 👉[Proceed](#/1)
