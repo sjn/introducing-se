@@ -656,7 +656,7 @@ Note:
 [comment]: # (|||)
 
 
-#### Adopt a learner'&nbsp;sattitude
+#### Adopt a learner's&nbsp;attitude
 
 *Find ways to be…*
 
