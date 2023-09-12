@@ -21,8 +21,8 @@
 4. [**Identify main reason**](#/4)
 5. [**Explore &amp; assess** epi&shy;stemology &amp; reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
-0. [Consider &amp; prepare](#/7)
-0. [Learn more & share](#/8)
+7. [Consider &amp; prepare](#/7)
+8. [Learn more &amp; share](#/8)
 
 \
 ↓[What is this?](#/0/1), →[Proceed](#/1)
@@ -86,7 +86,7 @@ The field of Philosophy focusing on **_how_ we know what we know**.
 [comment]: # (!!!)
 
 
-### 1. Find a good tone & get informed consent
+### 1. Find a good tone &amp; get informed consent
 
 * Establish [**friendly rap&shy;port**](#/1/1), and main&shy;tain&nbsp;it.
 * [Share your intentions](#/1/2) with them, so they may consent.
@@ -136,7 +136,7 @@ Note:
 [comment]: # (|||)
 
 
-#### Show politeness & intentions
+#### Show politeness &amp; intentions
 
 * Share [your intentions](#/7) upfront.
 * [Describe](#/0) or explain this method, and ask if they are open for exploring!
@@ -180,7 +180,7 @@ Note:
 [comment]: # (|||)
 
 
-#### Recording & timing
+#### Recording &amp; timing
 
 * Recording? **Ask for their consent**.
 * Taking notes is a good alternative.
@@ -244,7 +244,7 @@ Note:
 
 * In *your own* words, **repeat** what you hear.
 * Have them **confirm** if you under&shy;stand correctly.
-* Identify, clarify & qualify confusing words.
+* Identify, clarify &amp; qualify confusing words.
 * Use *their* de&shy;fini&shy;tions.
 * Take notes!
 
@@ -291,7 +291,7 @@ SE is not always the right tool to use, and **SE is not for therapy**. Please do
 
 #### What is a good claim?
 
-* ✅ Claim is specific, clear & terse.
+* ✅ Claim is specific, clear &amp; terse.
 * ✅ …Phrased as a positive: *«I believe…»*
 * ✅ …Relevant to us both: *«True for us»*
 * ✅ …Foundational or im&shy;portant to them.
@@ -460,13 +460,13 @@ Note:
 *Take notes!*
 
 \
-*When you're done, restate & sum&shy;marize their reason(s).*
+*When you're done, restate &amp; sum&shy;marize their reason(s).*
 
 
 [comment]: # (!!!)
 
 
-### 5. Explore & assess epistemology & reliablility
+### 5. Explore &amp; assess epistemology &amp; reliablility
 
 * This is [the key goal of&nbsp;SE](#/5/1)!
 * Explore [Epistemology](#/5/2).
@@ -498,7 +498,7 @@ Note:
 *Explore the reliability of methods used when forming a&nbsp;belief.*
 
 \
-***How*** questions are bet&shy;ter than *Why* & *What.*
+***How*** questions are bet&shy;ter than *Why* &amp; *What.*
 
 \
 *«If you learned that you came to a conclusion using an unreliable method, how would this change your confidence?»*
@@ -620,7 +620,7 @@ Offer your conversation partner reasons to look forward to&nbsp;them!
 [comment]: # (!!!)
 
 
-### 7. Consider & prepare
+### 7. Consider &amp; prepare
 
 * Consider [your intentions](#/7/1). What do you want to achieve?
 * Adopt a [learner's attitude](#/7/2). What can you learn?
@@ -705,7 +705,7 @@ Note:
 [comment]: # (!!!)
 
 
-### 🔗 Learn more & share
+### 8. Learn more &amp; share
 
 * Practice, learn and im&shy;prove with a friendly community!
 * Find SE practitioners on [Discord](https://discord.gg/sKap3zM) &amp; [elsewhere](https://streetepistemology.com/community).
