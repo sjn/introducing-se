@@ -25,7 +25,7 @@
 8. [Learn more &amp; share](#/8) <!-- .li: value="a" -->
 
 \
-👇[What is this?](#/0/1) 👉[Proceed](#/1)
+[👇 What is this?](#/0/1) — [👉 Proceed](#/1)
 
 Note:
 * What is SE?
@@ -42,12 +42,12 @@ Note:
 #### What is Introducing.SE?
 
 * This site is a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* to [Street Episte&shy;mology (SE)](#/0/2).
-* …optimized for your phone (👉Swipe!), with use&shy;ful tips and re&shy;min&shy;ders for practicing&nbsp;SE.
+* …optimized for your phone (👉 Swipe, or use arrow keys to navigate), with use&shy;ful tips and re&shy;min&shy;ders for practicing&nbsp;SE.
 * …a continuously improving resource for both new and seasoned SE prac&shy;ticioners.
 * …a way to [Share SE](#/8/2) with anyone interested.
 
 \
-👇[Learn more](#/0/2) 👉[Proceed](#/1)
+[👇 Learn more](#/0/2) — [👉 Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -63,7 +63,7 @@ Note:
 
 
 \
-👇[Learn more](#/0/3) 👉[Proceed](#/1)
+[👇 Learn more](#/0/3) — [👉 Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -80,7 +80,7 @@ The field of Philosophy focusing on **_how_ we know what we know**.
 *«Which methods and tools can we employ to determine this?»*
 
 \
-👉[Proceed](#/1)
+[👉 Proceed](#/1)
 
 
 [comment]: # (!!!)
@@ -98,7 +98,7 @@ The field of Philosophy focusing on **_how_ we know what we know**.
 *«Stay civil, listen and enjoy the conversation!»*
 
 \
-👇[More](#/1/1) 👉[Proceed](#/2)
+[👇 More](#/1/1) — [👉 Proceed](#/2)
 
 Note:
 * Rapport
@@ -130,7 +130,7 @@ Note:
 *«Let's solve this mystery to&shy;gether, shoulder to shoulder.»*
 
 \
-👇[More](#/1/2) 👉[Proceed](#/2)
+[👇 More](#/1/2) — [👉 Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -144,7 +144,7 @@ Note:
 * Be respectful, be charitable.
 
 \
-👇[More](#/1/3) 👉[Proceed](#/2)
+[👇 More](#/1/3) — [👉 Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -158,7 +158,7 @@ Note:
 * *Be patient* – You may need to have a few «harmless» con&shy;ver&shy;sa&shy;tions before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
 
 \
-👇[More](#/1/4) 👉[Proceed](#/2)
+[👇 More](#/1/4) — [👉 Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -174,7 +174,7 @@ Note:
 * ❌ *«How do you justify…»*
 
 \
-👇[More](#/1/5) 👉[Proceed](#/2)
+[👇 More](#/1/5) — [👉 Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -189,7 +189,7 @@ Note:
 * Offer to set a timer if they are busy.
 
 \
-👉[Proceed](#/2)
+[👉 Proceed](#/2)
 
 
 [comment]: # (!!!)
