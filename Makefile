@@ -61,7 +61,7 @@ ${CARD_BUILD}: ${CARD_SOURCES}
 	perl -i.orig -nE 's@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; print; } BEGIN: { our $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' $@
 
 ${DOCS_TARGET}: ${DOCS_SOURCE}
-	${MDSLIDES} docs.md --include dist
+	${MDSLIDES} docs.md --include dist --include plugin
 	# mdslides deletes unfamiliar files, but we need CNAME
 	# for github to serve the files on the correct DNS hostname
 	git checkout docs/CNAME

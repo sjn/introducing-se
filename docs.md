@@ -13,7 +13,7 @@
 [comment]: # (progress: false)
 
 
-### To talk about anything
+### Street Epistemology
 
 1. [**Find a good tone** &amp; get informed consent](#/1)
 2. [**Pick a claim** &amp; clarify](#/2)
@@ -21,8 +21,8 @@
 4. [**Identify main reason**](#/4)
 5. [**Explore &amp; assess** epi&shy;stemology &amp; reliability](#/5)
 6. [**End on aporia**, a question, a good tone](#/6)
-7. [Consider &amp; prepare](#/7) <!-- .li: value="0" -->
-8. [Learn more &amp; share](#/8) <!-- .li: value="a" -->
+7. [Consider &amp; prepare](#/7)
+8. [Learn more &amp; share](#/8)
 
 \
 [👇 What is this?](#/0/1) — [👉 Proceed](#/1)
@@ -42,12 +42,15 @@ Note:
 #### What is Introducing.SE?
 
 * This site is a *prac&shy;tical in&shy;tro&shy;duc&shy;tion* to [Street Episte&shy;mology (SE)](#/0/2).
-* …optimized for your phone (👉 Swipe, or use arrow keys to navigate), with use&shy;ful tips and re&shy;min&shy;ders for practicing&nbsp;SE.
+* …optimized for your phone, with use&shy;ful tips and re&shy;min&shy;ders for practicing&nbsp;SE.
 * …a continuously improving resource for both new and seasoned SE prac&shy;ticioners.
 * …a way to [Share SE](#/8/2) with anyone interested.
 
 \
-[👇 Learn more](#/0/2) — [👉 Proceed](#/1)
+**👉 Swipe, or use arrow keys to navigate!**
+
+\
+[👇 What is SE?](#/0/2) — [👉 Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -63,7 +66,7 @@ Note:
 
 
 \
-[👇 Learn more](#/0/3) — [👉 Proceed](#/1)
+[👇 Epistemology?](#/0/3) — [👉 Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -748,7 +751,7 @@ Looking for another take on Street&nbsp;Epistemology?
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
 #### Street&nbsp;Epistemology
 
-[![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se)
+[![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se Link to introducing.se website)
 #### Introducing.SE
 
 
