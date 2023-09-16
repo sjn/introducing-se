@@ -25,7 +25,7 @@
 8. [Learn more &amp; share](#/8)
 
 \
-[👇 What is this?](#/0/1) — [👉 Proceed](#/1)
+[👇&nbsp;What&nbsp;is&nbsp;this?](#/0/1)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/1)
 
 Note:
 * What is SE?
@@ -50,7 +50,7 @@ Note:
 **👉 Swipe, or use arrow keys to navigate!**
 
 \
-[👇 What is SE?](#/0/2) — [👉 Proceed](#/1)
+[👇&nbsp;What&nbsp;is&nbsp;SE?](#/0/2)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -66,7 +66,7 @@ Note:
 
 
 \
-[👇 Epistemology?](#/0/3) — [👉 Proceed](#/1)
+[👇&nbsp;Epistemology?](#/0/3)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/1)
 
 
 [comment]: # (|||)
@@ -83,7 +83,7 @@ The field of Philosophy focusing on **_how_ we know what we know**.
 *«Which methods and tools can we employ to determine this?»*
 
 \
-[👉 Proceed](#/1)
+[👉&nbsp;Proceed](#/1)
 
 
 [comment]: # (!!!)
@@ -101,7 +101,7 @@ The field of Philosophy focusing on **_how_ we know what we know**.
 *«Stay civil, listen and enjoy the conversation!»*
 
 \
-[👇 More](#/1/1) — [👉 Proceed](#/2)
+[👇&nbsp;More](#/1/1)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/2)
 
 Note:
 * Rapport
@@ -133,7 +133,7 @@ Note:
 *«Let's solve this mystery to&shy;gether, shoulder to shoulder.»*
 
 \
-[👇 More](#/1/2) — [👉 Proceed](#/2)
+[👇&nbsp;More](#/1/2)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -147,7 +147,7 @@ Note:
 * Be respectful, be charitable.
 
 \
-[👇 More](#/1/3) — [👉 Proceed](#/2)
+[👇&nbsp;More](#/1/3)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -161,7 +161,7 @@ Note:
 * *Be patient* – You may need to have a few «harmless» con&shy;ver&shy;sa&shy;tions before pro&shy;ce&shy;eding with a con&shy;ten&shy;tious topic.
 
 \
-[👇 More](#/1/4) — [👉 Proceed](#/2)
+[👇&nbsp;More](#/1/4)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -177,7 +177,7 @@ Note:
 * ❌ *«How do you justify…»*
 
 \
-[👇 More](#/1/5) — [👉 Proceed](#/2)
+[👇&nbsp;More](#/1/5)&nbsp;—&nbsp;[👉&nbsp;Proceed](#/2)
 
 
 [comment]: # (|||)
@@ -192,7 +192,7 @@ Note:
 * Offer to set a timer if they are busy.
 
 \
-[👉 Proceed](#/2)
+[👉&nbsp;Proceed](#/2)
 
 
 [comment]: # (!!!)
