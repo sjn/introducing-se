@@ -576,6 +576,24 @@ Note:
 *«If a source only offers ideas I agree with, how do I know it is truthful?»*
 
 
+[comment]: # (|||)
+
+
+#### Recognizing good reasons
+
+A good reason or explanation has…
+
+* *Coherence* – internal consistency.
+* *Parsimony* – the fewest assumptions.
+* *Consilience* – compatibility with other established explanations.
+* *Fertility* – the ability to make new predictions.
+* *Testability* – falsification criteria.
+
+
+Note:
+Also, *Economy*, *Accuracy*, *Unification power* and *Elegance*.
+
+
 [comment]: # (!!!)
 
 

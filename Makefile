@@ -1,7 +1,7 @@
 
-YEAR_V=2022
-FRONT_V=09
-BACK_V=06
+YEAR_V=2023
+FRONT_V=01
+BACK_V=01
 
 TARGET=docs
 SLIDES=slides
@@ -46,7 +46,7 @@ slides: ${SLIDES_TARGET} ${SLIDES_ASSETS_TARGETS}
 ${CARD_TARGET}: ${CARD_BUILD}
 	${PDFUNITE} ${CARD_BUILD} ${CARD_TARGET}
 	# Strip some non-idempotent cruft that pdfunite/poppler adds to
-    # the PDF, that makes the output non-reproducible
+	# the PDF, that makes the output non-reproducible
 	perl -i.orig -nE 's@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; print; } BEGIN: { our $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' ${CARD_TARGET}
 	touch ${CARD_TARGET}
 
@@ -57,7 +57,7 @@ ${CARD_BUILD}: ${CARD_SOURCES}
 	perl -i~ -nE 's@\%VERSION\%@${YEAR_V}\.${FRONT_V}\.${BACK_V}@; print;' $(patsubst %.pdf,%.svg.v,$@)
 	${INKSCAPE} -D --export-pdf-version=X-3 -o $@ $(patsubst %.pdf,%.svg.v,$@)
 	# Strip some non-idempotent cruft that pdfunite/poppler adds to
-    # the PDF, that makes the output non-reproducible
+	# the PDF, that makes the output non-reproducible
 	perl -i.orig -nE 's@(/ID \[\(.*\) \] )@@; $$match ||= length($$1); s@^(\d+)\r$$@$$1 - $$match@e if $$match; print; } BEGIN: { our $$match; } END: { say STDERR "Stripped $$match bytes" if $$match' $@
 
 ${DOCS_TARGET}: ${DOCS_SOURCE}
