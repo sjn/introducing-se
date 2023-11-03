@@ -769,7 +769,7 @@ Looking for another take on Street&nbsp;Epistemology?
 [![Street Epistemology Logo](dist/media/street-epistemology-logo.png)](https://streetepistemology.com)
 #### Street&nbsp;Epistemology
 
-[![QR Code image to introducing.se](dist/media/to-this-site-qr.png)](https://introducing.se Link to introducing.se website)
+![QR Code image to introducing.se](dist/media/to-this-site-qr.png)]
 #### Introducing.SE
 
 
